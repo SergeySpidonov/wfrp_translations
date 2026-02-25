@@ -13,7 +13,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 sys.stderr.reconfigure(encoding="utf-8")
 
 PDF_PATH   = "Enemy Within Campaign Volume 2 Death on the Reik.pdf"
-OUTPUT_DIR = "translations"
+OUTPUT_DIR = "translations/death-on-the-reik"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Шрифты-маркеры

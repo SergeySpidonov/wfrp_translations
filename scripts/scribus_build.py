@@ -16,7 +16,7 @@ import re
 WORK_DIR   = r"C:/Users/user/Desktop/ВФРП"
 PDF_PATH   = os.path.join(WORK_DIR, "Enemy Within Campaign Volume 2 Death on the Reik.pdf")
 RENDER_DIR = os.path.join(WORK_DIR, "renders")
-TRANS_DIR  = os.path.join(WORK_DIR, "translations")
+TRANS_DIR  = os.path.join(WORK_DIR, "translations", "death-on-the-reik")
 
 PAGE_W = 609.449
 PAGE_H = 765.354

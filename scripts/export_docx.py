@@ -14,7 +14,7 @@ from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
-TRANS_DIR   = "translations"
+TRANS_DIR   = "translations/death-on-the-reik"
 OUTPUT_FILE = "Смерть на Рейке — билингвальный текст.docx"
 
 def parse_file(filepath):

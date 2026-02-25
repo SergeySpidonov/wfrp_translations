@@ -10,7 +10,7 @@ generate_sla.py — создаёт Scribus-документ (.sla) с ориги
 
 Требования:
     - Папка renders/ с JPEG-рендерами страниц (python scripts/render_pages.py)
-    - Папка translations/ с *_ru.txt и *_blocks.json
+    - Папка translations/death-on-the-reik/ с *_ru.txt и *_blocks.json
     - В Scribus установлен шрифт EB Garamond (или изменить FONT_* ниже)
 """
 
@@ -24,7 +24,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 # ── Пути ──────────────────────────────────────────────────────────────────────
 RENDER_DIR  = "renders"
-TRANS_DIR   = "translations"
+TRANS_DIR   = "translations/death-on-the-reik"
 OUTPUT_SLA  = "Смерть_на_Рейке.sla"
 
 # ── Размер страницы (в пунктах, из оригинального PDF) ─────────────────────────

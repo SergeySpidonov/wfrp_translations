@@ -13,7 +13,7 @@ import json
 import re
 
 WORK_DIR  = r"C:/Users/user/Desktop/ВФРП"
-TRANS_DIR = os.path.join(WORK_DIR, "translations")
+TRANS_DIR = os.path.join(WORK_DIR, "translations", "death-on-the-reik")
 TOTAL     = 160
 
 FONT_REG  = "EB Garamond Regular"

@@ -14,7 +14,7 @@ sys.stderr.reconfigure(encoding="utf-8")
 
 PDF_PATH      = "Enemy Within Campaign Volume 2 Death on the Reik.pdf"
 OUTPUT_PATH   = "Смерть на Рейке (v1-0).pdf"
-TRANS_DIR     = "translations"
+TRANS_DIR     = "translations/death-on-the-reik"
 
 # Файлы шрифтов с кириллицей (Windows)
 FONT_FILES = {
