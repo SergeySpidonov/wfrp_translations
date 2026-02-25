@@ -1,0 +1,71 @@
+=== СТРАНИЦА 15 ===
+
+A terrified girl is hiding among a pile of rags and boxes in one corner of the cellar. A Human Character who makes an
+
+[B] Average (+20) Fellowship
+
+Test will convince the girl that the adventurers mean her no harm. A non-human character must make a
+
+[B] Challenging (+0) Fellowship
+
+Test.
+
+If the Test fails this, she will try to dodge around them and escape. Any adventurer between her and the door can grab her by making an opposed
+
+[B] Challenging (+0) Initiative/Dodge
+
+Test. She wriggles and tries to bite anyone holding her. The bite is a normal attack, and causes 1 Wound to the holding arm.
+
+Anyone bitten must make a
+
+[B] Challenging (+0) Endurance
+
+Test to keep a hold. The adventurers may repeat the
+
+[B] Challenging (+0) Fellowship
+
+Test every Round until they calm her down.
+
+Once calm, the girl will say that her name is Liza. She is ten years old, and an orphan: she thinks that Elvyra is her mother’s sister, but she is not certain. She works for Elvyra, cleaning the house and fetching and carrying in return for bed and board. If she is asked what happened to Elvyra, she says that some men came to see her two days ago, and then left after a lot of shouting. After their visit, Elvyra warned her to stay away from The Happy Man inn.
+
+The following day, Liza was banished to the cellar after Elvyra caught her playing with her pretty coloured powders. Soon after there was a lot of noise from above, and she heard Elvyra scream. She also heard one of the men shouting something about ‘Taking her to the red barn’. The noise went on for a long time, and Liza hid among the boxes and stayed very still, hoping no one would find her. Everything has been quiet since then, but she has not dared to leave the cellar. When she heard the adventurers moving about in the house, she went up the steps to try to see what was going on. They frightened her when they opened the door.
+
+This is all Liza can tell them. She has no idea who the men were or what they wanted, and she can only describe them as big and rough and smelly.
+
+Elvyra’s pharmaceutical cabinet is carefully hidden in the cellar. It is concealed behind a section of fake wall and it will take a very thorough search to find it. It will require a
+
+[B] Hard (-20) Perception
+
+Test to spot the wall panel, and it has a very complex lock. Opening this requires a
+
+[B] Hard (-20) Lock Pick
+
+Test, SL 5. You should feel free to improvise the cabinet’s contents. If the adventurers look for a specific remedy or herb, they will find 1D6 doses of the desired preparation.
+
+Once rescued, Elvyra will be willing to sell the adventurers up to half her stock in the cabinet at a 50% discount. If the adventurers simply help themselves to her property she will be quite angry until she has been paid in full for her wares.
+
+[B] D& E. Bedrooms
+
+These two simple bedrooms each contain a wooden bedstead with feather mattresses and pillows, a washstand, bowl and jug, and a chest of drawers. Both rooms have been thoroughly ransacked. The mattresses and pillows have been cut open, and stuffing is strewn about the room, mixed with a tangle of bedding, clothes and other items.
+
+[H1] KIDNAPPED!
+
+Alberich Hollzauber, a daemonologist in Altdorf, has discovered that Elvyra is wanted there under another name. He is using this information to try to blackmail her. Some of Hollzauber’s minions arrived in Weissbruck two days ago, with a message threatening to turn her in to the authorities there unless she gave him some rare and skilfully mixed ingredients for a powerful spell.
+
+Elvyra rejected their demands and threats until the daemonologist’s lackeys grew frustrated. They kidnapped her and gathered up every ingredient they could find in the house. The plan is to take her to their master in Altdorf. As the adventurers arrive in Weissbruck, the thugs are holding Elvyra in a disused barn just outside the town, not far from the canal.
+
+[H2] The Watch
+
+Elvyra is unpopular in certain quarters due to her fraudulent medicines, including the commander of Weissbruck’s Watch.
+
+Reporting the apparent crime to the town Watch has little effect. The half-dozen volunteer watchmen have their hands full keeping order in the town, and are aware of their commander’s low opinion of Elvyra. They are even busier when miners from the nearby Delfgruber mine visit to drink away their pay. Elvyra simply isn’t wealthy or influential enough to merit more than the promise of an investigation, maybe, possibly, at some point, in the fullness of time… perhaps. It should quickly become clear that the adventurers are pretty much Elvyra’s only hope of rescue. Saying that, the watchmen are not entirely unhelpful, and one of them will offer to look after Liza with his wife until Elvyra can be found.
+
+[H2] The Happy Man
+
+The adventurers need to win over the locals to get any information in The Happy Man inn. They can buy drinks, entertain the crowd, or simply chat to people and turn on the charm. Making an
+
+[B] Average (+20) Charm
+
+Test will determine how people react to them and, depending on what questions are asked and how much drink is poured, the adventurers can obtain one piece of information for each Test.
+
+Three strangers did stay at the inn a few days ago. Last night they settled up and left. The landlord remembers that they were expecting to meet ‘a boatman friend’ who was to take them to Altdorf, but he wasn’t due until tomorrow morning.

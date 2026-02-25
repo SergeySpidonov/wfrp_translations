@@ -1,0 +1,352 @@
+[
+  {
+    "type": "h1",
+    "text": "THE PHARMACIST",
+    "bbox": [
+      82.20469665527344,
+      58.24282455444336,
+      219.9736785888672,
+      80.89082336425781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Elvyra Kleinestun is well known in Weissbruck, and nearly everyone local can tell the adventurers where to find her. Elvyra’s home (see the map below) is a simple, two-up-two- down cottage near The Happy Man inn. The cottage is well kept and recently painted, with window boxes of herbs and flowers. As the adventurers approach, however, they will notice that one of the windows has been smashed and its window box is broken. An adventurer making an",
+    "bbox": [
+      82.20469665527344,
+      89.27777862548828,
+      316.76739501953125,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Perception",
+    "bbox": [
+      82.20469665527344,
+      170.47772216796875,
+      316.76739501953125,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will see that it was smashed from the outside, and that a couple of threads caught on a broken glass show that someone has climbed through it. Looking through the window, the signs of a violent struggle are obvious, with broken furniture, glass, and so on.",
+    "bbox": [
+      82.20469665527344,
+      182.07781982421875,
+      316.76739501953125,
+      243.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There are no signs of life in the house, and knocking doesn’t bring anyone to the door. The house seems deserted. The door lock is a normal one, and requires a",
+    "bbox": [
+      326.4566955566406,
+      66.07770538330078,
+      560.9894409179688,
+      104.59571838378906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Pick Lock",
+    "bbox": [
+      326.4566955566406,
+      89.27771759033203,
+      560.9894409179688,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, SL 2 to open.",
+    "bbox": [
+      326.4566955566406,
+      100.87769317626953,
+      560.9894409179688,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers search the house, each one can make a",
+    "bbox": [
+      326.4566955566406,
+      124.07770538330078,
+      561.0299682617188,
+      139.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Perception",
+    "bbox": [
+      326.4566955566406,
+      124.07770538330078,
+      561.0299682617188,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test or",
+    "bbox": [
+      326.4566955566406,
+      135.67767333984375,
+      561.0299682617188,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Very Hard (-30) Intelligence",
+    "bbox": [
+      326.4566955566406,
+      135.67767333984375,
+      561.0299682617188,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. Any who succeed will notice that there are no drugs, herbs, or other ingredients around the place. This is very odd for a pharmacist’s house.",
+    "bbox": [
+      326.4566955566406,
+      135.67767333984375,
+      561.0299682617188,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "A. Parlour",
+    "bbox": [
+      326.4566955566406,
+      190.6716766357422,
+      560.9974365234375,
+      211.09567260742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This room has been thoroughly wrecked and there is broken glass on the floor. A",
+    "bbox": [
+      326.4566955566406,
+      205.2777099609375,
+      560.9974365234375,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Very Hard (-30) Perception",
+    "bbox": [
+      326.4566955566406,
+      216.877685546875,
+      560.9974365234375,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test reveals traces of blood on a few slivers of glass, but there is no discernible blood trail that goes anywhere. A",
+    "bbox": [
+      326.4566955566406,
+      216.877685546875,
+      560.9974365234375,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Perception",
+    "bbox": [
+      326.4566955566406,
+      240.07769775390625,
+      560.9974365234375,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test turns up a handwritten note (Handout 2, below).",
+    "bbox": [
+      326.4566955566406,
+      251.67770385742188,
+      560.9974365234375,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "B. Kitchen/Storeroom",
+    "bbox": [
+      326.4566955566406,
+      364.6717224121094,
+      561.0049438476562,
+      385.095703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The kitchen has been thoroughly ransacked. The contents of the shelves and cupboards have been thrown on to the floor alongside pots, pans, and broken crockery.",
+    "bbox": [
+      326.4566955566406,
+      379.2777099609375,
+      561.0049438476562,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The steps to the cellar are concealed behind a large cupboard in the kitchen, and the hidden door will only be noticed if the Characters look behind it. An",
+    "bbox": [
+      326.4566955566406,
+      425.6777038574219,
+      561.031005859375,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Perception",
+    "bbox": [
+      326.4566955566406,
+      448.877685546875,
+      561.031005859375,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will reveal a slight draft from behind the cupboard. If the hidden door is not discovered, you can give the adventurers a",
+    "bbox": [
+      326.4566955566406,
+      460.4776916503906,
+      561.031005859375,
+      487.39569091796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Very Easy (+60) Perception",
+    "bbox": [
+      326.4566955566406,
+      483.6777038574219,
+      561.031005859375,
+      498.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to hear a faint noise coming from the cellar. The noise is slightly louder near the cupboard.",
+    "bbox": [
+      326.4566955566406,
+      483.6777038574219,
+      561.031005859375,
+      510.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "C. Cellar",
+    "bbox": [
+      326.4566955566406,
+      515.4717407226562,
+      561.0327758789062,
+      535.895751953125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The hidden door opens on to a steep, narrow flight of steps leading 15 ft down into the cellar. As the adventurers open the door, a small, indistinct shape shoots to the bottom of the stairs and is lost in the darkness. Anyone who makes a",
+    "bbox": [
+      326.4566955566406,
+      530.0776977539062,
+      561.0327758789062,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Initiative",
+    "bbox": [
+      326.4566955566406,
+      564.877685546875,
+      561.0327758789062,
+      591.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test is not surprised. The mysterious shape is about 3 ft high and humanoid, but nothing else can be seen in the dim light. Characters with the Night Vision Talent will be able to see something moving behind a jumble of boxes. There is a faint scrabbling noise from the cellar, then silence.",
+    "bbox": [
+      326.4566955566406,
+      576.4777221679688,
+      561.0327758789062,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There is a missing step about halfway down the stairs. If the first Character down the stairs has the Night Vision Talent, a light, or makes an",
+    "bbox": [
+      326.4566955566406,
+      646.0776977539062,
+      561.0149536132812,
+      684.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Perception",
+    "bbox": [
+      326.4566955566406,
+      669.2777099609375,
+      561.0149536132812,
+      684.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, the gap is spotted. If not the Character must make a",
+    "bbox": [
+      326.4566955566406,
+      669.2777099609375,
+      561.0149536132812,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Very Hard (-30) Agility",
+    "bbox": [
+      326.4566955566406,
+      680.877685546875,
+      561.0149536132812,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test or fall down the steps. Anyone falling the 6 ft to the cellar floor ends up with a twisted ankle; Movement and Initiative are halved for 1d10 hours.",
+    "bbox": [
+      326.4566955566406,
+      680.877685546875,
+      561.0149536132812,
+      730.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This is your final warning! Deliver the goods to the Red Barn by sunset tonight!",
+    "bbox": [
+      343.2266540527344,
+      276.2070007324219,
+      540.1426391601562,
+      349.81982421875
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "type": "h1",
+    "text": "BLOOD FEUD",
+    "bbox": [
+      50.74020004272461,
+      475.84271240234375,
+      155.1452178955078,
+      498.49072265625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers killed either of the two Dwarfs in the inn, they are now involved in a blood feud. Every night, they are attacked by 2-5 Dwarfs. If the adventurers are careless enough to split up or go out alone, the Dwarfs will take full advantage. These attacks take place at any time when the adventurers are at a location with good escape routes for their attackers. The Dwarfs have no wish to run into other humans or the Watch.",
+    "bbox": [
+      50.74020004272461,
+      506.877685546875,
+      285.326171875,
+      591.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers will be in the greatest danger if they venture into Khazid Slumbol while the feud is in effect. The whole population of the shanty town surround them, trying to look nonchalant while clumsily hiding hammers and other improvised weapons behind their backs. Only a complete idiot fails to notice the tension in the air. The adventurers have 3 or 4 Rounds to leave before a sudden cry rings out and the Dwarfs rush them.",
+    "bbox": [
+      50.74020004272461,
+      599.6776733398438,
+      285.314453125,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There are 15 Dwarfs in the clan when the adventurers first reach Grissenwald. If the number of Dwarfs is reduced to six or fewer through fighting, the remainder mount a final, desperate, all- out attack, led by Gorim Greathammer. The adventurers can end this feud by proving that the Dwarfs are not responsible for the raids.",
+    "bbox": [
+      294.9920959472656,
+      483.6777038574219,
+      529.565673828125,
+      556.9956665039062
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Khazid Slumbol",
+    "bbox": [
+      294.9920959472656,
+      557.9296875,
+      529.565673828125,
+      579.3856811523438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "More than two dozen Dwarfs live in this ramshackle collection of wooden huts. They were originally built well, but there has been little or no upkeep since. These Dwarfs are the last remaining miners, their money gone on drink.",
+    "bbox": [
+      294.9920959472656,
+      576.4777221679688,
+      529.565673828125,
+      626.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Even if there is no blood feud, any Elf visiting Khazid Slumbol will be heckled, pelted with rotten vegetables, and generally made unwelcome. Humans get a better reception, though little more than sullen stares. A Character wishing to talk with Gorim Greathammer must make a",
+    "bbox": [
+      294.9920959472656,
+      634.4777221679688,
+      529.5503540039062,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Charm",
+    "bbox": [
+      294.9920959472656,
+      680.877685546875,
+      529.5503540039062,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. Elves have a further penalty of -50, while Dwarfs get a +10 bonus.",
+    "bbox": [
+      294.9920959472656,
+      680.877685546875,
+      529.5503540039062,
+      707.7957153320312
+    ]
+  }
+]

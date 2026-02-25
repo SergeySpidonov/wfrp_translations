@@ -1,0 +1,162 @@
+[
+  {
+    "type": "h1",
+    "text": "ETELKA'S TOWER",
+    "bbox": [
+      82.20469665527344,
+      58.24282455444336,
+      212.10768127441406,
+      80.89082336425781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The two-storey tower house, below, is made from slabs of stone and is of Dwarven construction.",
+    "bbox": [
+      82.20469665527344,
+      89.27771759033203,
+      316.7583312988281,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Ground Floor",
+    "bbox": [
+      82.20469665527344,
+      117.12982177734375,
+      316.7583312988281,
+      138.58583068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The ground floor is paved with polished slabs of red stone. Light is provided by the window and by mirrors at the top of the stairwell. Each room has a two-way mirror which looks onto the stairwell. The mirror is reflective on one side and transparent on the other, which makes it ideal for observing the stairwell and allows light into the rooms. From the stairwell, only the mirrors can be seen; it is impossible to look into the rooms without opening the doors.",
+    "bbox": [
+      82.20469665527344,
+      135.67767333984375,
+      316.7583312988281,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "1. Hallway —",
+    "bbox": [
+      82.20469665527344,
+      240.07781982421875,
+      316.7740478515625,
+      255.3958282470703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "During the day there will be a sleeping Goblin ‘on guard’ here. Whether there is a raid in progress or not, there is always a guard here at night. At that time, the guard is more alert and is likely to see anyone who approaches.",
+    "bbox": [
+      82.20469665527344,
+      240.07781982421875,
+      316.7740478515625,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "2. Staircase —",
+    "bbox": [
+      82.20469665527344,
+      298.0777893066406,
+      316.77032470703125,
+      313.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A stone staircase leads up to the first floor. Any Character on the stairs is clearly visible from any adjoining room through the two-way mirrors.",
+    "bbox": [
+      82.20469665527344,
+      298.0777893066406,
+      316.77032470703125,
+      336.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "3. Closet —",
+    "bbox": [
+      326.4566955566406,
+      66.07770538330078,
+      561.0133056640625,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This contains cleaning equipment and a few Human and Halfling cloaks. It smells like a toilet, and has evidently been used as one by the Goblins.",
+    "bbox": [
+      326.4566955566406,
+      66.07770538330078,
+      561.0133056640625,
+      104.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Tied up in a corner are Gurda and Hanse, taken from their farm by the Goblins. They have seen their family, friends, and neighbours slain and eaten, and if freed they will attack the Goblins with no regard for their own safety (gaining the Frenzy Talent). If they survive, they will leave to rebuild their farm.",
+    "bbox": [
+      326.4566955566406,
+      112.47772979736328,
+      561.0328369140625,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "4 & 5. Reception Rooms —",
+    "bbox": [
+      326.4566955566406,
+      182.07769775390625,
+      560.9957885742188,
+      197.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "These rooms once contained fine, upholstered furniture. Subsequently, the Goblins destroyed every piece and turned the stuffing into crude, filthy piles of bedding in the corners of the rooms.",
+    "bbox": [
+      326.4566955566406,
+      182.07769775390625,
+      560.9957885742188,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "These two rooms are also used to store the Goblins’ supplies of 21 torches (Room 4) and 234 arrows (Room 5). There are four Goblins in each room unless the tribe is out on a raid.",
+    "bbox": [
+      326.4566955566406,
+      240.07769775390625,
+      561.0147705078125,
+      278.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "6. Dining Room —",
+    "bbox": [
+      326.4566955566406,
+      286.4776916503906,
+      561.0147705078125,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A large wooden table stands in the middle of the room, surrounded by eight high-backed wooden chairs. Cabinets around the walls once contained silver and other dining ware, but their doors hang open and they are gouged and befouled.",
+    "bbox": [
+      326.4566955566406,
+      286.4776916503906,
+      561.0147705078125,
+      348.1956787109375
+    ]
+  }
+]

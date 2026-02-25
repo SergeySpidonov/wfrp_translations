@@ -1,0 +1,59 @@
+=== СТРАНИЦА 60 ===
+
+Once the other three Skaven are in position, Crot moves to capture the party. If they surrender, the adventurers will be held at sword-point while Crot tortures one of them for information — and entertainment. Crot starts with Corrobreth the Druid, and the Skaven will be absorbed by the torture, giving the adventurers a chance to escape or overpower them.
+
+If the party seems reluctant to fight, the ghostly Brunhilde may attack first, unable to bear the thought of being cheated out of her eternal rest after coming so close. With a blood-curdling howl she launches herself at the Skaven, causing the ratmen to suffer the Surprised Condition for the first Round of combat.
+
+[B] CROT SCABACK – SKAVEN CHAMPION
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+5 60 45 35 45 55 50 30 30 25 20 14
+
+[B] Talents & Traits:
+
+Armour 4, Dual Wield, Infected, Night Vision, Shieldman 2, Tail Attack +7, Tracker, Weapon +8
+
+[B] Skills:
+
+Dodge 60, Melee (Basic) 70
+
+[B] Trappings:
+
+Breastplate, Dagger, Helmet, Mace Head (On Tail), Mail Shirt, Shield, Sword
+
+[B] SKAVEN WARRIORS (CLANRATS: 7)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+5 30 30 30 30 40 35 30 30 20 20 11
+
+[B] Talents & Traits:
+
+Armour 2, Infected, Night Vision, Shieldman 2, Skittish, Tracker, Weapon +7
+
+[B] Skills:
+
+Dodge 55, Melee (Basic) 50
+
+[B] Trappings:
+
+Helmet, Mail Coat, Shield, Sword
+
+Fire in the Mountains
+
+Fire in the Mountains Fire and Blood
+
+If the Characters have not previously encountered Skaven, be sure to give them some time to discuss what they have seen. The creatures are considered myth, or at best long extinct, throughout much of the Empire. As the Characters have discovered, this is anything but true. The ratmen will appear again, both later in
+
+[B] Death on the Reik
+
+, and in future installments of
+
+[B] The Enemy Within
+
+campaign.
+
+[B] B. The Cave of the Dead
+
+The cave entrance is sealed by a rockfall. From behind the rocks comes a barely audible scraping sound. From outside, the rockfall can be cleared in two hours. As soon as a man-sized hole has been cleared, a skeleton in tattered chainmail armour lurches through the opening and attacks. As it fights, it begs to be destroyed.

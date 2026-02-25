@@ -1,0 +1,342 @@
+[
+  {
+    "type": "h1",
+    "text": "NON-PLAYER CHARACTERS",
+    "bbox": [
+      82.20469665527344,
+      69.84268188476562,
+      287.42181396484375,
+      92.49067687988281
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Villagers",
+    "bbox": [
+      82.20469665527344,
+      105.52972412109375,
+      316.75286865234375,
+      126.98572540283203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The villagers of the Baumenvolk are a hardy lot. The nearby forest, and the Barren Hills beyond, have encouraged them to be well prepared for interlopers. You may use the profile given on page 52, Grissenwald Farmers and Farm Labourers, for their statistics, but each adult in the village has a 50% chance of carrying a shortbow. If so, they also have a Ranged (Bow) Skill of 35.",
+    "bbox": [
+      82.20469665527344,
+      124.07770538330078,
+      316.75286865234375,
+      204.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Corrobreth the Priest",
+    "bbox": [
+      326.4566955566406,
+      306.6717224121094,
+      561.024658203125,
+      327.095703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Corrobreth’s face bears deep score-marks down each side of his cheeks, which are very evident when he smiles. He does not indulge in casual conversation, but when he does speak it is to offer advice or provide important information. Like all followers of Rhya, he avoids taking life unless it is necessary for sustenance or defence. Consequently, he prefers to avoid conflict, relying on stealth or compromise to avoid danger.",
+    "bbox": [
+      326.4566955566406,
+      321.2777099609375,
+      561.024658203125,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Corrobreth is aware of the changes caused by the warpstone meteorite. He knows the location of the meteor crater, and of the monoliths erected around it. He has never had any cause to go to the site himself, but he is willing to act as the adventurers’ guide.",
+    "bbox": [
+      326.4566955566406,
+      414.07769775390625,
+      561.0238647460938,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "VORSTER THE ELDER – HUMAN VILLAGE ELDER (SILVER 2)",
+    "bbox": [
+      121.64679718017578,
+      481.0762939453125,
+      269.00579833984375,
+      504.5962829589844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      95.62159729003906,
+      508.67608642578125,
+      295.265380859375,
+      520.5960693359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 48 30 44 46 29 45 28 44 32 56 15",
+    "bbox": [
+      97.13159942626953,
+      523.1430053710938,
+      295.7702941894531,
+      538.4609985351562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      93.56220245361328,
+      542.4468994140625,
+      250.52252197265625,
+      557.764892578125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Leather Jack) 1, Weapon (Two-Handed Woodsman’s Axe) +10",
+    "bbox": [
+      93.56220245361328,
+      542.4468994140625,
+      250.52252197265625,
+      568.5648803710938
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      93.56220245361328,
+      566.881591796875,
+      300.7332763671875,
+      582.1995849609375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animal Care 54, Athletics 50, Bribery 71, Charm 74, Consume Alcohol 56, Cool 35, Dodge 50, Endurance 53, Entertain (Storytelling) 73, Evaluate 49, Gossip 73, Haggle 71, Intimidate 53, Intuition 44, Language (Bretonnian) 49, Leadership 72, Lore (Local 60, Reikland 47), Melee (Basic 54, Brawling) 56, Two-Handed 60), Outdoor Survival 59, Ranged (Bow) 35",
+    "bbox": [
+      93.56220245361328,
+      566.881591796875,
+      300.7332763671875,
+      657.7996215820312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      93.56220245361328,
+      656.1162109375,
+      280.0851135253906,
+      671.4342041015625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animal Affinity, Attractive, Dealmaker 2, Doomed ( Thy Death Shall Be Unknown To Thee ), Public Speaker, Read/Write, Resistance (Disease)",
+    "bbox": [
+      93.56220245361328,
+      656.1162109375,
+      280.0851135253906,
+      693.0341796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      93.56220245361328,
+      691.3508911132812,
+      303.1309814453125,
+      706.6688842773438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Leather Jack, Two-Handed Woodsman’s Axe",
+    "bbox": [
+      93.56220245361328,
+      691.3508911132812,
+      303.1309814453125,
+      706.6688842773438
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "CORROBRETH THE PRIEST – HUMAN PRIEST (SILVER 1)",
+    "bbox": [
+      383.9147033691406,
+      482.89239501953125,
+      496.013671875,
+      506.4123840332031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      339.8546142578125,
+      510.4923095703125,
+      539.4984130859375,
+      522.4122924804688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 33 31 30 33 32 32 30 39 41 38 13",
+    "bbox": [
+      341.3645935058594,
+      524.9591064453125,
+      540.00341796875,
+      540.277099609375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      337.7951965332031,
+      544.2631225585938,
+      437.97283935546875,
+      559.5811157226562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Weapon (Sword) +7",
+    "bbox": [
+      337.7951965332031,
+      544.2631225585938,
+      437.97283935546875,
+      559.5811157226562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      337.7951965332031,
+      557.897705078125,
+      527.6035766601562,
+      573.2156982421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animal Care 44, Athletics 37, Charm 44, Cool 47, Endurance 38, Evaluate 44, Haggle 41, Heal 50, Intimidate 35, Intuition 39, Leadership 41, Lore (Reikland 44, Theology 46), Melee (Basic) 43, Perception 40, Pray 44, Research 44, Row 37",
+    "bbox": [
+      337.7951965332031,
+      557.897705078125,
+      527.6035766601562,
+      616.4157104492188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      337.7951965332031,
+      614.7323608398438,
+      527.485107421875,
+      630.0503540039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Bless (Rhya), Invoke (Rhya), Night Vision, Orientation, Read/Write, Resistance (Poison), Savvy",
+    "bbox": [
+      337.7951965332031,
+      614.7323608398438,
+      527.485107421875,
+      640.8504028320312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      337.7951965332031,
+      639.1669921875,
+      535.8998413085938,
+      654.4849853515625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Pet Raven, Raft, Religious Symbol, Robes, Sack, Staff, Sword",
+    "bbox": [
+      337.7951965332031,
+      639.1669921875,
+      535.8998413085938,
+      665.2849731445312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Blessings:",
+    "bbox": [
+      337.7951965332031,
+      663.6016845703125,
+      549.6564331054688,
+      678.919677734375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Breath, Conscience, Grace, Healing, Protection, Recuperation",
+    "bbox": [
+      337.7951965332031,
+      663.6016845703125,
+      549.6564331054688,
+      689.7196655273438
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Miracles:",
+    "bbox": [
+      337.7951965332031,
+      688.0363159179688,
+      543.1719360351562,
+      703.3543090820312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Rhya’s Children, Rhya’s Harvest, Rhya’s Touch",
+    "bbox": [
+      337.7951965332031,
+      688.0363159179688,
+      543.1719360351562,
+      703.3543090820312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Vorster the Elder",
+    "bbox": [
+      82.20469665527344,
+      399.4718322753906,
+      316.7538146972656,
+      419.89581298828125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Vorster has been Elder for 12 years, and is liked and respected in the village. He is a friendly and congenial individual who delights in entertaining guests. He takes great pains to ensure their comfort, although he does so in such a way that it appears natural and effortless.",
+    "bbox": [
+      82.20469665527344,
+      414.0777893066406,
+      316.7538146972656,
+      475.7958068847656
+    ]
+  }
+]

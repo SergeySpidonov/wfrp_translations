@@ -1,0 +1,42 @@
+[
+  {
+    "type": "body",
+    "text": "If the Characters move towards the buzzing mass, hundreds of flies swarm into air, revealing a decaying human body. The flies are harmless, and will settle back onto the corpse after a few minutes. The body once had four arms, but they have all been sawn off; the bones and a surgical saw can be found in a bucket under the bench. Having developed a taste for human flesh, Rousseaux has arranged for the cannibals to bring him bodies.",
+    "bbox": [
+      82.86609649658203,
+      321.2777099609375,
+      315.8942565917969,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "On the table are a set of scales, a pipette, and assorted vials of coloured water and sand. One of these vials contains warpstone dust. There is also a gallon jar of rotgut, a length of rubber tubing, a funnel, and a stock of empty blue bottles.",
+    "bbox": [
+      82.86609649658203,
+      414.0777893066406,
+      315.8627624511719,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "F-H. Bedrooms",
+    "bbox": [
+      326.16900634765625,
+      399.4718322753906,
+      561.6946411132812,
+      419.89581298828125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "These rooms are where Rousseaux (F), Frau Blucher (G) and Kurt (H) sleep. There is a miniature portrait of Lady Margritte over Rousseaux’s bed. On his dressing table is a jar containing a white salve, and another containing the white powder that he uses to treat his flaking skin.",
+    "bbox": [
+      326.16900634765625,
+      414.07769775390625,
+      561.6946411132812,
+      475.7958068847656
+    ]
+  }
+]

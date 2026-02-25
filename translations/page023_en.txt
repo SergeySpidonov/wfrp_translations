@@ -1,0 +1,77 @@
+=== СТРАНИЦА 23 ===
+
+[B] RIVER PATROL CAPTAIN – HUMAN SHIPSWORD (SILVER 4)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 45 43 51 30 40 28 27 30 31 43 14
+
+[B] Traits:
+
+Armour (Mail Shirt and Helmet) 2, Weapon (Sword) +9, Ranged (Pistol) +8
+
+[B] Skills:
+
+Athletics 35, Charm 46, Cool 40, Dodge 39, Endurance 35, Haggle 48, Intimidate 61, Intuition 48, Leadership 55, Lore (Reikland 35, Riverways 41), Melee (Basic) 57, Perception 48, Ranged (Blackpowder) 55, Row 61, Sail 42, Swim 64
+
+[B] Talents:
+
+Fearless (Wreckers) 2, Hatred (Wreckers), Pilot, Sea Legs, Strong Swimmer 2,Waterman
+
+[B] Trappings:
+
+Grappling Hook, Helmet, Lantern & Oil, Mail Shirt, Pistol (with 10 shots), Uniform, Shield, Sword,
+
+[B] RIVER PATROL CREW – HUMAN RIVER RECRUIT
+
+[B] (SILVER 1)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 35 30 40 30 30 30 35 30 30 25 13
+
+[B] Traits:
+
+Armour (Leather Jack) 1, Weapon (Sword) +8
+
+[B] Skills:
+
+Dodge 35, Melee (Basic) 40, Perception 35, Row 45, Sail 35, Swim 45
+
+[B] Talents:
+
+Very Strong
+
+[B] Trappings:
+
+Leather Jack, Uniform, Sword
+
+[B] PURPLE HAND CULTIST (???)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 30 30 30 30 30 30 30 30 30 25 12
+
+[B] Traits:
+
+Weapon +6
+
+[B] Skills:
+
+Secret Signs (Purple Hand); other Skills at GM’s discretion, according to cover.
+
+[B] Trappings:
+
+Purple Hand Tattoo, Some Purple Item of Clothing, others at GM’s discretion.
+
+[H2] The River Patrol
+
+The river patrol boat has a crew of 2+D10 River Wardens, which includes one Captain. They are typically serious individuals who take their duties seriously, but tend to treat fellow Riverfolk with fairness.
+
+[H2] The Cultists
+
+All the Purple Hand cultists have some item of clothing that is purple: a tunic, cloak, belt, or something else. After three or four cultist encounters, begin making secret
+
+[B] Challenging (+0) Intelligence
+
+Tests for the adventurers to spot this purple theme. Also, every cultist has a small purple tattoo of an open hand, somewhere on their bodies. Although the cultists have a variety of occupations which provide them with suitable cover stories, they all have a number of Skills in common, that are listed below. In addition, they have whatever non-combat Skills are consistent with their cover and the situation in which they are encountered.

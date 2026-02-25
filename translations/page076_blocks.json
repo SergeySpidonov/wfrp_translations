@@ -1,0 +1,162 @@
+[
+  {
+    "type": "h2",
+    "text": "4. The Temple of Sigmar",
+    "bbox": [
+      326.4566955566406,
+      59.129825592041016,
+      561.0236206054688,
+      80.58582305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Abandoned when the village priest was mysteriously killed six months ago, the Temple of Sigmar has been taken over by the cannibals. Asking about the temple and its priest will be met with silence, or muttered excuses about ‘ some pressing business .’ Only Rousseaux will answer the adventurers’ enquiries, explaining that the priest was killed in a freak accident when a decorative spike was blown off the temple roof during a sudden storm and skewered him as he ran for shelter. The temple contains much information that should help the Players understand what is going on in the Barony of Wittgenstein.",
+    "bbox": [
+      326.4566955566406,
+      77.67768096923828,
+      561.0236206054688,
+      197.3958282470703
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Entering the Temple",
+    "bbox": [
+      326.4566955566406,
+      202.2717742919922,
+      561.0345458984375,
+      222.69577026367188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "During the day, there will be no sign of any cannibals in any area above ground. If not already involved in a fight, there is a 25% chance of encountering 1D10 cannibals for every five minutes of game time spent underground in the crypts, mausoleum, or tunnels. At night, this chance increases to 40%, and there is also a 25% chance of running into 1D10 cannibals in those areas of the temple that are not described as ‘avoided by the cannibals’.",
+    "bbox": [
+      326.4566955566406,
+      216.8778076171875,
+      561.0345458984375,
+      301.7958068847656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "A — Foyer",
+    "bbox": [
+      326.4566955566406,
+      306.67181396484375,
+      561.0139770507812,
+      327.0957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This antechamber contains only a broken wooden offertory stand from which the silver alms tray has been stolen. Frescoes on all four walls depict famous scenes from the Life of Sigmar.",
+    "bbox": [
+      326.4566955566406,
+      321.2778015136719,
+      561.0139770507812,
+      359.7958068847656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "B— Temple",
+    "bbox": [
+      326.4566955566406,
+      364.67181396484375,
+      561.031982421875,
+      385.0957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The cannibals avoid this consecrated area. Built over the site of the village’s first temple, centuries of worship have given this room a permanent aura with the effects of a Zone of Sanctuary Miracle (see box.) A large altar stands on a raised dais at the south-eastern end of the temple, and behind it is a stone statue of Sigmar. The god’s right hand is raised as though in blessing, but is in fact a cleverly concealed lever that causes the altar to descend silently into the crypt below (raising the arm raises the altar again). In the far corners of the dais are two magical lanterns on stands. They burn continually without fuel, and cannot be extinguished unless removed from the temple, nor relit until they are returned.",
+    "bbox": [
+      326.4566955566406,
+      379.2778015136719,
+      561.031982421875,
+      522.19580078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The vaulted ceiling is decorated with an elaborate script in the Classical language. Any Character who has the skill may make an",
+    "bbox": [
+      326.4566955566406,
+      530.0778198242188,
+      561.0239868164062,
+      568.5957641601562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Language (Classical)",
+    "bbox": [
+      326.4566955566406,
+      553.2777709960938,
+      561.0239868164062,
+      568.5957641601562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to understand it. The inscription is a kind of short hand version of the temple’s history. It tells how it was founded during the reign of Emperor Boris I. Characters with the",
+    "bbox": [
+      326.4566955566406,
+      553.2777709960938,
+      561.0239868164062,
+      603.3958129882812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Lore (History)",
+    "bbox": [
+      326.4566955566406,
+      588.0778198242188,
+      561.0239868164062,
+      603.3958129882812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Skill may recall the information about Boris ‘Goldgather’, see",
+    "bbox": [
+      326.4566955566406,
+      588.0778198242188,
+      561.0239868164062,
+      614.9957885742188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      326.4566955566406,
+      599.6777954101562,
+      561.0239868164062,
+      614.9957885742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "page 273. It also says that the temple was built on the site of one of Sigmar’s legendary battles. Another part of the inscription eulogises a knight named Siegfried von Kesselring who defended the newly-built temple against an assault by Beastmen led by a Warrior of Chaos. With the aid of Barrakul, his magical sword, he was able to hold off the assault until reinforcements arrived, but was fatally wounded in the process. He was buried, together with his sword, in the temple’s crypt in a funeral conducted by the Grand Theogonist himself.",
+    "bbox": [
+      326.4566955566406,
+      599.6777954101562,
+      561.0239868164062,
+      719.3958129882812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      95.60060119628906,
+      310.971923828125,
+      306.36865234375,
+      322.9619140625
+    ]
+  }
+]

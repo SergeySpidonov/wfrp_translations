@@ -1,0 +1,282 @@
+[
+  {
+    "type": "bold",
+    "text": "C — Priest’s Room",
+    "bbox": [
+      82.20469665527344,
+      63.07170104980469,
+      316.7799987792969,
+      83.4957046508789
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This room was once simply furnished with a plain cot, a chest for clothing and other belongings, and a shelf bearing for books and religious images. It is now a complete mess as the cannibals have ransacked the room and apparently tried to set fire to it, but without success.",
+    "bbox": [
+      82.20469665527344,
+      77.67768096923828,
+      316.7799987792969,
+      139.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "D — Room of Records",
+    "bbox": [
+      82.20469665527344,
+      341.4717102050781,
+      316.7816467285156,
+      361.89569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The door to this room has a magical lock. It may only be unlocked with the key from the altar (Area B, page 76) or it can be broken down (TB 5, W 15). The cannibals started hacking at the door but gave up before inflicting any serious damage.",
+    "bbox": [
+      82.20469665527344,
+      356.07769775390625,
+      316.7816467285156,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Inside, there is a large writing desk with equipment for illuminating manuscripts, and shelf after shelf of scrolls and books, which do not appear to be in any particular order. All of Wittgendorf ’s records are here, including centuries of harvests, births, deaths, marriages, and so on. Characters with the Read/ Write Talent will turn up one of the following clues for each hour spent searching these records.",
+    "bbox": [
+      82.20469665527344,
+      414.07769775390625,
+      316.7629089355469,
+      498.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Until about 100 years ago, the area produced crops in abundance, and was famous for its fine wines.",
+    "bbox": [
+      82.20469665527344,
+      506.877685546875,
+      316.75830078125,
+      533.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The brother of the local baron, Dagmar von Wittgenstein, was renowned as an astronomer, and suspected of researching sorcery. He disappeared for a while on an expedition into the Barren Hills. He returned alone, bearing a large, lead-lined crate. The next harvest was a disaster. The crops failed completely and wine from even the finest vineyard turned sour. With each succeeding year, things got worse. Peasants began to leave the area, while those who stayed slowly starved.",
+    "bbox": [
+      82.20469665527344,
+      541.6776733398438,
+      316.75286865234375,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "In more recent history, the storm of two years ago is also recorded. Its effects echo the decline that occurred after Dagmar’s return to the castle — see Winds of Change on page 69. After the storm the malaise afflicting the land clearly escalated, from mutated animals and people to warped vegetation. There are no entries dated later than six months ago.",
+    "bbox": [
+      82.20469665527344,
+      646.0776977539062,
+      316.7447204589844,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "E — Kitchen and Stores",
+    "bbox": [
+      326.4566955566406,
+      63.07170104980469,
+      561.035400390625,
+      83.4957046508789
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Once plainly furnished with items that might be found in any Reikland kitchen, this room is now filthy. The cupboards have all been ransacked and the crockery smashed. If no cannibals are encountered in here, the adventurers will disturb a group of rats chewing on a pile of bones in one corner. The rats are not aggressive and can easily be frightened away. Characters may make a",
+    "bbox": [
+      326.4566955566406,
+      77.67768096923828,
+      561.035400390625,
+      162.59571838378906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Heal",
+    "bbox": [
+      326.4566955566406,
+      147.2777099609375,
+      561.035400390625,
+      162.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, or an appropriate (",
+    "bbox": [
+      326.4566955566406,
+      147.2777099609375,
+      561.035400390625,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Apothecary",
+    "bbox": [
+      326.4566955566406,
+      158.877685546875,
+      561.035400390625,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "or",
+    "bbox": [
+      326.4566955566406,
+      158.877685546875,
+      561.035400390625,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Embalmer",
+    "bbox": [
+      326.4566955566406,
+      158.877685546875,
+      561.035400390625,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": ")",
+    "bbox": [
+      326.4566955566406,
+      158.877685546875,
+      561.035400390625,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Trade",
+    "bbox": [
+      326.4566955566406,
+      158.877685546875,
+      561.035400390625,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to identify the bones as human.",
+    "bbox": [
+      326.4566955566406,
+      158.877685546875,
+      561.035400390625,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "F — Receiving Room",
+    "bbox": [
+      326.4566955566406,
+      190.6716766357422,
+      561.025634765625,
+      211.09567260742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This is the room where corpses were prepared for burial. It is now a filthy mess. There is a large table in the middle of the room, and various ceremonial bowls and robes lie smashed and torn about the floor. There is nothing of value to be found.",
+    "bbox": [
+      326.4566955566406,
+      205.2777099609375,
+      561.025634765625,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "G — Crypts",
+    "bbox": [
+      326.4566955566406,
+      260.271728515625,
+      561.0294189453125,
+      280.6957092285156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The crypts are dank, dark, and dismal. Human Characters will need a light source to see anything. The niches (except one: see below) which once held the corpses of former priests and other notable villagers have been broken open and their occupants removed by the cannibals. Gnawed bones litter the floor, and a freshly-dug tunnel may be found behind one burial spot (see map on page 77), leading to a network of tunnels beneath the village.",
+    "bbox": [
+      326.4566955566406,
+      274.877685546875,
+      561.0294189453125,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The only unopened niche bears a plaque which is still legible despite its age: ‘Here lyeth the body of Siegfried von Kesselring, loyal Servant of Sigmar. An honoured Templar and man of courage. May his soul find everlasting peace.’",
+    "bbox": [
+      326.4566955566406,
+      379.2777099609375,
+      561.0275268554688,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Characters who have received Sigmar’s blessing in the temple (Area B, above) will see this inscription glow. Opening the niche reveals a skeleton in rusted (and useless) plate armour. On his breast is a shining longsword, sheathed in a gem-encrusted scabbard, both as spotless as the day they were placed in the tomb. Anyone attempting to draw the sword must make a",
+    "bbox": [
+      326.4566955566406,
+      437.2777099609375,
+      561.0238037109375,
+      510.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Willpower",
+    "bbox": [
+      326.4566955566406,
+      506.877685546875,
+      561.0238037109375,
+      522.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. If successful, this Character may draw and wield the sword, otherwise they will never be able to draw it.",
+    "bbox": [
+      326.4566955566406,
+      506.877685546875,
+      561.0238037109375,
+      545.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "ZONE OF SANCTUARY",
+    "bbox": [
+      152.57009887695312,
+      161.25701904296875,
+      243.18911743164062,
+      173.17701721191406
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Range: Target: Duration:",
+    "bbox": [
+      93.09230041503906,
+      182.2257080078125,
+      210.09173583984375,
+      217.41571044921875
+    ]
+  }
+]

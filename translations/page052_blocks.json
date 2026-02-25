@@ -1,0 +1,622 @@
+[
+  {
+    "type": "h1",
+    "text": "NON-PLAYER CHARACTERS",
+    "bbox": [
+      82.20469665527344,
+      69.84268188476562,
+      287.42181396484375,
+      92.49067687988281
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Grissenwald Farmers\nand Farm Labourers",
+    "bbox": [
+      82.20469665527344,
+      101.39898681640625,
+      248.3444061279297,
+      138.85499572753906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WATCH SERGEANT (SILVER 3)",
+    "bbox": [
+      383.30419921875,
+      70.22167205810547,
+      501.48321533203125,
+      82.14167785644531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      342.6893005371094,
+      87.82152557373047,
+      542.3330688476562,
+      99.74153137207031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 50 30 45 30 45 30 25 30 40 45 17",
+    "bbox": [
+      344.1991882324219,
+      102.16339874267578,
+      542.8380737304688,
+      117.48139953613281
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      337.7951965332031,
+      116.59803009033203,
+      550.2313232421875,
+      131.91603088378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Weapon (Sword) +8, Armour (Breastplate) 2",
+    "bbox": [
+      337.7951965332031,
+      116.59803009033203,
+      550.2313232421875,
+      131.91603088378906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      337.7951965332031,
+      128.1981201171875,
+      550.2313232421875,
+      143.51612854003906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Charm 50, Climb 50, Cool 55, Dodge 40, Endurance 35, Entertain (Storytelling) 50, Gamble 35, Intimidate 60, Intuition 55, Leadership 60, Lore (Law 45, Local 45), Melee (Basic) 65, Perception 55",
+    "bbox": [
+      337.7951965332031,
+      128.1981201171875,
+      550.2313232421875,
+      178.3159942626953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      337.7951965332031,
+      177.43267822265625,
+      526.7047119140625,
+      192.7506866455078
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Etiquette (Soldiers), Fearless (Criminals), Hardy, Nose for Trouble, Strike to Stun",
+    "bbox": [
+      337.7951965332031,
+      177.43267822265625,
+      526.7047119140625,
+      204.35072326660156
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      337.7951965332031,
+      203.46728515625,
+      476.7554626464844,
+      218.78529357910156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Breastplate, Helm, Sword",
+    "bbox": [
+      337.7951965332031,
+      203.46728515625,
+      476.7554626464844,
+      218.78529357910156
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WATCH RECRUIT (BRASS 3)",
+    "bbox": [
+      387.9342041015625,
+      233.724609375,
+      496.854248046875,
+      245.6446075439453
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      342.6893005371094,
+      251.32452392578125,
+      542.3330688476562,
+      263.2445068359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 40 30 35 30 30 30 25 30 30 35 12",
+    "bbox": [
+      344.1991882324219,
+      265.6662902832031,
+      542.8380737304688,
+      280.9842834472656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      337.7951965332031,
+      280.10101318359375,
+      530.2327880859375,
+      295.41900634765625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Leather Jack) 1, Weapon (Club) +7",
+    "bbox": [
+      337.7951965332031,
+      280.10101318359375,
+      530.2327880859375,
+      295.41900634765625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      337.7951965332031,
+      294.53558349609375,
+      541.5994262695312,
+      309.85357666015625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Athletics 35, Consume Alcohol 35, Dodge 35, Gamble 35, Melee (Basic) 45, Perception 35",
+    "bbox": [
+      337.7951965332031,
+      294.53558349609375,
+      541.5994262695312,
+      321.4535827636719
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      337.7951965332031,
+      320.5703125,
+      454.777587890625,
+      335.8883056640625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Drilled, Strike to Stun",
+    "bbox": [
+      337.7951965332031,
+      320.5703125,
+      454.777587890625,
+      335.8883056640625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      337.7951965332031,
+      335.0049133300781,
+      487.73358154296875,
+      350.3229064941406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Club, Leather Jack, Uniform",
+    "bbox": [
+      337.7951965332031,
+      335.0049133300781,
+      487.73358154296875,
+      350.3229064941406
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "DURAK DIMHOLT – WOUNDED DWARF PROSPECTOR (BRASS 2)",
+    "bbox": [
+      351.69500732421875,
+      522.376708984375,
+      533.083984375,
+      545.8966674804688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      342.6846008300781,
+      549.9766235351562,
+      542.328369140625,
+      561.8966064453125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "3 44 29 40 47 29 20 36 32 56 22 17",
+    "bbox": [
+      344.1944885253906,
+      564.3184204101562,
+      542.8333740234375,
+      579.6364135742188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      337.7904968261719,
+      578.7531127929688,
+      527.8701782226562,
+      594.0711059570312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Leather Jack) 1, Prejudice (Elves), Weapon (Hand-Axe) +8, Weapon (Pick) +9",
+    "bbox": [
+      337.7904968261719,
+      578.7531127929688,
+      527.8701782226562,
+      605.6710815429688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      337.7904968261719,
+      604.7877197265625,
+      538.2738647460938,
+      620.105712890625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Consume Alcohol 50, Endurance 52, Intuition 34, Language (Khazalid) 35, Lore (Dwarfs 35, Geology 37, Local 37, Metallurgy 37), Melee (Two- handed) 49, Perception 34, Trade (Carpentry) 41",
+    "bbox": [
+      337.7904968261719,
+      604.7877197265625,
+      538.2738647460938,
+      654.9057006835938
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      337.7904968261719,
+      654.0223999023438,
+      515.4410400390625,
+      669.3403930664062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Magic Resistance, Night Vision, Read/ Write, Resolute, Strider (Rocky), Sturdy",
+    "bbox": [
+      337.7904968261719,
+      654.0223999023438,
+      515.4410400390625,
+      680.9403076171875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      337.7904968261719,
+      680.0570068359375,
+      540.1367797851562,
+      695.375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Axe, Leather Jack, Pack, Pick, Prospecting Pan, Shovel, Tent, 1D10 Silver shillings",
+    "bbox": [
+      337.7904968261719,
+      680.0570068359375,
+      540.1367797851562,
+      706.9749755859375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Dwarfs of Khazid Slumbol",
+    "bbox": [
+      326.4660949707031,
+      360.7297058105469,
+      528.486572265625,
+      382.1856994628906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Durak Dimholt",
+    "bbox": [
+      326.0010070800781,
+      387.8717041015625,
+      561.468017578125,
+      408.2956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Durak is a dour and determined character who has stuck with his clan through thick and thin, despite wanting to leave after the mine was sold. He was ambushed by a Goblin patrol while out hunting. If he is saved Durak will be very grateful, and after he has healed fully he will be interested in joining the adventurers and putting Khazid Slumbol behind him. However, if the party includes one or more Elves, they must each make a",
+    "bbox": [
+      326.0010070800781,
+      402.4778137207031,
+      561.468017578125,
+      487.3957824707031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Charm",
+    "bbox": [
+      326.0010070800781,
+      472.0777893066406,
+      561.468017578125,
+      498.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test or Durak will refuse to accompany them.",
+    "bbox": [
+      326.0010070800781,
+      483.6777038574219,
+      561.468017578125,
+      498.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "GURDA AND HANSE – HUMAN PEASANTS (BRASS 2)",
+    "bbox": [
+      135.88619995117188,
+      303.4464111328125,
+      261.5252380371094,
+      326.9664001464844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      99.0010986328125,
+      331.0462951660156,
+      298.6448974609375,
+      342.9662780761719
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 33 31 35 38 31 30 28 29 31 32 12",
+    "bbox": [
+      100.51110076904297,
+      345.38818359375,
+      299.1498107910156,
+      360.7061767578125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      94.10700225830078,
+      359.8227844238281,
+      198.67752075195312,
+      375.1407775878906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Hatred (Greenskins)",
+    "bbox": [
+      94.10700225830078,
+      359.8227844238281,
+      198.67752075195312,
+      375.1407775878906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      94.10700225830078,
+      374.25738525390625,
+      275.4654235839844,
+      389.57537841796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animal Care 34, Athletics 34, Charm 35, Consume Alcohol 43, Cool 36, Endurance 44, Gossip 37, Haggle 35, Lore (Local) 37, Melee (Basic 38, Brawling 37), Outdoor Survival 36",
+    "bbox": [
+      94.10700225830078,
+      374.25738525390625,
+      275.4654235839844,
+      424.3753967285156
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      94.10700225830078,
+      423.4920959472656,
+      220.466552734375,
+      438.8100891113281
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Stone Soup, Strong Back",
+    "bbox": [
+      94.10700225830078,
+      423.4920959472656,
+      220.466552734375,
+      438.8100891113281
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "HUMAN VILLAGERS (BRASS 3)",
+    "bbox": [
+      137.92469787597656,
+      146.67852783203125,
+      258.1347351074219,
+      158.59852600097656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      98.32460021972656,
+      168.4783935546875,
+      297.9683837890625,
+      180.3983917236328
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 35 30 35 35 30 35 30 30 30 30 12",
+    "bbox": [
+      99.83460235595703,
+      182.8203125,
+      298.473388671875,
+      198.13832092285156
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      93.43060302734375,
+      197.2548828125,
+      206.38900756835938,
+      212.57289123535156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Weapon (Pitchfork) +7",
+    "bbox": [
+      93.43060302734375,
+      197.2548828125,
+      206.38900756835938,
+      212.57289123535156
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      93.43060302734375,
+      211.6895751953125,
+      269.6589660644531,
+      227.00758361816406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animal Care 35, Athletics 40, Drive 40, Endurance 45, Entertain (Storytelling) 35, Gossip 35, Haggle 35, Lore (Local) 40, Melee (Basic 40, Brawling 40), Outdoor Survival 35",
+    "bbox": [
+      93.43060302734375,
+      211.6895751953125,
+      269.6589660644531,
+      261.8075866699219
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      93.43060302734375,
+      260.9241943359375,
+      219.03404235839844,
+      276.2421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Stone Soup, Strong Back",
+    "bbox": [
+      93.43060302734375,
+      260.9241943359375,
+      219.03404235839844,
+      276.2421875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      93.43060302734375,
+      275.35888671875,
+      201.1768798828125,
+      290.6768798828125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Pitchfork, Shovel",
+    "bbox": [
+      93.43060302734375,
+      275.35888671875,
+      201.1768798828125,
+      290.6768798828125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Grissenwald Town Watch",
+    "bbox": [
+      82.76840209960938,
+      453.5298156738281,
+      316.6101379394531,
+      474.9858093261719
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A typical patrol consists of three Watch Recruits, led by an experienced Watch Sergeant.",
+    "bbox": [
+      82.76840209960938,
+      472.0777893066406,
+      316.6101379394531,
+      498.99578857421875
+    ]
+  }
+]

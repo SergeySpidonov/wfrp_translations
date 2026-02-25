@@ -1,0 +1,69 @@
+=== СТРАНИЦА 22 ===
+
+[B] LIZA SAUBER, HUMAN CHILD (BRASS 1)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 28 31 25 27 33 35 31 28 32 35 7
+
+[B] Traits:
+
+Small
+
+[B] Skills:
+
+Dodge 40, Gossip 60
+
+[B] KIDNAPPERS (3) — HUMAN THUG (BRASS 3)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 40 30 40 35 35 35 30 25 30 25 13
+
+[B] Traits:
+
+Weapon (Club) +8, Weapon (Dagger) +6, Armour (Leather Jack) 1
+
+[B] Skills:
+
+Consume Alcohol 40, Cool 35, Dodge 40, Evaluate 30, Intimidate 45, Melee (Basic 45, Brawling 45), Stealth (Urban) 40
+
+[B] Talents:
+
+Criminal, Menacing
+
+[B] Trappings:
+
+Club, Dagger, Leather Jack
+
+[B] ELVYRA KLEINESTUN HUMAN MASTER APOTHECARY (SILVER 3)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 31 24 27 53 59 36 69 65 64 62 18
+
+[B] Traits:
+
+Prejudice (Bookish folk), Weapon (Dagger) +4
+
+[B] Skills:
+
+Bribery 72, Charm 82, Dodge 41, Drive 74, Consume Alcohol 73, Cool 74, Endurance 58, Entertain (Acting 72, Storytelling 77), Evaluate 75, Gamble 70, Gossip 90, Haggle 80, Heal 85, Intuition 79, Language (Classical 80, Guilder 70), Leadership 67, Lore (Medicine 80, Plants 80, Reikland 70), Melee (Basic) 34, Perception 74, Secret Signs 75, Sleight of Hand 51, Trade (Apothecary 89, Poisoner 89)
+
+[B] Talents:
+
+Blather, Coolheaded, Concoct, Craftsman (Apothecary), Criminal 2, Doomed ( A sister thine, shall unleash a crime ), Etiquette (Criminals), Fast Hands, Field Dressing, Master Tradesman (Apothecary), Luck 2, Pharmacist, Read/Write, Resistance (Poison)
+
+[H2] The Missing Pharmacist
+
+In her late 30s with light brown hair and dark-blue eyes, Elvyra has an engaging, outgoing personality. Beneath her glib exterior lies a penetrating mind with a great enthusiasm for drugs, herbs, and other medical preparations.
+
+She can talk shop all day and most of the night, and is always delighted to make the acquaintance of anyone with similar interests. However, she tends to regard physicians as stuck-up bookworms with little practical knowledge and followers of Verena as simpering idiots with more faith than intelligence, so any such Characters must show that they are truly interested, and preferably knowledgeable, before she warms to them.
+
+Elvyra has lived in Weissbruck for the past two years. Originally from Altdorf, she moved not long after she decided that there was more money in fleecing people than in manufacturing and selling genuine medicines — although she still provides the real thing to her neighbours and anyone else she likes. The characters will probably have met her in Bögenhafen.
+
+[H2] The Pharmacist’s Girl, Liza Sauber
+
+Liza wears a simple smock and goes about barefoot. She is very fond of Elvyra, and will do whatever she can to help her.
+
+[H2] The Red Barn Kidnappers

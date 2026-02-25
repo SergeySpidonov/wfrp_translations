@@ -1,0 +1,442 @@
+[
+  {
+    "type": "h1",
+    "text": "RESOLUTION",
+    "bbox": [
+      50.74020004272461,
+      58.24282455444336,
+      153.11221313476562,
+      80.89082336425781
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Rewards",
+    "bbox": [
+      50.74020004272461,
+      93.9296875,
+      285.3055725097656,
+      115.38568878173828
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Beyond any points you offer for good roleplaying and clever ideas at the end of the session, XP should be awarded for the following:",
+    "bbox": [
+      50.74020004272461,
+      112.47772979736328,
+      285.3055725097656,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "10 points for helping to complete the Signal Tower.",
+    "bbox": [
+      50.74020004272461,
+      152.14697265625,
+      258.26904296875,
+      167.46498107910156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "15 points for defeating the Ghoul.",
+    "bbox": [
+      50.74020004272461,
+      165.78167724609375,
+      194.7649688720703,
+      181.0996856689453
+    ]
+  },
+  {
+    "type": "body",
+    "text": "25 points for defeating the zombies and recovering their keys.",
+    "bbox": [
+      50.74020004272461,
+      179.41632080078125,
+      245.57908630371094,
+      205.53431701660156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "50 points for accessing the secret library (Note: they will need the 6th key from the Barren Hills to do so).",
+    "bbox": [
+      50.74020004272461,
+      203.85101318359375,
+      280.3271789550781,
+      229.96888732910156
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "NON-PLAYER CHARACTERS",
+    "bbox": [
+      50.74020004272461,
+      243.84271240234375,
+      255.95730590820312,
+      266.49072265625
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Red Crown Cultists",
+    "bbox": [
+      50.74020004272461,
+      279.5296936035156,
+      210.8319091796875,
+      300.9856872558594
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Etelka Herzen – Human Master Wizard",
+    "bbox": [
+      50.74020004272461,
+      503.8717041015625,
+      285.31719970703125,
+      524.2957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "On the surface, Etelka is a friendly but reserved noblewoman of medium build, with shoulder-length blonde hair, and blue eyes. Underneath, she is ruthless in the pursuit of her aims, and deals harshly with any interference. In order to conceal her identity, she only uses magic when there are unlikely to be witnesses (or survivors). If confronted, she usually waits a Round or two before deciding to cast spells. Etelka’s presence is unmistakable, for her corruption is slowly bubbling out of her. Her skin exudes a very pungent odour, which she masks with strong perfumes. The fragrance sometimes lingers behind her for as much as 15 minutes, and anyone entering an area that she has recently left will not fail to notice it.",
+    "bbox": [
+      50.74020004272461,
+      518.4777221679688,
+      285.31719970703125,
+      661.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Shadow the Cat",
+    "bbox": [
+      50.74020004272461,
+      666.271728515625,
+      285.2883605957031,
+      686.6957397460938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Etelka’s black cat, Shadow, accompanies her wherever she goes. Although Shadow appears intelligent, with a disconcertingly knowing look in her eyes, she is an ordinary black cat.",
+    "bbox": [
+      50.74020004272461,
+      680.877685546875,
+      285.2883605957031,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      311.2247009277344,
+      88.76628875732422,
+      510.8684997558594,
+      100.68629455566406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 42 27 29 30 49 40 28 56 52 31 13",
+    "bbox": [
+      312.7347106933594,
+      103.10822296142578,
+      511.3735046386719,
+      118.42622375488281
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      306.3306884765625,
+      120.37751007080078,
+      467.1413269042969,
+      135.6955108642578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Corruption (Moderate), Spellcaster (Chaos – Tzeentch), Weapon (Dagger) +4",
+    "bbox": [
+      306.3306884765625,
+      120.37751007080078,
+      467.1413269042969,
+      147.2954864501953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      306.3306884765625,
+      149.246826171875,
+      512.0977783203125,
+      164.56483459472656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animal Care 59, Channelling (Tzeentch) 62, Charm 46, Cool 64, Dodge 46, Evaluate 64, Gossip 36, Intimidate 39, Intuition 59, Language (Battle) 60, Language (Bretonnian 59, Classical 67, Magick 69), Leadership 36, Lore (Magick) 68, Melee (Basic 52, Polearm 47), Perception 57, Ride (Horse) 45",
+    "bbox": [
+      306.3306884765625,
+      149.246826171875,
+      512.0977783203125,
+      222.56483459472656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      306.3306884765625,
+      224.51611328125,
+      478.626220703125,
+      239.83412170410156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Aethyric Attunement, Arcane Magic (Tzeentch), Attractive, Doomed ( Beware the Light! ), Instictive Diction 3, Magical Sense, Petty Magic, Read/Write, Second Sight",
+    "bbox": [
+      306.3306884765625,
+      224.51611328125,
+      478.626220703125,
+      274.63409423828125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      306.3306884765625,
+      276.58538818359375,
+      495.5189208984375,
+      291.90338134765625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dagger, Gold Earrings (10 GCs each), Gold Rings (2, worth 15 GCs each), Potion of Flight, Travelling Case, Wand of Onyx, 67 GCs,",
+    "bbox": [
+      306.3306884765625,
+      276.58538818359375,
+      495.5189208984375,
+      315.1033935546875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "SPELLS",
+    "bbox": [
+      393.82080078125,
+      317.0546875,
+      428.8659362792969,
+      332.3726806640625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Petty Magic:",
+    "bbox": [
+      306.3306884765625,
+      331.4892883300781,
+      512.7188110351562,
+      346.8072814941406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dazzle, Drain, Eavesdrop, Light, Open Lock, Rot, Sounds, Warning",
+    "bbox": [
+      306.3306884765625,
+      331.4892883300781,
+      512.7188110351562,
+      358.40728759765625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Arcane Magic:",
+    "bbox": [
+      306.3306884765625,
+      354.6893005371094,
+      512.7188110351562,
+      370.0072937011719
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Aethyric Armour, Blast, Chain Attack, Dark Vision, Entangle, Flight, Mundane Aura, Teleport",
+    "bbox": [
+      306.3306884765625,
+      354.6893005371094,
+      512.7188110351562,
+      381.6072998046875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Lore of Tzeentch:",
+    "bbox": [
+      306.3306884765625,
+      377.8893127441406,
+      512.7188110351562,
+      393.2073059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Treason of Tzeentch",
+    "bbox": [
+      306.3306884765625,
+      377.8893127441406,
+      512.7188110351562,
+      393.2073059082031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "TRAVELLING CASE",
+    "bbox": [
+      365.9212951660156,
+      395.1585998535156,
+      456.7664489746094,
+      410.4765930175781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Etelka’s case contains her personal possessions and dozens of vials of perfume. These are very small and may easily be mistaken for potions. There is a wide range of fragrances in the vials, although lavender and musk are Etelka’s favourites, and make up the majority.",
+    "bbox": [
+      306.3306884765625,
+      409.5932922363281,
+      518.6680297851562,
+      471.311279296875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "POTION OF FLIGHT",
+    "bbox": [
+      363.1763916015625,
+      473.26251220703125,
+      459.51068115234375,
+      488.58050537109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "When drunk, this potion affects the drinker as a Flight Spell (",
+    "bbox": [
+      306.3306884765625,
+      487.69720458984375,
+      518.6423950195312,
+      514.615234375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      306.3306884765625,
+      499.2972106933594,
+      518.6423950195312,
+      514.615234375
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 244). The effect lasts for 20 Rounds, minus the drinker’s Toughness bonus.",
+    "bbox": [
+      306.3306884765625,
+      499.2972106933594,
+      518.6423950195312,
+      526.2152099609375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WAND OF ONYX",
+    "bbox": [
+      373.827392578125,
+      528.16650390625,
+      448.8604431152344,
+      543.4844970703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This wand of polished, black mineral acts as a well of power. Once per day the bearer of the wand, when casting a spell of up to CN 5, can consider that spell to have been Critically Cast with Total Power (WFRP page 234). On doing so, roll 1d100. If the result is less than or equal to the CN of the spell, the wand shatters and is destroyed, dealing 1d10 Wounds to each Character within 2 yards.",
+    "bbox": [
+      306.3306884765625,
+      542.6011352539062,
+      518.6688232421875,
+      627.5191040039062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "ETELKA HERZEN HUMAN MASTER WIZARD (GOLD 1)",
+    "bbox": [
+      340.98480224609375,
+      58.889522552490234,
+      482.1547546386719,
+      82.40950012207031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "SHADOW THE CAT",
+    "bbox": [
+      371.1791076660156,
+      641.0275268554688,
+      448.36810302734375,
+      652.947509765625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      310.06939697265625,
+      658.62744140625,
+      509.71319580078125,
+      670.5474243164062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 25 - 10 20 45 40 - 15 15 15 5",
+    "bbox": [
+      311.57940673828125,
+      672.9692993164062,
+      507.96820068359375,
+      688.2872924804688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      305.1754150390625,
+      688.769287109375,
+      495.0399169921875,
+      704.0872802734375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Bestial, Night Vision, Skittish, Size (Small), Stride, Weapon +5",
+    "bbox": [
+      305.1754150390625,
+      688.769287109375,
+      495.0399169921875,
+      714.8872680664062
+    ]
+  }
+]

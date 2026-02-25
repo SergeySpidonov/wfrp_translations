@@ -1,0 +1,132 @@
+[
+  {
+    "type": "h1",
+    "text": "A BAD MOORING",
+    "bbox": [
+      82.20469665527344,
+      116.24282836914062,
+      214.97671508789062,
+      138.8908233642578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The village of Wittgendorf, see the map on page 71, lies on the west bank of the Reik, about a mile from Castle Wittgenstein. It was once thriving, but the arrival of the warpstone brought a dramatic decline in its fortunes.",
+    "bbox": [
+      82.20469665527344,
+      147.27777099609375,
+      316.7366943359375,
+      197.3958282470703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The atmosphere in the surrounding forest is oppressive. Huge, bloated butterflies and moths flit between the contorted trees, and large grubs crawl across the forest floor. The air is filled with unnerving sounds: growls, hisses, and cries are heard constantly.",
+    "bbox": [
+      82.20469665527344,
+      205.27777099609375,
+      316.74951171875,
+      255.3958282470703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "At night, the creatures of the forest come out to hunt and the adventurers are likely to run into bands of mutants and Beastmen who thrive in this area. None of the villagers ever enter the forest at night, and all warn against it. If the adventurers do venture into the forest after dark, refer to Night in the Forest (page 80).",
+    "bbox": [
+      82.20469665527344,
+      263.2778015136719,
+      316.7627868652344,
+      336.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The village’s wharf (Location 1) is rarely used these days, as river traffic avoids the village and castle. Road traffic is almost non existent, and anyone travelling from Kemperbad to Nuln either goes by river or uses the road on the eastern bank.",
+    "bbox": [
+      82.20469665527344,
+      344.4778137207031,
+      316.7790832519531,
+      394.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Although it is still inhabited, Wittgendorf has the appearance of a ghost town. The streets are choked with debris and rank vegetation, and many of the buildings are in ruins. Half-starved dogs (and some emaciated people) roam the streets looking for food, frequently attacking each other in a ravenous madness. The current population comprises some 30 beggars, with about the same number of brow-beaten peasants and farm workers,",
+    "bbox": [
+      82.20469665527344,
+      402.4778137207031,
+      316.7610168457031,
+      487.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "plus a dozen or so degenerates who have taken to cannibalism. This last group has its lair at the abandoned temple of Sigmar (Location 4). The rest of the population either fled the village or formed a band of outlaws in the woods, while other unfortunates were carried off to the castle for Lady Margritte’s insane experiments (The Sorcerous Tower, page 114). All of the remaining villagers live in fear of the castle and its inhabitants, with the sole exception of the village physician, Jean Rousseaux (page 82).",
+    "bbox": [
+      326.4566955566406,
+      124.07782745361328,
+      561.0237426757812,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Arriving in Wittgendorf",
+    "bbox": [
+      326.4566955566406,
+      233.12969970703125,
+      561.0237426757812,
+      254.58570861816406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The town’s wharf (Location 1) is the only place to moor a vessel along this rocky stretch of the river.",
+    "bbox": [
+      326.4566955566406,
+      251.67770385742188,
+      561.0237426757812,
+      278.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Exploring the Village",
+    "bbox": [
+      326.4566955566406,
+      283.4717102050781,
+      561.019287109375,
+      303.89569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Most of the village is squalid and depressing, but there are two key locations: the physician’s house (Location 5) and the Temple of Sigmar (Location 4). The adventurers’ chances of success will be greatly increased if they have thoroughly explored both locations.",
+    "bbox": [
+      326.4566955566406,
+      298.07769775390625,
+      561.019287109375,
+      359.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Villagers",
+    "bbox": [
+      326.4566955566406,
+      364.6717224121094,
+      561.0146484375,
+      385.095703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The locals are wary of strangers, fearing that outsiders may bring the wrath of the Wittgensteins down upon them. Most of the villagers know of the outlaws in the forest, and many are sympathetic to their cause, but they will not tell the adventurers about them until the adventurers have proven themselves worthy of aid. If asked about the castle and its inhabitants, they will warn the adventurers to stay away for their own good, and for the good of the village: ‘ Leave us be, if you’ve any decency. Things are bad enough, and you’ll only make them worse. ’",
+    "bbox": [
+      326.4566955566406,
+      379.2777099609375,
+      561.0146484375,
+      487.39569091796875
+    ]
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "type": "body",
+    "text": "Once the other three Skaven are in position, Crot moves to capture the party. If they surrender, the adventurers will be held at sword-point while Crot tortures one of them for information — and entertainment. Crot starts with Corrobreth the Druid, and the Skaven will be absorbed by the torture, giving the adventurers a chance to escape or overpower them.",
+    "bbox": [
+      82.20469665527344,
+      66.07782745361328,
+      316.7799072265625,
+      139.3958282470703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the party seems reluctant to fight, the ghostly Brunhilde may attack first, unable to bear the thought of being cheated out of her eternal rest after coming so close. With a blood-curdling howl she launches herself at the Skaven, causing the ratmen to suffer the Surprised Condition for the first Round of combat.",
+    "bbox": [
+      82.20469665527344,
+      140.547119140625,
+      316.7807922363281,
+      199.0650177001953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "CROT SCABACK – SKAVEN CHAMPION",
+    "bbox": [
+      360.7250061035156,
+      479.822509765625,
+      518.39306640625,
+      491.74249267578125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      339.8547058105469,
+      495.8222961425781,
+      539.4984741210938,
+      507.7422790527344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "5 60 45 35 45 55 50 30 30 25 20 14",
+    "bbox": [
+      341.36468505859375,
+      510.2891845703125,
+      540.0034790039062,
+      525.607177734375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents & Traits:",
+    "bbox": [
+      337.7952880859375,
+      530.3931884765625,
+      549.6461181640625,
+      545.711181640625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour 4, Dual Wield, Infected, Night Vision, Shieldman 2, Tail Attack +7, Tracker, Weapon +8",
+    "bbox": [
+      337.7952880859375,
+      530.3931884765625,
+      549.6461181640625,
+      557.3112182617188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      337.7952880859375,
+      556.4277954101562,
+      467.3046875,
+      571.7457885742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dodge 60, Melee (Basic) 70",
+    "bbox": [
+      337.7952880859375,
+      556.4277954101562,
+      467.3046875,
+      571.7457885742188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      337.7952880859375,
+      570.8623657226562,
+      549.6718139648438,
+      586.1803588867188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Breastplate, Dagger, Helmet, Mace Head (On Tail), Mail Shirt, Shield, Sword",
+    "bbox": [
+      337.7952880859375,
+      570.8623657226562,
+      549.6718139648438,
+      597.7803955078125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "SKAVEN WARRIORS (CLANRATS: 7)",
+    "bbox": [
+      371.1997985839844,
+      604.6102905273438,
+      507.9188537597656,
+      616.5302734375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      339.8547058105469,
+      620.6102294921875,
+      539.4984741210938,
+      632.5302124023438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "5 30 30 30 30 40 35 30 30 20 20 11",
+    "bbox": [
+      341.36468505859375,
+      635.0770874023438,
+      540.0034790039062,
+      650.3950805664062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents & Traits:",
+    "bbox": [
+      337.7952880859375,
+      652.3463745117188,
+      549.6430053710938,
+      667.6643676757812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour 2, Infected, Night Vision, Shieldman 2, Skittish, Tracker, Weapon +7",
+    "bbox": [
+      337.7952880859375,
+      652.3463745117188,
+      549.6430053710938,
+      679.264404296875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      337.7952880859375,
+      678.3809814453125,
+      467.3046875,
+      693.698974609375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dodge 55, Melee (Basic) 50",
+    "bbox": [
+      337.7952880859375,
+      678.3809814453125,
+      467.3046875,
+      693.698974609375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      337.7952880859375,
+      692.8156127929688,
+      508.7226867675781,
+      708.1336059570312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Helmet, Mail Coat, Shield, Sword",
+    "bbox": [
+      337.7952880859375,
+      692.8156127929688,
+      508.7226867675781,
+      708.1336059570312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Fire in the Mountains",
+    "bbox": [
+      93.54329681396484,
+      263.42572021484375,
+      306.392333984375,
+      275.41571044921875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Fire in the Mountains Fire and Blood",
+    "bbox": [
+      93.54329681396484,
+      402.6257019042969,
+      306.3726806640625,
+      449.41571044921875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the Characters have not previously encountered Skaven, be sure to give them some time to discuss what they have seen. The creatures are considered myth, or at best long extinct, throughout much of the Empire. As the Characters have discovered, this is anything but true. The ratmen will appear again, both later in",
+    "bbox": [
+      82.20469665527344,
+      541.6776733398438,
+      316.77008056640625,
+      603.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Death on the Reik",
+    "bbox": [
+      82.20469665527344,
+      599.6776733398438,
+      316.77008056640625,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", and in future installments of",
+    "bbox": [
+      82.20469665527344,
+      599.6776733398438,
+      316.77008056640625,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Enemy Within",
+    "bbox": [
+      82.20469665527344,
+      599.6776733398438,
+      316.77008056640625,
+      626.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "campaign.",
+    "bbox": [
+      82.20469665527344,
+      611.2777099609375,
+      316.77008056640625,
+      626.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "B. The Cave of the Dead",
+    "bbox": [
+      82.20469665527344,
+      631.4717407226562,
+      316.78082275390625,
+      651.895751953125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The cave entrance is sealed by a rockfall. From behind the rocks comes a barely audible scraping sound. From outside, the rockfall can be cleared in two hours. As soon as a man-sized hole has been cleared, a skeleton in tattered chainmail armour lurches through the opening and attacks. As it fights, it begs to be destroyed.",
+    "bbox": [
+      82.20469665527344,
+      646.0776977539062,
+      316.78082275390625,
+      719.3956909179688
+    ]
+  }
+]

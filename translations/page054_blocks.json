@@ -1,0 +1,122 @@
+[
+  {
+    "type": "body",
+    "text": "The adventurers will have at least one reason to travel to the Barren Hills. The clues found in Etelka Herzen’s tower at Black Peaks indicate that she is travelling there for the Red Crown cult, and clues that they may have found in the study of Dagmar von Wittgenstein’s observatory also point to the same place.",
+    "bbox": [
+      82.20469665527344,
+      112.47779083251953,
+      316.7537536621094,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The journey to the Barren Hills takes the adventurers back down the Reik to Kemperbad and up the River Stir to its confluence with the Narn. Passing through the remote village of Unterbaum, the adventurers learn something about the area, and may come across traces of the Red Crown cultists’ passing.",
+    "bbox": [
+      82.20469665527344,
+      182.07781982421875,
+      316.7717590332031,
+      243.79579162597656
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "BACK TO KEMPERBAD",
+    "bbox": [
+      82.20469665527344,
+      255.44281005859375,
+      250.6567840576172,
+      278.0908203125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Information on Kemperbad can be found on page 33. As before, the adventurers have the opportunity to trade and train there, but the GM must keep track of how long they stay in the town and where the Red Crown expedition is at the time (see Timeline, page 26).",
+    "bbox": [
+      82.20469665527344,
+      286.4778137207031,
+      316.77984619140625,
+      348.1956787109375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Purple Hand Speaks",
+    "bbox": [
+      82.20469665527344,
+      349.1297912597656,
+      316.77984619140625,
+      370.5857849121094
+    ]
+  },
+  {
+    "type": "body",
+    "text": "While the party is in Kemperbad en route to or from the Barren Hills, Lieberung’s double is approached by a shifty-looking character who is ‘ not looking for trouble — just a quiet word in your ear .’ The cultist will flee at the first sign of any violence or spellcasting, but otherwise will deliver the following message in a harsh whisper.",
+    "bbox": [
+      82.20469665527344,
+      367.67779541015625,
+      316.77984619140625,
+      440.99578857421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘What’s your game, Kastor? Why haven’t you been in touch? I do hope you haven’t forgotten that you’re supposed to be delivering a little windfall to the Inner Circle!’",
+    "bbox": [
+      326.4566955566406,
+      112.47772979736328,
+      560.79833984375,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Unless the Player comes up with a convincing bluff that all is well (that he is on his way to deliver the money now, and so on), the cultist will be very suspicious. With a threatening scowl he will depart, hissing:",
+    "bbox": [
+      326.4566955566406,
+      158.877685546875,
+      561.0149536132812,
+      208.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘You can’t fool us, you know. Once a member, always a member! You haven’t heard the last of this!’",
+    "bbox": [
+      326.4566955566406,
+      216.877685546875,
+      560.7655029296875,
+      243.79579162597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Any attempt to stop the cultist will escalate into a full-scale brawl as he screams for help and accuses the adventurers of trying to rob or murder him. A hostile crowd will gather, and the cultist will escape in the confusion. A Watch patrol will arrive on the scene shortly afterwards and if they take a dislike to the adventurers — well-armed, suspicious-looking out-of- towners that they are, with no local trading connections to vouch for them — they will be fined half of whatever coin they happen to be carrying and released after a night in the cells.",
+    "bbox": [
+      326.4566955566406,
+      251.67779541015625,
+      561.0208740234375,
+      359.7958068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "For a typical cultist profile, see The Cultists, page 23.",
+    "bbox": [
+      326.4566955566406,
+      367.67779541015625,
+      520.6680297851562,
+      382.99578857421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If Lieberung’s double is dead, a cultist will instead approach one of the Characters with a very direct set of questions — ‘What have you done with Kastor, and where is the money?’ Pleas of ignorance will be met with disbelief and outright hostility, and it is made clear that a clock is ticking and only by producing Kastor or his inheritance will they make it stop.",
+    "bbox": [
+      326.4566955566406,
+      390.8778076171875,
+      561.013916015625,
+      464.19580078125
+    ]
+  }
+]

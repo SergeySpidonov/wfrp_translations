@@ -1,0 +1,342 @@
+[
+  {
+    "type": "bold",
+    "text": "LIZA SAUBER, HUMAN CHILD (BRASS 1)",
+    "bbox": [
+      116.19259643554688,
+      299.3752136230469,
+      273.5016174316406,
+      311.2951965332031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      95.14230346679688,
+      315.3751220703125,
+      294.7861022949219,
+      327.29510498046875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 28 31 25 27 33 35 31 28 32 35 7",
+    "bbox": [
+      96.65229797363281,
+      329.8420104980469,
+      293.0409851074219,
+      345.1600036621094
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      93.08290100097656,
+      346.3113098144531,
+      198.0492401123047,
+      361.6293029785156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Small",
+    "bbox": [
+      93.08290100097656,
+      346.3113098144531,
+      198.0492401123047,
+      361.6293029785156
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      93.08290100097656,
+      357.1112976074219,
+      198.0492401123047,
+      372.4292907714844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dodge 40, Gossip 60",
+    "bbox": [
+      93.08290100097656,
+      357.1112976074219,
+      198.0492401123047,
+      372.4292907714844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "KIDNAPPERS (3) — HUMAN THUG (BRASS 3)",
+    "bbox": [
+      105.8270034790039,
+      575.753173828125,
+      282.967041015625,
+      587.6731567382812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      94.69129943847656,
+      591.7531127929688,
+      294.3350830078125,
+      603.673095703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 40 30 40 35 35 35 30 25 30 25 13",
+    "bbox": [
+      96.20130157470703,
+      606.2199096679688,
+      294.840087890625,
+      621.5379028320312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      92.63189697265625,
+      625.5238647460938,
+      277.6068115234375,
+      640.8418579101562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Weapon (Club) +8, Weapon (Dagger) +6, Armour (Leather Jack) 1",
+    "bbox": [
+      92.63189697265625,
+      625.5238647460938,
+      277.6068115234375,
+      651.6419067382812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      92.63189697265625,
+      649.95849609375,
+      276.2568054199219,
+      665.2764892578125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Consume Alcohol 40, Cool 35, Dodge 40, Evaluate 30, Intimidate 45, Melee (Basic 45, Brawling 45), Stealth (Urban) 40",
+    "bbox": [
+      92.63189697265625,
+      649.95849609375,
+      276.2568054199219,
+      686.8765258789062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      92.63189697265625,
+      685.1931762695312,
+      200.6313018798828,
+      700.5111694335938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Criminal, Menacing",
+    "bbox": [
+      92.63189697265625,
+      685.1931762695312,
+      200.6313018798828,
+      700.5111694335938
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      92.63189697265625,
+      698.8278198242188,
+      237.0982208251953,
+      714.1458129882812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Club, Dagger, Leather Jack",
+    "bbox": [
+      92.63189697265625,
+      698.8278198242188,
+      237.0982208251953,
+      714.1458129882812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "ELVYRA KLEINESTUN HUMAN MASTER APOTHECARY (SILVER 3)",
+    "bbox": [
+      358.0138854980469,
+      489.5663146972656,
+      527.141845703125,
+      513.486328125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      342.8110046386719,
+      517.5662231445312,
+      542.5797729492188,
+      529.4862060546875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 31 24 27 53 59 36 69 65 64 62 18",
+    "bbox": [
+      344.3210144042969,
+      532.0330810546875,
+      543.0847778320312,
+      547.35107421875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      337.7952880859375,
+      545.86767578125,
+      537.0277709960938,
+      561.1856689453125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Prejudice (Bookish folk), Weapon (Dagger) +4",
+    "bbox": [
+      337.7952880859375,
+      545.86767578125,
+      537.0277709960938,
+      561.1856689453125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      337.7952880859375,
+      559.7023315429688,
+      551.7767333984375,
+      575.0203247070312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Bribery 72, Charm 82, Dodge 41, Drive 74, Consume Alcohol 73, Cool 74, Endurance 58, Entertain (Acting 72, Storytelling 77), Evaluate 75, Gamble 70, Gossip 90, Haggle 80, Heal 85, Intuition 79, Language (Classical 80, Guilder 70), Leadership 67, Lore (Medicine 80, Plants 80, Reikland 70), Melee (Basic) 34, Perception 74, Secret Signs 75, Sleight of Hand 51, Trade (Apothecary 89, Poisoner 89)",
+    "bbox": [
+      337.7952880859375,
+      559.7023315429688,
+      551.7767333984375,
+      652.0203247070312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      337.7952880859375,
+      650.5369873046875,
+      542.52734375,
+      665.85498046875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Blather, Coolheaded, Concoct, Craftsman (Apothecary), Criminal 2, Doomed ( A sister thine, shall unleash a crime ), Etiquette (Criminals), Fast Hands, Field Dressing, Master Tradesman (Apothecary), Luck 2, Pharmacist, Read/Write, Resistance (Poison)",
+    "bbox": [
+      337.7952880859375,
+      650.5369873046875,
+      542.52734375,
+      709.85498046875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Missing Pharmacist",
+    "bbox": [
+      326.4660949707031,
+      233.12982177734375,
+      560.9783325195312,
+      254.58583068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "In her late 30s with light brown hair and dark-blue eyes, Elvyra has an engaging, outgoing personality. Beneath her glib exterior lies a penetrating mind with a great enthusiasm for drugs, herbs, and other medical preparations.",
+    "bbox": [
+      326.4660949707031,
+      251.67779541015625,
+      560.9783325195312,
+      301.7958068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "She can talk shop all day and most of the night, and is always delighted to make the acquaintance of anyone with similar interests. However, she tends to regard physicians as stuck-up bookworms with little practical knowledge and followers of Verena as simpering idiots with more faith than intelligence, so any such Characters must show that they are truly interested, and preferably knowledgeable, before she warms to them.",
+    "bbox": [
+      326.4660949707031,
+      309.67779541015625,
+      561.0330200195312,
+      394.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Elvyra has lived in Weissbruck for the past two years. Originally from Altdorf, she moved not long after she decided that there was more money in fleecing people than in manufacturing and selling genuine medicines — although she still provides the real thing to her neighbours and anyone else she likes. The characters will probably have met her in Bögenhafen.",
+    "bbox": [
+      326.4660949707031,
+      402.4778137207031,
+      561.021484375,
+      475.7958068847656
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Pharmacist’s Girl, Liza Sauber",
+    "bbox": [
+      81.74430084228516,
+      244.72970581054688,
+      316.3124084472656,
+      266.1856994628906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Liza wears a simple smock and goes about barefoot. She is very fond of Elvyra, and will do whatever she can to help her.",
+    "bbox": [
+      81.74430084228516,
+      263.2777099609375,
+      316.3124084472656,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Red Barn Kidnappers",
+    "bbox": [
+      82.20469665527344,
+      546.3297119140625,
+      241.61399841308594,
+      567.7857055664062
+    ]
+  }
+]

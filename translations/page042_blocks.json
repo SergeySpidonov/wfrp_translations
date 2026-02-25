@@ -1,0 +1,112 @@
+[
+  {
+    "type": "h2",
+    "text": "An Audience",
+    "bbox": [
+      82.20469665527344,
+      267.9296875,
+      316.74566650390625,
+      289.38568115234375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers manage to gain an audience with Gorim, they are led to a large wooden shack. While it looks just as run down as the rest of Khazid Slumbol, anyone making an",
+    "bbox": [
+      82.20469665527344,
+      286.4776916503906,
+      316.74566650390625,
+      324.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Perception",
+    "bbox": [
+      82.20469665527344,
+      309.6777038574219,
+      316.74566650390625,
+      336.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test (Dwarfs get a +10 bonus) sees that it is of a better standard than the miserable huts surrounding it.",
+    "bbox": [
+      82.20469665527344,
+      321.2777099609375,
+      316.74566650390625,
+      348.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Being Dwarf-built, the door is quite low. Any Human or Elf will have to stoop to enter, and any Elf will be firmly kicked up the backside as they bend over.",
+    "bbox": [
+      82.20469665527344,
+      356.07769775390625,
+      316.77996826171875,
+      394.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Sputtering torches are placed around the walls and these fill the building with acrid-smelling smoke. The floor is covered with moth-eaten wolf skins and a couple of large moths take flight as the adventurers enter. The smoke is unpleasant and makes it difficult to see.",
+    "bbox": [
+      82.20469665527344,
+      402.4776916503906,
+      316.7799072265625,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Adventurers will need to make a",
+    "bbox": [
+      326.4566955566406,
+      274.877685546875,
+      561.0057983398438,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Endurance",
+    "bbox": [
+      326.4566955566406,
+      274.877685546875,
+      561.0057983398438,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to avoid a coughing fit. The test can be repeated every Round until it is successful, but any Character who fails the test cannot speak and will only recover in the open air.",
+    "bbox": [
+      326.4566955566406,
+      286.4776916503906,
+      561.0057983398438,
+      324.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "From the other side of the room a deep, commanding voice sounds. ‘ Well, come in and stop that coughing. Ain’t you used to proper air?’ Through the gloom, the adventurers see Gorim Greathammer seated upon a stone throne, with four armed Dwarfs on either side. ‘ Well what do you want? I ain’t got all day! ’",
+    "bbox": [
+      326.4566955566406,
+      332.877685546875,
+      561.0103759765625,
+      394.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If asked about the mine, Gorim explains that they were tricked out of it by Etelka Herzen, who is an evil wizard. ‘ She wanted our gold, you know. We knew it was there, but she bespelled the place so we couldn’t find it. At last we had no choice but to sell. Little enough she gave us, to be sure! ’",
+    "bbox": [
+      326.4566955566406,
+      402.4776916503906,
+      561.0050048828125,
+      464.1956787109375
+    ]
+  }
+]

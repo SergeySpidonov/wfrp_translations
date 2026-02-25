@@ -1,0 +1,202 @@
+[
+  {
+    "type": "body",
+    "text": "No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any",
+    "bbox": [
+      111.18769836425781,
+      576.477783203125,
+      468.7120361328125,
+      591.7957763671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "form by any means, electronic, mechanical, photocopying, recording or otherwise without the",
+    "bbox": [
+      117.36599731445312,
+      588.0778198242188,
+      464.9909973144531,
+      603.3958129882812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "prior permission of the publishers.",
+    "bbox": [
+      225.66299438476562,
+      599.6787719726562,
+      352.5721435546875,
+      614.9967651367188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Warhammer Fantasy Roleplay 4th Edition © Copyright Games Workshop Limited 2020. Warhammer Fantasy Roleplay 4th Edition, the Warhammer Fantasy Roleplay 4th Edition logo, GW, Games Workshop, Warhammer, The Game of Fantasy Battles, the twin-tailed comet logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world, and used under licence. Cubicle 7 Entertainment and the Cubicle 7 Entertainment logo are trademarks of Cubicle 7 Entertainment Limited. All rights reserved.",
+    "bbox": [
+      50.36399841308594,
+      623.8800048828125,
+      399.392333984375,
+      707.0957641601562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Last Edited:",
+    "bbox": [
+      50.32728576660156,
+      713.1378173828125,
+      145.061279296875,
+      726.7537841796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "December 2020",
+    "bbox": [
+      50.32728576660156,
+      713.1378173828125,
+      145.061279296875,
+      726.7537841796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Before moving to Games Workshop, Jim Bambra and Phil Gallagher worked together with Graeme Morris creating a series of well-reviewed adventure modules, and contributed to roleplaying magazines. This team also created a campaign module that was regarded as a masterclass in campaign design. In many ways,",
+    "bbox": [
+      51.227195739746094,
+      124.07782745361328,
+      285.79241943359375,
+      197.3997344970703
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Death on the Reik",
+    "bbox": [
+      51.227195739746094,
+      182.08172607421875,
+      285.79241943359375,
+      197.3997344970703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "was its spiritual successor. It was the third instalment in the original Enemy Within campaign, and first published in 1987 as a boxed set containing the main adventure book, a 16-page supplement titled ‘River Life of the Empire,’ and several sheets of maps and handouts.",
+    "bbox": [
+      51.227195739746094,
+      182.08172607421875,
+      285.79241943359375,
+      243.8037872314453
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There were two reasons behind the move away from the module format used for The Enemy Within and Shadows Over Bögenhafen . Firstly,",
+    "bbox": [
+      51.227203369140625,
+      251.68777465820312,
+      285.7889099121094,
+      290.2077941894531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Death on the Reik’s",
+    "bbox": [
+      51.227203369140625,
+      274.8898010253906,
+      285.7889099121094,
+      290.2077941894531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "page count was too large to be practical as a module. It was also thought that a box would be more robust, leading to fewer returns on account of damage in transit. The boxes turned out to be delicate, unfortunately, and all subsequent WFRP first edition publications were books, except for the Character Pack.",
+    "bbox": [
+      51.227203369140625,
+      274.8898010253906,
+      285.7889099121094,
+      348.2128601074219
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The original Death on the Reik can be found in several different formats: the original boxed set from 1987, a Games Workshop hardback of 1989, in Warhammer Adventure from 1991 together with The Enemy Within and Shadows Over Bögenhafen , and the Hogshead Publishing softback from 1996. In addition, Cubicle 7 has published the Hogshead edition as a PDF version.",
+    "bbox": [
+      51.227203369140625,
+      356.09686279296875,
+      285.79150390625,
+      429.419921875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There is a lot to absorb in this adventure. As Our Heroes travel across the Reikland solving mysteries and thwarting enemies (and picking up the clues that will lead them to the next instalment,",
+    "bbox": [
+      295.47821044921875,
+      124.10395050048828,
+      530.0498046875,
+      174.22499084472656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Power Behind the Throne",
+    "bbox": [
+      295.47821044921875,
+      158.906982421875,
+      530.0498046875,
+      174.22499084472656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "), the adventurers and players find out a great deal about the Empire, its people, economy, society, and culture.",
+    "bbox": [
+      295.47821044921875,
+      158.906982421875,
+      530.0498046875,
+      197.42701721191406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Various changes have been made in this edition based on 30 years of player and GM feedback. Some sections of text have been re-ordered to make everything easier to use, and some notes have been added to help you handle the complex middle section and ensure that the Red Crown sub-plot is not derailed if your party fails to keep up with the anticipated timeline. The trail of the Purple Hand has been made clearer. The mentor NPCs, originally added to help the campaign’s pregenerated Characters advance to new Careers, have been made more flexible and more useful to player-generated Characters.",
+    "bbox": [
+      295.47821044921875,
+      205.31103515625,
+      530.05419921875,
+      325.03814697265625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "To strengthen the links to",
+    "bbox": [
+      295.47821044921875,
+      332.9221496582031,
+      530.0625610351562,
+      348.2401428222656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Power Behind the Throne",
+    "bbox": [
+      295.47821044921875,
+      332.9221496582031,
+      530.0625610351562,
+      348.2401428222656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "and give the Characters a chance to advance a little more before facing that challenging adventure, the first part of ‘Carrion up the Reik’ has been added as a final chapter. It was written by James Wallis for this purpose, and published in the Hogshead edition of Power Behind the Throne . This covers the journey from Castle Wittgenstein to Altdorf. It provides a coda after the climactic destruction of Castle Wittgenstein, and brings the ‘river section’ of the campaign to an end. - Graeme Davis, 2019",
+    "bbox": [
+      295.47821044921875,
+      332.9221496582031,
+      530.0625610351562,
+      441.0482482910156
+    ]
+  }
+]

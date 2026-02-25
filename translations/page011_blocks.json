@@ -1,0 +1,312 @@
+[
+  {
+    "type": "h1",
+    "text": "A BOAT IN NEED",
+    "bbox": [
+      50.74020004272461,
+      417.84271240234375,
+      185.54380798339844,
+      440.49072265625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "So far, the adventurers have been lucky that their travel plans have coincided with those of Josef and he let them tag along. Now, though, it’s time for them to part ways. Josef has his own life and business, and he cannot wander all over the Empire with a group of adventurers. He has customers to serve and contracts to fulfil. By now, the adventurers have hopefully learned a little about boat handling, and they should be ready to strike out on their own. All they need is a boat.",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.2991027832031,
+      545.3956909179688
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The First Victim",
+    "bbox": [
+      50.74020004272461,
+      546.3297119140625,
+      285.2991027832031,
+      567.7857055664062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "It all begins when one of the party spots a human corpse floating in the river, face down, with several crossbow bolts sticking out of its back. As the Berebeli draws closer, other terrible wounds can be seen.",
+    "bbox": [
+      50.74020004272461,
+      564.877685546875,
+      285.2991027832031,
+      614.9957885742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers left Bögenhafen by road, the encounter starts a little differently. A tattered, bedraggled man comes staggering towards them from the direction of the river. He is bleeding from a number of wounds, and two crossbow bolts protrude from his side. He sees the adventurers, points back towards the river and, before he dies, gasps, ‘Mutants!’ The corpse has nothing of value or interest. Following his trail, clearly marked by blood, back to the river is quite easy.",
+    "bbox": [
+      50.74020004272461,
+      622.877685546875,
+      285.30718994140625,
+      719.3958129882812
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Boat",
+    "bbox": [
+      294.9920959472656,
+      59.129703521728516,
+      529.5602416992188,
+      80.58570098876953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As the adventurers continue along or beside the river, they see a riverboat of the same type as the Berebeli . The boat is adrift, and a number of corpses — some human, some less so — are on deck and afloat in the river. There is no sign of life. A rowing boat is conveniently tied up along the bank, allowing road travellers to reach the drifting boat without swimming.",
+    "bbox": [
+      294.9920959472656,
+      77.67768096923828,
+      529.5602416992188,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "At this point, you can ask any adventurers with the Sixth Sense Talent to make an",
+    "bbox": [
+      294.9920959472656,
+      158.877685546875,
+      529.5504150390625,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Intuition",
+    "bbox": [
+      294.9920959472656,
+      170.47772216796875,
+      529.5504150390625,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. Don’t give any information regardless of the result: the intention is that the adventurers should have an uncomfortable feeling that they are being watched, and that ‘something is out there’.",
+    "bbox": [
+      294.9920959472656,
+      170.47772216796875,
+      529.5504150390625,
+      220.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The boat has been attacked by a band of mutants (see ‘The Boat Attackers’, pages 20-21) and the surviving marauders are still on the scene. A winged mutant is keeping watch from a tree and anyone making a",
+    "bbox": [
+      294.9920959472656,
+      228.47772216796875,
+      529.5556030273438,
+      278.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Perception",
+    "bbox": [
+      294.9920959472656,
+      263.2777099609375,
+      529.5556030273438,
+      278.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will spot the creature. It will warn its companions on the boat by imitating an owl call, and Ranger Characters who make an",
+    "bbox": [
+      294.9920959472656,
+      263.2777099609375,
+      529.5556030273438,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Intelligence",
+    "bbox": [
+      294.9920959472656,
+      286.4776916503906,
+      529.5556030273438,
+      313.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test should be told that this is an odd time for owls to be out and about. There are two mutants ransacking the boat’s cabin, and a Beastman is lurking in the water on the other side of the boat from the adventurers.",
+    "bbox": [
+      294.9920959472656,
+      298.07769775390625,
+      529.5556030273438,
+      348.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As soon as the adventurers attempt to board the boat, the winged mutant dives toward them. The two mutants in the cabin attack anyone trying to enter and they fight to the death. The winged mutant flees if it sees the other two killed, or if it is reduced to 3 or fewer Wounds.",
+    "bbox": [
+      294.9920959472656,
+      356.07769775390625,
+      529.5755004882812,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "After one Round of fighting, the tentacled Beastman rises from the water and reaches up to the deck, trying to seize anyone on its side of the boat. Characters who are close to the rail must make a",
+    "bbox": [
+      294.9920959472656,
+      425.6777038574219,
+      529.5665283203125,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Cool",
+    "bbox": [
+      294.9920959472656,
+      460.4776916503906,
+      529.5665283203125,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test or gain a Surprised condition. It will seize a leg of someone near the rail if it makes a successful",
+    "bbox": [
+      294.9920959472656,
+      460.4776916503906,
+      529.5665283203125,
+      498.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Melee (Brawling)",
+    "bbox": [
+      294.9920959472656,
+      483.6777038574219,
+      529.5665283203125,
+      498.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test and drag its target into the water. Targets are wrapped in the creature’s cloying tentacles, suffering SL Entangled Conditions, with a Strength equal to the mutant’s. It will attempt to surprise and entangle a Character each Round until it succeeds or until it is reduced to 3 Wounds or fewer, at which point it will try to flee. Characters who are warned about the mutant by someone who can see it emerge automatically pass the",
+    "bbox": [
+      294.9920959472656,
+      483.6777038574219,
+      529.5665283203125,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Cool",
+    "bbox": [
+      294.9920959472656,
+      564.877685546875,
+      529.5665283203125,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test and will not be surprised.",
+    "bbox": [
+      294.9920959472656,
+      564.877685546875,
+      529.5665283203125,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Entangled Characters may attempt to escape by making an Opposed",
+    "bbox": [
+      294.9920959472656,
+      588.0776977539062,
+      529.5549926757812,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Strength",
+    "bbox": [
+      294.9920959472656,
+      599.6776733398438,
+      529.5549926757812,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test — see",
+    "bbox": [
+      294.9920959472656,
+      599.6776733398438,
+      529.5549926757812,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      294.9920959472656,
+      599.6776733398438,
+      529.5549926757812,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 168. Additionally, the creature’s tentacles may be cut away by any suitable bladed weapon. They are a static target, and the victim is cut free if the tentacles take 5 or more Damage.",
+    "bbox": [
+      294.9920959472656,
+      599.6776733398438,
+      529.5549926757812,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "At the beginning of the Beastman’s Round, if it has Entangled a victim, it will pull them over the side of the boat. The target may make a",
+    "bbox": [
+      294.9920959472656,
+      657.6776733398438,
+      529.549560546875,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10) Strength",
+    "bbox": [
+      294.9920959472656,
+      680.877685546875,
+      529.549560546875,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to grab hold of the rail and avoid being pulled into the river.",
+    "bbox": [
+      294.9920959472656,
+      680.877685546875,
+      529.549560546875,
+      707.7957153320312
+    ]
+  }
+]

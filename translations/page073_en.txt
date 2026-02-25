@@ -1,0 +1,51 @@
+=== СТРАНИЦА 73 ===
+
+[B] A. The Hallway
+
+There is a wooden bench against one wall for patients who cannot stand unaided. Visitors will be asked to leave their cloaks or coats here.
+
+[B] B. Dining Room and Kitchen
+
+These two rooms are where Frau Blucher spends most of her time when she is not cleaning the house. There is nothing unusual about either of them. The kitchen cupboards contain only a stale loaf and a few meagre supplies.
+
+[B] C. Surgery
+
+This is where Frau Blucher will show the Characters in to see Jean Rousseaux. On their first visit, Rousseaux will be busy in his cellar, and will not enter for several minutes. During this time the adventurers are left to their own devices.
+
+Rousseaux sees patients here, and the room has been decorated with an eye to inspiring confidence. The office is equipped with a desk, four chairs, a couch, a wall cupboard, and a bench. In one corner of the room, a skeleton hangs in an iron frame. Hanging on the wall behind the desk is a framed parchment declaring Jean Rousseaux to be a graduate of Quenelles University’s Department of Physicians. This is a fake, but the parchment is an exceedingly good forgery.
+
+On the desk are a quill, ink, sand (for drying fresh ink), and parchment. The desk's large drawer is not locked, and contains a letter from Lady Margritte (Handout 12).
+
+The cupboard is unlocked and contains numerous bottles of coloured water and coloured sand. There is also an unmarked glass bottle of blue rotgut (see page 75) in here, and a pottery jar containing five Chaos Leeches (see box). On a bench next to the cupboard are various surgical implements and other physician’s tools.
+
+[B] D. Study
+
+Rousseaux uses this room as a study and to entertain guests. If the adventurers are polite to him and make a successful
+
+[B] Average (+20) Charm
+
+Test, Rousseaux will invite them in here for a drop of Bretonnian brandy. If asked about the brandy, he will claim he brought it with him to Wittgendorf when he first arrived
+
+from his native Bretonnia, but anyone with the Read/Write Talent who examines the bottle and succeeds in a
+
+[B] Challenging (+0) Intelligence
+
+Test will realise that the brandy is only one year old. If pressed, Rousseaux will confess that the brandy was a gift from Lady Margritte von Wittgenstein.
+
+The study contains a locked bureau, a couch, three easy chairs, and a bookcase that stands against one wall. Since this room is directly underneath Rousseaux’s bedroom (F), be sure to make an
+
+[B] Opposed Stealth/Perception Test
+
+between Rousseaux and the Characters should they break in here at night and try to force the bureau open. If he hears any noise, Rousseaux will come to investigate. Inside the bureau are various writing materials and a book with Rousseaux’s notes on the effects of the warpstone dust (Handout 13, page 74). There is also an unfinished letter to Lady Margritte (Handout 14, page 74), and a locked cash-box (D -10, SL 2) containing a signet ring bearing the von Wittgenstein crest (value 5 GCs), as well as 8 GC, 10/6 in assorted coins.
+
+The bookcase contains various medical treatises from Rousseaux’s student days, and conceals the entrance to the cellar. A successful
+
+[B] Challenging (+0) Perception Test
+
+reveals a catch that causes the bookcase to swing open, revealing a flight of steps leading down to the cellar. A stench of decay wafts up from below when the secret door is opened.
+
+[B] E. Cellar
+
+A flight of rickety wooden steps leads down into the cellar. It is here that Rousseaux mixes the powdered warpstone into his rotgut. Across the room is a table with several vials and bottles upon it. A locked (D +20, SL 0) wooden door (TB 2, W15) leads to the cannibal tunnels beneath the village. A strong stench of decay emanates from a buzzing mass of blackness lying on a bench against the far wall.
+
+Surgery

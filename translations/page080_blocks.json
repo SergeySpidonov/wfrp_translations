@@ -1,0 +1,602 @@
+[
+  {
+    "type": "h2",
+    "text": "Night in the Forest",
+    "bbox": [
+      82.20469665527344,
+      59.129825592041016,
+      316.7807922363281,
+      80.58582305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The forest is even more sinister at night. Strange shadows flit amongst the trees, and the adventurers will occasionally catch sight of red eyes staring at them from the darkness. An oppressive silence falls, punctuated by sudden, bloodcurdling screams and yells. The sounds seem to be coming from all around, but this is an illusion caused by the darkness and the strange character of the forest. It is hard not to feel that something evil is closing in on the adventurers.",
+    "bbox": [
+      82.20469665527344,
+      77.67780303955078,
+      316.7807922363281,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Suddenly, a lone Beastman comes bursting through the undergrowth. As it attacks, more howls can be heard from other creatures that are closing in on the adventurers’ location. A small group of Beastmen and mutants will arrive in another 15 minutes, and another, slightly larger group a few minutes after that. See 'The Bestial Horde' below for statistics for these creatures. These encounters will persist, growing ever more dangerous, until the adventurers leave the forest or reach the outlaw camp.",
+    "bbox": [
+      82.20469665527344,
+      182.07781982421875,
+      316.7718200683594,
+      290.19580078125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Protected Area",
+    "bbox": [
+      82.20469665527344,
+      291.1297912597656,
+      316.7718200683594,
+      312.5857849121094
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The area around the outlaw camp is protected by the goddess Rhya, who watches over the outlaws and has protected them from the effects of the warpstone. This area is marked by normal vegetation and creatures, and the oppressive atmosphere of the",
+    "bbox": [
+      82.20469665527344,
+      309.67779541015625,
+      316.7718200683594,
+      359.7958068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "forest ends as the adventurers pass into this expanse of natural woodlands. However, even Rhya’s protection cannot stop the warpstone from leaching through into the surrounding land, and it is only a matter of time before the outlaws are afflicted by it.",
+    "bbox": [
+      326.4566955566406,
+      66.07770538330078,
+      561.005615234375,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The outlaw camp is protected by traps. There is one trap per Character, and one more for good measure. If the Characters are making their way to the camp by themselves, a",
+    "bbox": [
+      326.4566955566406,
+      135.67767333984375,
+      561.0416870117188,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10) Perception",
+    "bbox": [
+      326.4566955566406,
+      158.877685546875,
+      561.0416870117188,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test is required to notice these traps. The traps are an assortment of snares and spear-throwers. The lead Character has a 50% chance of activating any trap they fail to notice. If the trap is not noticed or activated, the following Character has a 50% chance of setting it off, and so on. Snares grab Characters by the ankles, yank them off the ground and leave them suspended upside down. Each spear thrower fires a single spear at the Character who activates it, requiring a",
+    "bbox": [
+      326.4566955566406,
+      170.47772216796875,
+      561.0416870117188,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Dodge",
+    "bbox": [
+      326.4566955566406,
+      263.2777099609375,
+      561.0416870117188,
+      278.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to avoid taking 11 damage.",
+    "bbox": [
+      326.4566955566406,
+      263.2777099609375,
+      561.0416870117188,
+      278.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There are 20 outlaws at the camp, led by Sigrid, an ex-priestess of Rhya. They offer the adventurers their hospitality, and Sigrid can provide directions to a cave that she believes leads into the castle (page 87). She will warn against going there, however, calling it a ' den of madness and death. ' She has been into the cave, but the strange, unnerving gibbering she heard drove her back.",
+    "bbox": [
+      326.4566955566406,
+      286.4776916503906,
+      561.0059814453125,
+      359.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "BEASTMAN – GOR",
+    "bbox": [
+      159.1909942626953,
+      393.9570007324219,
+      232.57101440429688,
+      405.8769836425781
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      96.17630004882812,
+      409.9568176269531,
+      295.8199768066406,
+      421.8768005371094
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 55 40 45 55 30 35 25 25 30 25 17",
+    "bbox": [
+      97.68620300292969,
+      424.4237060546875,
+      296.32501220703125,
+      439.74169921875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits & Talents:",
+    "bbox": [
+      94.11689758300781,
+      441.6929931640625,
+      311.38909912109375,
+      457.010986328125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Arboreal, Armour 1, Berserk Charge 2, Fury, Horns +7, Night Vision, Weapon +8",
+    "bbox": [
+      94.11689758300781,
+      441.6929931640625,
+      311.38909912109375,
+      468.6109924316406
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "PIG HEADED MUTANT (BRASS 0)",
+    "bbox": [
+      136.31829833984375,
+      469.44091796875,
+      266.9173278808594,
+      481.36090087890625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      101.91310119628906,
+      485.4407958984375,
+      301.556884765625,
+      497.36077880859375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 54 28 43 42 29 27 33 25 36 36 15",
+    "bbox": [
+      103.42310333251953,
+      499.9075927734375,
+      302.0618896484375,
+      515.2255859375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      94.11689758300781,
+      514.34228515625,
+      311.3768310546875,
+      529.6602783203125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Bestial Face (Cosmetic), Armour (Thorny Scales) 2, Weapon (Spear) +8",
+    "bbox": [
+      94.11689758300781,
+      514.34228515625,
+      311.3768310546875,
+      541.2603149414062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      94.11689758300781,
+      537.5422973632812,
+      311.3768310546875,
+      552.8602905273438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Spear",
+    "bbox": [
+      94.11689758300781,
+      537.5422973632812,
+      311.3768310546875,
+      552.8602905273438
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "GOAT MUTANT (BRASS 0)",
+    "bbox": [
+      147.1009063720703,
+      553.6901245117188,
+      250.33091735839844,
+      565.610107421875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      99.01100158691406,
+      569.6900024414062,
+      298.65478515625,
+      581.6099853515625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "5 53 24 39 35 32 33 28 29 31 26 12",
+    "bbox": [
+      94.11689758300781,
+      584.1569213867188,
+      311.41168212890625,
+      599.4749145507812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      94.11689758300781,
+      595.7568969726562,
+      311.41168212890625,
+      611.0748901367188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animalistic Legs, Armour (Fur) 2, Bestial Face (Cosmetic), Horns +6, Weapon +7",
+    "bbox": [
+      94.11689758300781,
+      595.7568969726562,
+      311.41168212890625,
+      622.6748657226562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      94.11689758300781,
+      618.9569091796875,
+      311.41168212890625,
+      634.27490234375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Spear",
+    "bbox": [
+      94.11689758300781,
+      618.9569091796875,
+      311.41168212890625,
+      634.27490234375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "EMACIATED MUTANT (BRASS 0)",
+    "bbox": [
+      138.408203125,
+      635.1047973632812,
+      264.8282470703125,
+      647.0247802734375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      101.91320037841797,
+      651.104736328125,
+      301.5569763183594,
+      663.0247192382812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "5 49 42 20 37 25 52 27 38 35 35 11",
+    "bbox": [
+      94.11699676513672,
+      665.5714721679688,
+      302.06201171875,
+      680.8894653320312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      94.11699676513672,
+      677.1715087890625,
+      302.06201171875,
+      692.489501953125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Corruption (Minor), Weapon (Spear) +6",
+    "bbox": [
+      94.11699676513672,
+      677.1715087890625,
+      302.06201171875,
+      692.489501953125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      94.11699676513672,
+      688.771484375,
+      302.06201171875,
+      704.0894775390625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Spear",
+    "bbox": [
+      94.11699676513672,
+      688.771484375,
+      302.06201171875,
+      704.0894775390625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "BIG EARED MUTANT (BRASS 0)",
+    "bbox": [
+      378.5920104980469,
+      396.49652099609375,
+      501.26104736328125,
+      408.41650390625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      340.2218933105469,
+      412.49639892578125,
+      539.8656616210938,
+      424.4163818359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 51 39 37 42 38 28 35 28 27 25 13",
+    "bbox": [
+      332.4825134277344,
+      427.0314025878906,
+      549.6730346679688,
+      442.3493957519531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits & Talents:",
+    "bbox": [
+      332.4825134277344,
+      438.6995849609375,
+      549.6730346679688,
+      454.017578125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Acute Sense (Hearing), Corruption (Minor), Weapon (Club) +7",
+    "bbox": [
+      332.4825134277344,
+      438.6995849609375,
+      549.6730346679688,
+      465.6175842285156
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      332.4825134277344,
+      461.8995056152344,
+      549.6730346679688,
+      477.2174987792969
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Hand Weapon (Club)",
+    "bbox": [
+      332.4825134277344,
+      461.8995056152344,
+      549.6730346679688,
+      477.2174987792969
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "GREEN FURRED MUTANT (BRASS 0)",
+    "bbox": [
+      368.8570861816406,
+      478.0473937988281,
+      510.9961242675781,
+      489.9673767089844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      340.2218933105469,
+      494.04730224609375,
+      539.8656616210938,
+      505.96728515625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 50 26 44 34 29 30 25 33 31 36 13",
+    "bbox": [
+      332.4825134277344,
+      508.51422119140625,
+      540.3707275390625,
+      523.8322143554688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      332.4825134277344,
+      520.1141967773438,
+      540.3707275390625,
+      535.4321899414062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Fur 1), Corruption (Minor), Weapon (Club) +8",
+    "bbox": [
+      332.4825134277344,
+      520.1141967773438,
+      540.3707275390625,
+      547.0321044921875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      332.4825134277344,
+      543.3140869140625,
+      540.3707275390625,
+      558.632080078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Hand Weapon (Club)",
+    "bbox": [
+      332.4825134277344,
+      543.3140869140625,
+      540.3707275390625,
+      558.632080078125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "THREE EYED MUTANT (BRASS 0)",
+    "bbox": [
+      374.7569885253906,
+      570.2620239257812,
+      505.0960388183594,
+      582.1820068359375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      340.2218933105469,
+      586.2619018554688,
+      539.8656616210938,
+      598.181884765625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 47 42 44 40 43 29 33 27 28 32 14",
+    "bbox": [
+      332.4825134277344,
+      600.7288208007812,
+      540.3707275390625,
+      616.0468139648438
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits & Talents:",
+    "bbox": [
+      332.4825134277344,
+      612.3287963867188,
+      540.3707275390625,
+      627.6467895507812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Acute Sense (Sight), Corruption (Minor), Weapon (Sword) +8",
+    "bbox": [
+      332.4825134277344,
+      612.3287963867188,
+      540.3707275390625,
+      639.2467651367188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      332.4825134277344,
+      635.52880859375,
+      540.3707275390625,
+      650.8468017578125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Hand Weapon (Sword)",
+    "bbox": [
+      332.4825134277344,
+      635.52880859375,
+      540.3707275390625,
+      650.8468017578125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP WFRP Enemy in Shadows",
+    "bbox": [
+      332.4825134277344,
+      668.0767822265625,
+      550.6204833984375,
+      712.466796875
+    ]
+  }
+]

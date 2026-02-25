@@ -1,0 +1,352 @@
+[
+  {
+    "type": "body",
+    "text": "This is untrue, but Gorim and the other Dwarfs are still convinced of it. Etelka paid them a good price for an exhausted coal mine, although the Dwarfs refuse to see it. ‘ She says it was a good price, and so do the other humans, but I tell you there’s gold in that mine. We were robbed. Robbed blind. ’",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.3118591308594,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Dwarfs believe that the rumours about the raids were started by the local Humans to discredit them, and they are greatly offended by the accusations. If the adventurers suggest the Dwarfs might be responsible, they will be hustled out of Gorim’s presence, and be lucky to avoid a beating into the bargain. If there is a Dwarf among the adventurers, that Character alone can make one",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.3135681152344,
+      220.59571838378906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10) Charm",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.3135681152344,
+      220.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to calm the Dwarfs. If that fails the adventurers are ordered out of Khazid Slumbol, and every Dwarf in the shanty town gathers to chase them out.",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.3135681152344,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If a fight breaks out in Gorim’s ‘hall’ or anywhere else, Humans and Elves suffer a -10 penalty to all",
+    "bbox": [
+      50.74020004272461,
+      263.2777099609375,
+      285.3049621582031,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Weapon Skill",
+    "bbox": [
+      50.74020004272461,
+      274.877685546875,
+      285.3049621582031,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": ",",
+    "bbox": [
+      50.74020004272461,
+      274.877685546875,
+      285.3049621582031,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Agility",
+    "bbox": [
+      50.74020004272461,
+      274.877685546875,
+      285.3049621582031,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "and",
+    "bbox": [
+      50.74020004272461,
+      274.877685546875,
+      285.3049621582031,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Initiative",
+    "bbox": [
+      50.74020004272461,
+      286.4776916503906,
+      285.3049621582031,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "tests on account of the low ceilings and dreadful smoky atmosphere.",
+    "bbox": [
+      50.74020004272461,
+      286.4776916503906,
+      285.3049621582031,
+      313.39569091796875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Friends in Need",
+    "bbox": [
+      50.74020004272461,
+      314.3297119140625,
+      285.3049621582031,
+      335.78570556640625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers offer to investigate the raids, or present Gorim with evidence that proves the Dwarfs are innocent, their mood will change. From now on the adventurers are regarded with a grudging friendship. An adventurer who makes a",
+    "bbox": [
+      50.74020004272461,
+      332.877685546875,
+      285.3049621582031,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Charm",
+    "bbox": [
+      50.74020004272461,
+      367.6777038574219,
+      285.3049621582031,
+      394.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test receives an offer from Gorim, and Dwarf adventurers get a +10 bonus on that roll. He will have up to five Dwarfs accompany the adventurers to Black Peaks, for a price. Initially he will ask for 2 shillings per Dwarf per day, but may be haggled down to 6d each.",
+    "bbox": [
+      50.74020004272461,
+      379.2777099609375,
+      285.3049621582031,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Dwarfs have their own reasons for wanting to go to Black Peaks, so this is a limited, rather than full, alliance. They may be accompanying the adventurers, but they are not going to take orders. They always try to kill Goblins on sight, taking no prisoners, and possibly ruining any cunning plan of attack that the party have conceived. If an opportunity arises, the Dwarfs are not above disposing of any particularly irksome or arrogant Elf adventurer through an ‘accident’. Neither will they rush to the aid of an Elf in trouble during a fight with Greenskins.",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.3072814941406,
+      556.9956665039062
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "THE OUTLYING FARMS",
+    "bbox": [
+      50.74020004272461,
+      568.6427001953125,
+      227.91334533691406,
+      591.2907104492188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There are 14 small farms around Grissenwald, all within eight miles of the town. Each is home to a family group of 1D10+1 farmers, herdsmen, labourers, and the like. The three farms closest to Black Peaks are now in ruins from recent attacks.",
+    "bbox": [
+      50.74020004272461,
+      599.6776733398438,
+      285.2810974121094,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "At the first farm the adventurers examine, they find a short sword, recognisable to anyone who makes a",
+    "bbox": [
+      50.74020004272461,
+      657.6776733398438,
+      285.3162536621094,
+      684.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Intelligence",
+    "bbox": [
+      50.74020004272461,
+      669.2777099609375,
+      285.3162536621094,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test as Goblin in origin. Anyone who searches the surrounding woods and makes a",
+    "bbox": [
+      50.74020004272461,
+      680.877685546875,
+      285.3162536621094,
+      707.7957153320312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10) Intuition",
+    "bbox": [
+      50.74020004272461,
+      692.4777221679688,
+      285.3162536621094,
+      707.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will find a Goblin corpse.",
+    "bbox": [
+      50.74020004272461,
+      692.4777221679688,
+      285.3162536621094,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Making a",
+    "bbox": [
+      294.9920959472656,
+      66.07770538330078,
+      529.5582885742188,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10) Perception",
+    "bbox": [
+      294.9920959472656,
+      66.07770538330078,
+      529.5582885742188,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "or an",
+    "bbox": [
+      294.9920959472656,
+      66.07770538330078,
+      529.5582885742188,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Track",
+    "bbox": [
+      294.9920959472656,
+      66.07770538330078,
+      529.5582885742188,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test reveals tracks made by many small humanoids and wolves. A subsequent search at the other burned-out farms finds similar tracks without a need for further tests. At all three farms the tracks are too old to follow for more than a couple of hundred yards.",
+    "bbox": [
+      294.9920959472656,
+      77.67768096923828,
+      529.5582885742188,
+      139.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers visit any of the inhabited farms they are greeted by the frightened occupants as potential saviours. Everyone they talk to knows that ‘ It’s them cursed dwarfs! They’ll kill us all! It’s not safe here anymore. And why don’t the road wardens do something? ’ The farmers are utterly convinced the Dwarfs must be responsible: ‘ Where else could they have got money from, all of a sudden, like? Answer that one! ’ Any Dwarf approaching an occupied farm is met by a hail of ill-aimed arrows. Dwarf adventurers get the same pointed greeting.",
+    "bbox": [
+      294.9920959472656,
+      147.2777099609375,
+      529.560302734375,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Dwarfs Exonerated",
+    "bbox": [
+      294.9920959472656,
+      557.9296875,
+      529.5513305664062,
+      579.3856811523438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers find the Goblin sword and the corpse in the trees they can automatically convince the Humans of Grissenwald, including the farmers, that Goblins are behind the raids and the Dwarfs of Khazid Slumbol are innocent. If the adventurers find only the sword and bring it back, their representative needs to make a",
+    "bbox": [
+      294.9920959472656,
+      576.4777221679688,
+      529.5513305664062,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10) Charm",
+    "bbox": [
+      294.9920959472656,
+      634.4777221679688,
+      529.5513305664062,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. If they have only seen Goblin tracks, then the representative must make a",
+    "bbox": [
+      294.9920959472656,
+      634.4777221679688,
+      529.5513305664062,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Fellowship",
+    "bbox": [
+      294.9920959472656,
+      657.6776733398438,
+      529.5513305664062,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. Regardless of whether the Humans believe the adventurers, Gorim is grateful for their efforts. He may well offer the adventurers some Dwarven reinforcements. For the right remuneration, of course (see Friends in Need, page 43).",
+    "bbox": [
+      294.9920959472656,
+      657.6776733398438,
+      529.5513305664062,
+      719.3956909179688
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+=== СТРАНИЦА 35 ===
+
+[H1] RESOLUTION
+
+[H2] Rewards
+
+Beyond any points you offer for good roleplaying and clever ideas at the end of the session, XP should be awarded for the following:
+
+10 points for helping to complete the Signal Tower.
+
+15 points for defeating the Ghoul.
+
+25 points for defeating the zombies and recovering their keys.
+
+50 points for accessing the secret library (Note: they will need the 6th key from the Barren Hills to do so).
+
+[H1] NON-PLAYER CHARACTERS
+
+[H2] The Red Crown Cultists
+
+[B] Etelka Herzen – Human Master Wizard
+
+On the surface, Etelka is a friendly but reserved noblewoman of medium build, with shoulder-length blonde hair, and blue eyes. Underneath, she is ruthless in the pursuit of her aims, and deals harshly with any interference. In order to conceal her identity, she only uses magic when there are unlikely to be witnesses (or survivors). If confronted, she usually waits a Round or two before deciding to cast spells. Etelka’s presence is unmistakable, for her corruption is slowly bubbling out of her. Her skin exudes a very pungent odour, which she masks with strong perfumes. The fragrance sometimes lingers behind her for as much as 15 minutes, and anyone entering an area that she has recently left will not fail to notice it.
+
+[B] Shadow the Cat
+
+Etelka’s black cat, Shadow, accompanies her wherever she goes. Although Shadow appears intelligent, with a disconcertingly knowing look in her eyes, she is an ordinary black cat.
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 42 27 29 30 49 40 28 56 52 31 13
+
+[B] Traits:
+
+Corruption (Moderate), Spellcaster (Chaos – Tzeentch), Weapon (Dagger) +4
+
+[B] Skills:
+
+Animal Care 59, Channelling (Tzeentch) 62, Charm 46, Cool 64, Dodge 46, Evaluate 64, Gossip 36, Intimidate 39, Intuition 59, Language (Battle) 60, Language (Bretonnian 59, Classical 67, Magick 69), Leadership 36, Lore (Magick) 68, Melee (Basic 52, Polearm 47), Perception 57, Ride (Horse) 45
+
+[B] Talents:
+
+Aethyric Attunement, Arcane Magic (Tzeentch), Attractive, Doomed ( Beware the Light! ), Instictive Diction 3, Magical Sense, Petty Magic, Read/Write, Second Sight
+
+[B] Trappings:
+
+Dagger, Gold Earrings (10 GCs each), Gold Rings (2, worth 15 GCs each), Potion of Flight, Travelling Case, Wand of Onyx, 67 GCs,
+
+[B] SPELLS
+
+[B] Petty Magic:
+
+Dazzle, Drain, Eavesdrop, Light, Open Lock, Rot, Sounds, Warning
+
+[B] Arcane Magic:
+
+Aethyric Armour, Blast, Chain Attack, Dark Vision, Entangle, Flight, Mundane Aura, Teleport
+
+[B] Lore of Tzeentch:
+
+Treason of Tzeentch
+
+[B] TRAVELLING CASE
+
+Etelka’s case contains her personal possessions and dozens of vials of perfume. These are very small and may easily be mistaken for potions. There is a wide range of fragrances in the vials, although lavender and musk are Etelka’s favourites, and make up the majority.
+
+[B] POTION OF FLIGHT
+
+When drunk, this potion affects the drinker as a Flight Spell (
+
+[B] WFRP
+
+, page 244). The effect lasts for 20 Rounds, minus the drinker’s Toughness bonus.
+
+[B] WAND OF ONYX
+
+This wand of polished, black mineral acts as a well of power. Once per day the bearer of the wand, when casting a spell of up to CN 5, can consider that spell to have been Critically Cast with Total Power (WFRP page 234). On doing so, roll 1d100. If the result is less than or equal to the CN of the spell, the wand shatters and is destroyed, dealing 1d10 Wounds to each Character within 2 yards.
+
+[B] ETELKA HERZEN HUMAN MASTER WIZARD (GOLD 1)
+
+[B] SHADOW THE CAT
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 25 - 10 20 45 40 - 15 15 15 5
+
+[B] Traits:
+
+Bestial, Night Vision, Skittish, Size (Small), Stride, Weapon +5

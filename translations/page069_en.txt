@@ -1,0 +1,37 @@
+=== СТРАНИЦА 69 ===
+
+[B] The Cannibals
+
+Some of the desperate villagers have taken to eating corpses from the graveyard in order to survive. They live in the abandoned Temple of Sigmar (Location 4) and move around the village via secret passages dug underneath it. So far they have not preyed on the living, but they are running short of corpses, and they are preparing to kill and devour the other villagers.
+
+[H1] EVENTS
+
+These events occur at specific times while the adventurers are in Wittgendorf, as noted. The course of some events depends on the adventurers’ actions, and they should be adjusted as necessary.
+
+[H2] Day 1 — Arrival
+
+[B] Welcome to Wittgendorf
+
+When the adventurers arrive, a horde of beggars will limp out of the boathouse and hobble down the embankment path to gather around the boat. They thrust out their grimy hands and plead for money or food. If given either, they immediately begin to fight amongst themselves, only stopping if driven off or if one of them escapes with the alms.
+
+[B] The Pale Lady
+
+As the adventurers reach the top of the track leading up from the wharf, they see a beautiful young woman dressed in dark blue, mounted on a white horse and surrounded by six armed guards amid a crowd of slack-jawed beggars. On a successful
+
+[B] Challenging (+0) Intelligence
+
+Test, the adventurers will spot an obvious familial likeness between the woman and the portraits in the ruined observatory’s study (see The Observatory, page 30). The guards bear the Wittgenstein family crest on their shields and wear full-face helmets with sleeved mail shirts.
+
+[H2] The Beggars of Wittgendorf
+
+Talking to the beggars yields nothing more than pleas for money and food, interspersed with incoherent ramblings that include no useful information.
+
+The beggars will continue to bother the adventurers throughout their stay in the village, and at any time the party will be followed by 1d10 Beggars. They will flee if attacked, only to return later. Successive beatings keep them at a respectful distance, but if a beggar is killed, the others will summon up the courage to attack in a mob.
+
+When they are not following the adventurers, the beggars can be found lying in doorways and elsewhere, drinking from dirty blue bottles.
+
+There are 30 Beggars in total. Once respectable villagers, they have lost both health and reason to the effects of the warpstone, and to Jean Rousseaux’s rotgut liquor. Some have withered limbs, and others have crude stumps where mutated limbs have been hacked off. Facial deformities are common, such as missing noses, ears, eyes, overlong teeth, and so on. All have open sores, and their breath smells of stale alcohol. Their filthy, ragged clothes are crawling with lice.
+
+The beggars are sold rotgut liquor by Kurt Kutzmann, a servant to the village physician, Jean Rousseaux. Unknown to anyone but Lady Margritte, the rotgut contains powdered warpstone which exacerbates the beggars’ condition. Even Rousseaux believes the powder to be a rare medicinal chemical.
+
+[B] Contraction: Incubation: Duration: Symptoms:

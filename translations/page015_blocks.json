@@ -1,0 +1,352 @@
+[
+  {
+    "type": "body",
+    "text": "A terrified girl is hiding among a pile of rags and boxes in one corner of the cellar. A Human Character who makes an",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.31622314453125,
+      92.99568176269531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Fellowship",
+    "bbox": [
+      50.74020004272461,
+      89.27771759033203,
+      285.31622314453125,
+      104.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will convince the girl that the adventurers mean her no harm. A non-human character must make a",
+    "bbox": [
+      50.74020004272461,
+      89.27771759033203,
+      285.31622314453125,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Fellowship",
+    "bbox": [
+      50.74020004272461,
+      112.47772979736328,
+      285.31622314453125,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test.",
+    "bbox": [
+      50.74020004272461,
+      112.47772979736328,
+      285.31622314453125,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the Test fails this, she will try to dodge around them and escape. Any adventurer between her and the door can grab her by making an opposed",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.2901611328125,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Initiative/Dodge",
+    "bbox": [
+      50.74020004272461,
+      158.877685546875,
+      285.2901611328125,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. She wriggles and tries to bite anyone holding her. The bite is a normal attack, and causes 1 Wound to the holding arm.",
+    "bbox": [
+      50.74020004272461,
+      170.47772216796875,
+      285.2901611328125,
+      197.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Anyone bitten must make a",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.2763977050781,
+      220.59571838378906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Endurance",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.2763977050781,
+      220.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to keep a hold. The adventurers may repeat the",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.2763977050781,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Fellowship",
+    "bbox": [
+      50.74020004272461,
+      216.877685546875,
+      285.2763977050781,
+      243.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test every Round until they calm her down.",
+    "bbox": [
+      50.74020004272461,
+      228.47772216796875,
+      285.2763977050781,
+      243.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Once calm, the girl will say that her name is Liza. She is ten years old, and an orphan: she thinks that Elvyra is her mother’s sister, but she is not certain. She works for Elvyra, cleaning the house and fetching and carrying in return for bed and board. If she is asked what happened to Elvyra, she says that some men came to see her two days ago, and then left after a lot of shouting. After their visit, Elvyra warned her to stay away from The Happy Man inn.",
+    "bbox": [
+      50.74020004272461,
+      251.67770385742188,
+      285.3162841796875,
+      348.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The following day, Liza was banished to the cellar after Elvyra caught her playing with her pretty coloured powders. Soon after there was a lot of noise from above, and she heard Elvyra scream. She also heard one of the men shouting something about ‘Taking her to the red barn’. The noise went on for a long time, and Liza hid among the boxes and stayed very still, hoping no one would find her. Everything has been quiet since then, but she has not dared to leave the cellar. When she heard the adventurers moving about in the house, she went up the steps to try to see what was going on. They frightened her when they opened the door.",
+    "bbox": [
+      50.74020004272461,
+      356.07769775390625,
+      285.3072814941406,
+      487.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This is all Liza can tell them. She has no idea who the men were or what they wanted, and she can only describe them as big and rough and smelly.",
+    "bbox": [
+      50.74020004272461,
+      495.2777099609375,
+      285.27130126953125,
+      533.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Elvyra’s pharmaceutical cabinet is carefully hidden in the cellar. It is concealed behind a section of fake wall and it will take a very thorough search to find it. It will require a",
+    "bbox": [
+      50.74020004272461,
+      541.6776733398438,
+      285.2892761230469,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Perception",
+    "bbox": [
+      50.74020004272461,
+      564.877685546875,
+      285.2892761230469,
+      591.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to spot the wall panel, and it has a very complex lock. Opening this requires a",
+    "bbox": [
+      50.74020004272461,
+      576.4777221679688,
+      285.2892761230469,
+      603.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Lock Pick",
+    "bbox": [
+      50.74020004272461,
+      588.0776977539062,
+      285.2892761230469,
+      603.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, SL 5. You should feel free to improvise the cabinet’s contents. If the adventurers look for a specific remedy or herb, they will find 1D6 doses of the desired preparation.",
+    "bbox": [
+      50.74020004272461,
+      588.0776977539062,
+      285.2892761230469,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Once rescued, Elvyra will be willing to sell the adventurers up to half her stock in the cabinet at a 50% discount. If the adventurers simply help themselves to her property she will be quite angry until she has been paid in full for her wares.",
+    "bbox": [
+      50.74020004272461,
+      646.0776977539062,
+      285.3073425292969,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "D& E. Bedrooms",
+    "bbox": [
+      294.9920959472656,
+      63.07182312011719,
+      529.5574951171875,
+      83.4958267211914
+    ]
+  },
+  {
+    "type": "body",
+    "text": "These two simple bedrooms each contain a wooden bedstead with feather mattresses and pillows, a washstand, bowl and jug, and a chest of drawers. Both rooms have been thoroughly ransacked. The mattresses and pillows have been cut open, and stuffing is strewn about the room, mixed with a tangle of bedding, clothes and other items.",
+    "bbox": [
+      294.9920959472656,
+      77.67768096923828,
+      529.5574951171875,
+      150.9958038330078
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "KIDNAPPED!",
+    "bbox": [
+      294.9920959472656,
+      162.64279174804688,
+      386.45806884765625,
+      185.29078674316406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Alberich Hollzauber, a daemonologist in Altdorf, has discovered that Elvyra is wanted there under another name. He is using this information to try to blackmail her. Some of Hollzauber’s minions arrived in Weissbruck two days ago, with a message threatening to turn her in to the authorities there unless she gave him some rare and skilfully mixed ingredients for a powerful spell.",
+    "bbox": [
+      294.9920959472656,
+      193.67779541015625,
+      529.5592651367188,
+      278.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Elvyra rejected their demands and threats until the daemonologist’s lackeys grew frustrated. They kidnapped her and gathered up every ingredient they could find in the house. The plan is to take her to their master in Altdorf. As the adventurers arrive in Weissbruck, the thugs are holding Elvyra in a disused barn just outside the town, not far from the canal.",
+    "bbox": [
+      294.9920959472656,
+      286.4778137207031,
+      529.5502319335938,
+      359.7958068847656
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Watch",
+    "bbox": [
+      294.9920959472656,
+      360.72979736328125,
+      529.5502319335938,
+      382.185791015625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Elvyra is unpopular in certain quarters due to her fraudulent medicines, including the commander of Weissbruck’s Watch.",
+    "bbox": [
+      294.9920959472656,
+      379.2778015136719,
+      529.5502319335938,
+      406.19580078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Reporting the apparent crime to the town Watch has little effect. The half-dozen volunteer watchmen have their hands full keeping order in the town, and are aware of their commander’s low opinion of Elvyra. They are even busier when miners from the nearby Delfgruber mine visit to drink away their pay. Elvyra simply isn’t wealthy or influential enough to merit more than the promise of an investigation, maybe, possibly, at some point, in the fullness of time… perhaps. It should quickly become clear that the adventurers are pretty much Elvyra’s only hope of rescue. Saying that, the watchmen are not entirely unhelpful, and one of them will offer to look after Liza with his wife until Elvyra can be found.",
+    "bbox": [
+      294.9920959472656,
+      414.0777893066406,
+      529.5689697265625,
+      556.9957885742188
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Happy Man",
+    "bbox": [
+      294.9920959472656,
+      557.9298095703125,
+      529.5689697265625,
+      579.3858032226562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers need to win over the locals to get any information in The Happy Man inn. They can buy drinks, entertain the crowd, or simply chat to people and turn on the charm. Making an",
+    "bbox": [
+      294.9920959472656,
+      576.477783203125,
+      529.5689697265625,
+      626.5957641601562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Charm",
+    "bbox": [
+      294.9920959472656,
+      611.2777709960938,
+      529.5689697265625,
+      626.5957641601562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will determine how people react to them and, depending on what questions are asked and how much drink is poured, the adventurers can obtain one piece of information for each Test.",
+    "bbox": [
+      294.9920959472656,
+      611.2777709960938,
+      529.5689697265625,
+      661.3958129882812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Three strangers did stay at the inn a few days ago. Last night they settled up and left. The landlord remembers that they were expecting to meet ‘a boatman friend’ who was to take them to Altdorf, but he wasn’t due until tomorrow morning.",
+    "bbox": [
+      294.9920959472656,
+      669.2777709960938,
+      529.5144653320312,
+      719.3958129882812
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "languagetool": {
+      "command": "python",
+      "args": ["scripts/languagetool_mcp.py"],
+      "env": {}
+    }
+  }
+}

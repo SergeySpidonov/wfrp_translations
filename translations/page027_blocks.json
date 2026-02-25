@@ -1,0 +1,162 @@
+[
+  {
+    "type": "h1",
+    "text": "JOURNEY TO GRISSENWALD",
+    "bbox": [
+      50.74020004272461,
+      58.24282455444336,
+      268.0982971191406,
+      80.89082336425781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers’ journey from Grissenwald and Black Peaks takes them up almost 270 miles of the River Reik. Once again, you are free to enliven the journey with hazards and encounters as desired. There are also some landmarks worth mentioning.",
+    "bbox": [
+      50.74020004272461,
+      89.27777862548828,
+      285.31719970703125,
+      136.9958038330078
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Castle Reikguard",
+    "bbox": [
+      50.74020004272461,
+      140.32977294921875,
+      285.31719970703125,
+      161.78578186035156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As the adventurers travel up the Reik from Altdorf, they will pass the towering fortress of Castle Reikguard. This commands the point where the River Teufel flows into the Reik, bringing traffic to the capital from Grunberg, Auerswald, and Übersreik.",
+    "bbox": [
+      50.74020004272461,
+      158.8778076171875,
+      285.31719970703125,
+      208.9958038330078
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The castle’s battlements are thick with guards in shining plate armour, and cannon barrels can be seen poking through the crenels. Commoners are not admitted within the castle. Enquiries at any of the nearby villages will reveal wildly contradictory rumours that the adventurers can pick up elsewhere. See News and Rumours, page 34..",
+    "bbox": [
+      50.74020004272461,
+      216.877685546875,
+      285.2983093261719,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Signal Tower",
+    "bbox": [
+      50.74020004272461,
+      291.12969970703125,
+      285.2983093261719,
+      312.585693359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "One of the Emperor’s pet projects is the construction of chains of signal towers to give warning of any attack or other emergency. One chain of signal towers runs between Altdorf and Nuln. The adventurers pass a tower under construction a little way south of Castle Reikguard. From the river the characters can see the signal tower is being built on the remains of an older, partially ruined structure.",
+    "bbox": [
+      50.74020004272461,
+      309.6777038574219,
+      285.2983093261719,
+      394.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Perched on top of the tower is wooden scaffolding, with stanchions, ropes, and pulleys. All over this confused-looking mess swarm a number of short, bearded, tool-wielding figures. Clearly, work on the structure is not finished yet.",
+    "bbox": [
+      50.74020004272461,
+      402.4776916503906,
+      285.3072509765625,
+      452.595703125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Hitch-Hikers",
+    "bbox": [
+      294.9920959472656,
+      59.129703521728516,
+      529.5576782226562,
+      80.58570098876953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "It is not necessary for the adventurers to stop at the signal tower on their journey to Black Peaks. However, they should return after they have been to the Barren Hills, as the key they will find in the hills opens the secret library beneath Dagmar’s ruined observatory.",
+    "bbox": [
+      294.9920959472656,
+      77.67768096923828,
+      529.5576782226562,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As their boat rounds a river bend near the tower site, the adventurers see two Dwarfs waving frantically from a small wooden landing stage close to the construction works.",
+    "bbox": [
+      294.9920959472656,
+      135.67767333984375,
+      529.541259765625,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "When the boat comes within earshot, the adventurers hear cries of: ‘Oi! Give us a lift! We can pay!’ One of Dwarfs holds up a bulging purse.",
+    "bbox": [
+      294.9920959472656,
+      182.07769775390625,
+      529.5501098632812,
+      220.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the party shows no signs of stopping, the Dwarfs leap into a small rowing boat and row out toward the boat, shouting, ‘Hey! Wait! Wait! You’ve got to take us!’",
+    "bbox": [
+      294.9920959472656,
+      228.47772216796875,
+      529.5584716796875,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "They will not be able to catch up, however, and will soon be left behind unless the adventurers decide to stop.",
+    "bbox": [
+      294.9920959472656,
+      274.877685546875,
+      529.5664672851562,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers stop for them, the Dwarfs clamber hurriedly aboard, introducing themselves as Thingrim and Belegol, Dwarven engineers ‘to the gentry’. They are in a great hurry to leave and want to go to Altdorf or Nuln, or as close as they can get. They can be haggled up to twice the usual fare, or –/6 per mile.",
+    "bbox": [
+      294.9920959472656,
+      309.6777038574219,
+      529.5756225585938,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Before the adventurers have a chance to question the two Dwarfs, another one comes running down to the bank. She is somewhat overweight and gasping for breath, her face almost as red as her voluminous breeches. Thingrim and Belegol fall silent as the newcomer arrives.",
+    "bbox": [
+      294.9920959472656,
+      390.877685546875,
+      529.5501708984375,
+      452.595703125
+    ]
+  }
+]

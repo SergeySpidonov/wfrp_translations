@@ -1,0 +1,162 @@
+[
+  {
+    "type": "body",
+    "text": "A reader making a",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.2973937988281,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Research",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.2973937988281,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will spot several, deliberately elliptical, references to warpstone. The information contained in the book can be studied in the same manner as a spell. It enables a wizard to control these types of undead, but not summon them. A pinch of powdered warpstone is required for each undead creature, which the wizard may then control as if they had cast a Reanimate Spell (",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.2973937988281,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.2973937988281,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 256).",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.2973937988281,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "D. Study",
+    "bbox": [
+      50.74020004272461,
+      155.87168884277344,
+      285.288330078125,
+      176.29568481445312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This room is guarded by a zombie that will attack anyone not carrying Dagmar’s staff (see page 32).",
+    "bbox": [
+      50.74020004272461,
+      170.47772216796875,
+      285.288330078125,
+      197.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The room contains a large desk, a plans chest, and a drawing board. Various ancient portraits hang on the walls.",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.3154602050781,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Opening the desk requires an",
+    "bbox": [
+      50.74020004272461,
+      240.07769775390625,
+      285.3019104003906,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Pick Lock",
+    "bbox": [
+      50.74020004272461,
+      240.07769775390625,
+      285.3019104003906,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test (SL 2), or it can be smashed open with an",
+    "bbox": [
+      50.74020004272461,
+      240.07769775390625,
+      285.3019104003906,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Easy (+40) Strength",
+    "bbox": [
+      50.74020004272461,
+      251.67770385742188,
+      285.3019104003906,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. An adventurer smashing it open will get covered in ink. This is harmless, but there’s no need to tell the Players that! Inside there are quills, bottles of ink (many dried up), and parchment. There is also a battered notebook with yellowing pages covered in complex calculations and notes written in a spidery hand. Anyone with the Lore (Magick) Skill quickly works out that the calculations are to do with the orbit of the Chaos moon Morrslieb. No test is necessary as the moon is mentioned several times in the text.",
+    "bbox": [
+      50.74020004272461,
+      263.2777099609375,
+      285.3019104003906,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The plans chest has several antique maps showing various parts of the Empire, the Reikland, and the western marches of Talabecland in particular. Give your Players Handout 5 (below). All the maps have a number of intersecting lines carefully drawn on them. One intersection in the Barren Hills has been roughly ringed. Anyone who has grasped the calculations in the notebook and makes a",
+    "bbox": [
+      50.74020004272461,
+      379.2777099609375,
+      285.3172302246094,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10) Intelligence",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.3172302246094,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test realises that the lines of the triangle trace Morrslieb’s erratic orbit. You can allow a +10 bonus if anyone has advances in the Navigation Skill, or a second adventurer has the Lore (Magick) Skill. There is, however, no clue as to what the ringed intersection means.",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.3172302246094,
+      510.595703125
+    ]
+  }
+]

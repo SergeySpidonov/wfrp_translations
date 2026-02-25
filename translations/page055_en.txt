@@ -1,0 +1,63 @@
+=== СТРАНИЦА 55 ===
+
+[H2] The Barren Hills
+
+If the adventurers ask about the Barren Hills while they are in Kemperbad, they will run into a wall of fear and revulsion. No one can provide specific information about the area, but everyone agrees it is best avoided. The adventurers will not be able to find a guide willing to accompany them, no matter how much money they offer. If they persist in looking for a guide and offer a ridiculous amount of money (over 1,000 GCs, or whatever the GM considers ridiculous), a guide will agree to accompany them, but as soon as the party leaves Unterbaum (page 57) it becomes apparent that the guide knows nothing of the area.
+
+Enquiries in the library at the town’s Temple of Verena will only reveal that the name ‘Barren Hills’ dates from some 200 years ago. Before then, the Hills were simply another upland area, and had no particular name. For the last two centuries, though, nothing has grown there and the area has been shunned as a place marked by Chaos. If the adventurers have missed any vital clues so far, the Library of Verena might be a good way to feed them that information in a different form.
+
+[H2] The Red Crown
+
+It is important to keep track of Etelka Herzen and her crony, Ernst Heidlemann (see Timeline, page 26). Their Red Crown expedition may well have beaten the adventurers to Kemperbad, but if not, the adventurers might run into them during this part of the adventure. For notes on handling accidental encounters between the two groups, see Meetings with the Red Crown, page 25.
+
+The fast-flowing water and the many treacherous currents and eddies combine to reduce a boat’s speed by 25% when travelling upstream. If you are using the advanced sailing rules from the
+
+[B] Death on the Reik Companion
+
+, even skilled Characters must make a
+
+[B] Challenging (+0) Sail
+
+Test at the start of each day’s travel, just as unskilled Characters must on normal stretches of river, and there is an additional penalty of-10% to all
+
+[B] Sail
+
+Tests made on this stretch of the river. When sailing downstream, speed may be increased by up to 25% (Players’ choice), but the penalty to
+
+[B] Sail
+
+Tests should be increased by an amount equal to the percentage increase in speed.
+
+Barring mishaps, it should take about six days to travel upstream through the gorge. The time may be filled with random encounters (the River Life of the Empire section in the
+
+[B] Death on the Reik Companion
+
+is a good source), although it would be best to avoid any encounters that could distract the adventurers from their goal. It is quite acceptable for you to describe the journey as passing uneventfully.
+
+[H2] Ancient Megaliths
+
+A few miles before Unterbaum, the gorge is overshadowed by two enormous megaliths of ancient Druidic construction, which mark the original boundary of the Baumenvolk’s territory (see Unterbaum, page 57). A dozen pairs of these megaliths mark out a huge circle, forming a magical barrier to repel the servants and spawn of Chaos. The megaliths are carved with words of power in an ancient language, and any Character or creature with a mutation must make a
+
+[B] Challenging (+0) Willpower
+
+Test when entering the area, with a penalty of -10 for each mutation after the first. If they fail, they gain the Skittish Trait (
+
+[B] WFRP
+
+, page 342) while they remain inside the circle. Even Characters who pass this Test will feel unwelcome and vaguely threatened.
+
+[H2] A Dead Horse
+
+This event should only be run if the Red Crown expedition is ahead of the adventurers. Somewhere between the megaliths and Twin Falls, the carcass of a horse floats down the river. It was lost when Herzen and Heidlemann recrossed the river Narn, and its condition will reflect the time that has elapsed since then. The horse still carries its packs, which contain:
+
+Two weeks’ worth of iron rations, soaked and useless.
+
+Assorted pieces of clothing (female), some of which might be useable if dried out.
+
+A sealed oilskin packet whose seal bears the device of the Red Crown. Inside is a rough map of the Empire, with a circle drawn around the area of the Barren Hills, and with the position of Dagmar’s observatory clearly marked and labelled. This map is similar to the handout found in Dagmar's study (page 31), with the addition of the observatory and without the superimposed markings.
+
+[H1] UP THE RIVER STIR
+
+There is a huge lock and weir where the Stir flows into the Reik, built to control what would be almost unnavigable turbulence. The lock is basically the same as others that the adventurers have encountered on the Weissbruck canal and elsewhere, but it is much larger. It can accommodate up to four large river barges, and the lock-house has docking and maintenance facilities for two river patrol boats, plus accommodation for their crews and any prisoners. The toll for use of the lock is 2 GCs.
+
+Between the Narn and the Reik, the river Stir flows through a narrow, sheer-sided gorge, about 600 ft deep and 90 ft wide. The adventurers’ boat battles upstream in a perpetual twilight. The sky is reduced to a thin ribbon of deep blue in which it seems the stars are always visible, save for a short period each day when the sun is directly overhead. The Stir’s foaming waters roar and hiss over the razor-edged rocks that line its banks.

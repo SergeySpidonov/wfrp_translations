@@ -1,0 +1,65 @@
+=== СТРАНИЦА 32 ===
+
+The drawing board itself is empty. The portraits depict various members of the von Wittgenstein family, though they are not labelled. The adventurers will not know this if they have not yet visited Castle Wittgenstein. However, the family resemblance between the portrait subjects is clear: all have aquiline noses, high foreheads, and thick, bushy eyebrows.
+
+Propped in one corner of the room is an ornately carved staff. Anyone with the Detect Artefact Talent will feel a strong aura coming from the staff. The zombies will not attack anyone carrying it.
+
+[B] E. Library
+
+There are three zombies in this room, which is lined with bookshelves from floor to ceiling. The books are written in a variety of mundane, secret, and arcane languages. They cover many subjects, from alchemical treatises to ‘novels’ of a somewhat insalubrious literary nature. There is nothing of immediate use to the adventurers, but anyone making a
+
+[B] Challenging (+0) Evaluate
+
+Test will find 2d10 books in the library that a book trader or collector would consider valuable. Their musty condition means that each is worth 1d10 GCs. You can include a couple of historical or religious books if you want to pass on some background information to your Players.
+
+[B] F. Inner Corridor
+
+The inner wall of this area is made of 2-inch-thick steel. If no one taps the wall, this is spotted by anyone who makes an
+
+[B] Average (+20) Perception
+
+Test. There are two 18-inch-long bars attached to the wall at waist height, one at each end. If any two adventurers push on these bars, the entire wall rotates so that a gap in this wall will align with the central accessway (area G, below).
+
+[B] G. Central Accessway
+
+Note: the entrance from the inner corridor (area f) can only be opened and closed by two people in that area. If that entrance is closed and the adventurers enter through the trapdoor, they can only leave the way they came in.
+
+The floor here is inscribed with a glowing hexagram, or six- pointed star. Anyone making an
+
+[B] Average (+20) Perception
+
+Test will notice that there is a hole at each point of the hexagram. These holes are star-shaped, and the right size to accept the keys carried by the five zombies. Of course, one key is missing unless it has been brought from the Barren Hills. If all six keys are inserted into the hexagram the secret trapdoor in the floor will open (downwards). Anyone standing on the trapdoor must make a
+
+[B] Hard (-20) Initiative
+
+Test or fall 3 yards into the secret library beneath. An
+
+[B] Average (+20) Athletics
+
+Test will reduce the Damage taken (
+
+[B] WFRP
+
+, page 166).
+
+[B] H. Secret Library
+
+The corridors radiating from the central hexagonal chamber are lined with shelves containing books. These are on a variety of subjects, mostly written in Classical and Magickal, though some have marginalia in Reikspiel, Bretonnian, and Tilean.
+
+For each hour spent examining the books, there is a 50% chance of turning up one of the following. Where a spell is marked as Arcane, the GM may choose which Lore it is from.
+
+A grimoire with one of the following spells (your
+
+choice): Healing Light (Light), Blast or Push (Arcane).
+
+A section of false book fronts conceals a Potion of
+
+Healing. This is a green, viscous liquid that smells of almonds, and instantly restores 1d10+2 Wounds when consumed.
+
+A torn grimoire page with one of the spells (your
+
+choice): Aethyric Armour (Arcane), Mindslip (Shadows), or Mystifying Miasma (Shadows).
+
+A table in the centre of the library bears three large books. Two are ancient tomes: Sternschau’s ‘ Astronomickal Records: Being A Guide of the Mysterious Phenomena of the Nighte Sky ’, and ‘ True Omens and Prophecies of the Seer Unserfrau ’. The books are open at the pages shown in Handouts 6 and 7 (page 28), respectively.
+
+The pages of the third volume are filled with a spidery script in the Magick language. The title page may be translated as ‘ The Journal of the Year 2405, by the hand of Wizard Dagmar von Wittgenstein ’. The final entry is reproduced as Handout 8 (below), and it is the most revealing. This provides the adventurers with the final piece of information they need to lead them to Castle Wittgenstein, and the climax of the adventure.

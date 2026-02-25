@@ -1,0 +1,121 @@
+=== СТРАНИЦА 80 ===
+
+[H2] Night in the Forest
+
+The forest is even more sinister at night. Strange shadows flit amongst the trees, and the adventurers will occasionally catch sight of red eyes staring at them from the darkness. An oppressive silence falls, punctuated by sudden, bloodcurdling screams and yells. The sounds seem to be coming from all around, but this is an illusion caused by the darkness and the strange character of the forest. It is hard not to feel that something evil is closing in on the adventurers.
+
+Suddenly, a lone Beastman comes bursting through the undergrowth. As it attacks, more howls can be heard from other creatures that are closing in on the adventurers’ location. A small group of Beastmen and mutants will arrive in another 15 minutes, and another, slightly larger group a few minutes after that. See 'The Bestial Horde' below for statistics for these creatures. These encounters will persist, growing ever more dangerous, until the adventurers leave the forest or reach the outlaw camp.
+
+[H2] The Protected Area
+
+The area around the outlaw camp is protected by the goddess Rhya, who watches over the outlaws and has protected them from the effects of the warpstone. This area is marked by normal vegetation and creatures, and the oppressive atmosphere of the
+
+forest ends as the adventurers pass into this expanse of natural woodlands. However, even Rhya’s protection cannot stop the warpstone from leaching through into the surrounding land, and it is only a matter of time before the outlaws are afflicted by it.
+
+The outlaw camp is protected by traps. There is one trap per Character, and one more for good measure. If the Characters are making their way to the camp by themselves, a
+
+[B] Difficult (-10) Perception
+
+Test is required to notice these traps. The traps are an assortment of snares and spear-throwers. The lead Character has a 50% chance of activating any trap they fail to notice. If the trap is not noticed or activated, the following Character has a 50% chance of setting it off, and so on. Snares grab Characters by the ankles, yank them off the ground and leave them suspended upside down. Each spear thrower fires a single spear at the Character who activates it, requiring a
+
+[B] Challenging (+0) Dodge
+
+Test to avoid taking 11 damage.
+
+There are 20 outlaws at the camp, led by Sigrid, an ex-priestess of Rhya. They offer the adventurers their hospitality, and Sigrid can provide directions to a cave that she believes leads into the castle (page 87). She will warn against going there, however, calling it a ' den of madness and death. ' She has been into the cave, but the strange, unnerving gibbering she heard drove her back.
+
+[B] BEASTMAN – GOR
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 55 40 45 55 30 35 25 25 30 25 17
+
+[B] Traits & Talents:
+
+Arboreal, Armour 1, Berserk Charge 2, Fury, Horns +7, Night Vision, Weapon +8
+
+[B] PIG HEADED MUTANT (BRASS 0)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 54 28 43 42 29 27 33 25 36 36 15
+
+[B] Traits:
+
+Bestial Face (Cosmetic), Armour (Thorny Scales) 2, Weapon (Spear) +8
+
+[B] Trappings:
+
+Spear
+
+[B] GOAT MUTANT (BRASS 0)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+5 53 24 39 35 32 33 28 29 31 26 12
+
+[B] Traits:
+
+Animalistic Legs, Armour (Fur) 2, Bestial Face (Cosmetic), Horns +6, Weapon +7
+
+[B] Trappings:
+
+Spear
+
+[B] EMACIATED MUTANT (BRASS 0)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+5 49 42 20 37 25 52 27 38 35 35 11
+
+[B] Traits:
+
+Corruption (Minor), Weapon (Spear) +6
+
+[B] Trappings:
+
+Spear
+
+[B] BIG EARED MUTANT (BRASS 0)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 51 39 37 42 38 28 35 28 27 25 13
+
+[B] Traits & Talents:
+
+Acute Sense (Hearing), Corruption (Minor), Weapon (Club) +7
+
+[B] Trappings:
+
+Hand Weapon (Club)
+
+[B] GREEN FURRED MUTANT (BRASS 0)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 50 26 44 34 29 30 25 33 31 36 13
+
+[B] Traits:
+
+Armour (Fur 1), Corruption (Minor), Weapon (Club) +8
+
+[B] Trappings:
+
+Hand Weapon (Club)
+
+[B] THREE EYED MUTANT (BRASS 0)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 47 42 44 40 43 29 33 27 28 32 14
+
+[B] Traits & Talents:
+
+Acute Sense (Sight), Corruption (Minor), Weapon (Sword) +8
+
+[B] Trappings:
+
+Hand Weapon (Sword)
+
+[B] WFRP WFRP Enemy in Shadows

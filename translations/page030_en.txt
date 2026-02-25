@@ -1,0 +1,41 @@
+=== СТРАНИЦА 30 ===
+
+[B] The Observatory
+
+The adventurers can enter the observatory (see The Observatory map on the page 31) through the trapdoor in the signal tower using the ghoul’s key, or from the outside using one of the zombie keys. (See The Magical Keys, page 29).
+
+All of the observatory’s rooms are windowless and unlit, so the adventurers will require a light source. Leaving the trapdoor open provides enough dim light for those with the Night Vision Talent. The place has a musty smell and is shrouded in dust and cobwebs. It has clearly not been used for a very long time.
+
+[B] The Zombies
+
+There are five zombies in the observatory. Three are in the library (e), one in the laboratory (c) and the final one in the study (d). Each carries a magical key that automatically opens any of the observatory’s inner doors. Without a key, opening a door requires a
+
+[B] Hard (-20) Pick Lock
+
+Test, SL 2.
+
+The zombies are usually dormant, moving only to attack trespassers or to help one of their number who is under attack. A reinforcement zombie arrives on the second Round of combat, and another each Round until all five have appeared. The zombies will not attack anyone carrying Dagmar’s staff (see page 32). They were enchanted by Dagmar so that they would not need a controller, and they do not suffer from the Unstable Creature Trait while they are within the observatory.
+
+[B] B. Entrance Hall
+
+The hall is empty. Strange geometric patterns adorn the floor, walls, and ceiling. Obscured by years of dust, these patterns lend the room a strange aspect, giving the appearance of impossible, disorienting angles. All the doorways are covered in cobwebs, and dust falls from the ceiling as the adventurers pass through. When they first approach one of the doors, a mysterious and chilling wind will seem to rush past them. Any adventurer who fails a
+
+[B] Challenging (+0) Cool
+
+Test will hear (or believe they hear) a ghostly voice whispering: ‘ Go back! ’
+
+[B] C. Alchemist’s Laboratory
+
+A zombie stands in the middle of the room. It only moves if someone enters the laboratory or if a fight starts involving one of its fellows.
+
+The laboratory is littered with alchemical apparatus. Benches are piled with beakers, retort stands, odd-shaped jars, lumps of different ores, and so on. Various esoteric calculations have been chalked on most surfaces: the walls, ceiling, floor, and bench tops. A gargoyle-shaped lectern bearing a large, leather-bound book stands in one corner.
+
+The book is hand-written in Classical language and has copious marginalia and multiple revisions. An appropriately skilled Character would take days to read it thoroughly. Studying it for a couple of hours reveals that it contains research into the summoning and control of skeletons, zombies, and ghouls.
+
+The new Signal Tower (Wood Construction)
+
+Original Observatory (Stone Construction)
+
+Laboratory, Study & Library
+
+Secret Underground Library

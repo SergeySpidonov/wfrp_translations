@@ -1,0 +1,61 @@
+=== СТРАНИЦА 47 ===
+
+[H1] THE MINE
+
+The Old Mine map (page 46) shows the layout of the mine. From the entrance, the smell of wolves and Goblins is very strong. The timbers shoring up the entrance are very badly decayed and riddled with woodworm: they can easily be pulled down with an
+
+[B] Average (+20) Strength
+
+Test, trapping any Goblins inside. It will take them at least two days to dig their way out.
+
+An old mine cart lies just inside the entrance, so badly rusted that it can only be moved by two Characters succeeding in a
+
+[B] Challenging (+0) Strength
+
+Test each Round, or a single Character succeeding in a
+
+[B] Very Hard (-30) Strength
+
+Test. When moving, its wheels squeak so loudly that every Wolf and Goblin in the mine is alerted. The three numbered chambers are used as sleeping quarters. They are extremely dirty and smelly, and have flea-ridden bedding on the floor.
+
+[H2] Cave-In!
+
+Conditions in the mine are damp and dark with a pervasive smell. As the adventurers enter, dust and grit falls ominously from the ceiling. Although there is no immediate chance of a cave-in, any fighting or other violent activity may cause one. Each Round of activity there is a 10% chance that the timbers supporting the roof will begin to collapse. This increases to 30% if blackpowder or other explosive weapons are used.
+
+During the first Round of a cave-in, dust falls from the roof and the timbers creak ominously. This gets worse on the second Round. On the third Round there is a loud, reverberating crack and a broken beam sags down from the roof. On the fourth Round the roof collapses, blocking a 2-yard stretch of passage.
+
+Anyone who retreats before the fourth Round will not be injured. Everyone still in the area when the roof collapses will suffer 8 Wounds, reduced to 5 with a successful
+
+[B] Challenging (+0) Dodge
+
+Test. These wounds are reduced by Toughness Bonus, but not armour.
+
+Death on the Reik
+
+[B] GOBLINS OF THE TWISTED MAW (24)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 25 40 35 35 20 35 40 30 20 20 14
+
+[B] Talents & Traits:
+
+Accurate Shot 2, Armour 1 (3 with Shield), Afraid (Elves), Hardy, Hatred (Dwarfs), Infected, Night Vision, Ranged (Shortbow) +7, Weapon (Sword) +7
+
+[B] Skills:
+
+Melee (Basic) 35, Perception 30, Ranged (Bow) 50, Ride (Wolf) 45
+
+[B] Trappings:
+
+Leather Jerkin, Shield, Shortbow, Sword
+
+[B] GREAT WOLVES (15)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 55 - 35 40 30 55 - 15 15 - 12
+
+[B] Traits:
+
+Armour 1, Bestial, Night Vision, Skittish, Stride, Tracker, Trained (Mount), Weapon +7

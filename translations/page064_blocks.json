@@ -1,0 +1,132 @@
+[
+  {
+    "type": "body",
+    "text": "By now, the adventurers should have the final key to the secret library beneath the observatory (page 32), and with luck they should realise its significance. They know that Dagmar von Wittgenstein recovered a large piece of warpstone from the Barren Hills after murdering every other member of his expedition, and should also know that the Red Crown expedition left the Barren Hills ahead of them (if this is indeed the case — see Timeline, page 26) and could reach the next objective before the adventurers do.",
+    "bbox": [
+      82.20469665527344,
+      100.87769317626953,
+      316.7799072265625,
+      208.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This chapter traces their journey from Unterbaum through Kemperbad and back to the signal tower, where they uncover the last clues leading them to Wittgendorf and Castle Wittgenstein. The journey can be enlivened with events and encounters as desired.",
+    "bbox": [
+      82.20469665527344,
+      216.877685546875,
+      316.7708740234375,
+      278.595703125
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "JOURNEY TO KEMPERBAD",
+    "bbox": [
+      82.20469665527344,
+      290.2427978515625,
+      281.53179931640625,
+      312.89080810546875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers can retrace their steps from Unterbaum to Kemperbad without any significant incident (see Chapter 3: Kemperbad to Black Peaks).",
+    "bbox": [
+      82.20469665527344,
+      321.2777099609375,
+      316.7718200683594,
+      359.7956848144531
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Kemperbad",
+    "bbox": [
+      82.20469665527344,
+      360.7297058105469,
+      316.7718200683594,
+      382.1856994628906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Kemperbad has already been described on pages 33-34. This will be the adventurers’ third visit to the town, having passed through on the way from Altdorf to Grissenwald and again on the way from Grissenwald to the Barren Hills.",
+    "bbox": [
+      82.20469665527344,
+      379.2777099609375,
+      316.7718200683594,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As always, the adventurers can pause in Kemperbad to trade, buy equipment and supplies, or train. In addition, the following events and encounters may take place.",
+    "bbox": [
+      82.20469665527344,
+      437.2777099609375,
+      316.74481201171875,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Red Crown",
+    "bbox": [
+      326.4566955566406,
+      93.9296875,
+      561.0237426757812,
+      115.38568878173828
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Assuming that the adventurers do not catch up with them at Twin Falls, Herzen and Heidlemann spend two days in Kemperbad resting and buying supplies (and replacing a lost horse — see Dead Horse, page 55) before setting out on the Grunberg road toward the signal tower.",
+    "bbox": [
+      326.4566955566406,
+      112.47779083251953,
+      561.0237426757812,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the two parties are in Kemperbad at the same time, there is a chance that they may run into each other. If they know they have been spotted, the Red Crown cultists will leave in a hurry, hoping to outdistance their rivals. The adventurers have no horses, and it will take an hour or two to buy some and follow them by road. Their best chance is to take to the river as quickly as possible, and hope to catch up to the cultists once the initial gallop has taken the wind out of their horses and forced them to slow down.",
+    "bbox": [
+      326.4566955566406,
+      182.07781982421875,
+      561.0230102539062,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "A Letter from the Purple Hand",
+    "bbox": [
+      326.4566955566406,
+      291.1297912597656,
+      561.0230102539062,
+      312.5857849121094
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Purple Hand has not forgotten about the Magister Impedimentae, and pressure from above is increasing as Kastor Lieberung’s double, and the inheritance he has supposedly gained, continue to elude the cult. Purple Hand agents spot the adventurers as soon as they arrive back in Kemperbad, and track them to their inn.",
+    "bbox": [
+      326.4566955566406,
+      309.6777038574219,
+      561.0230102539062,
+      382.99578857421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As the adventurers relax in the bar over a meal and a drink, one of the inn’s staff brings them a letter. It is sealed with purple wax, and the seal bears the impression of a hand. Opening it, the adventurers find a lock of hair inside — the same lock taken from a Character on their last visit to Kemperbad — and a letter which reads.",
+    "bbox": [
+      326.4566955566406,
+      390.877685546875,
+      561.0357666015625,
+      464.1956787109375
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+=== СТРАНИЦА 29 ===
+
+If the adventurers try to strike up a conversation she can tell them:
+
+‘I run a crew of twelve engineers. All good, solid dwarfs until this job. We were hired in Altdorf six weeks ago, with an Imperial Commission to build this signal tower as specified.’
+
+‘It seemed like an ideal site. Good visibility to the next towers up and down the chain, and this ruin is sound enough for a foundation.
+
+‘Nothing went right from the start. There were accidents and injuries. And mind, these aren’t blockheaded manlings — no offence — but trained and seasoned dwarfs. They’d no business slipping off scaffolding and dropping hammers on each other. Then they started falling sick, with no cause anyone can find.
+
+‘We carried on regardless. Contracts have been signed, after all. But five days ago the disappearances started. Two more vanished only last night, leaving six of us, including me. The rest of the crew’s asking for danger money now. Some think the place is an accursed elven burial mound. Or something worse. Them two favours the “something worse” thing.
+
+‘We’re falling woefully behind. But… I gave my word and the tower must be finished on time. I’ll take any help I can get. I’ll pay good money for good work. What do you say?’
+
+Aynjulls can be haggled up to 6/– per person per day, plus 5 GC payable when the signal tower is complete (which will take seven more days). She will also pay the bonus if the mystery of what has been happening to her workers is solved.
+
+She has a diagram (Handout 4) which she will show the adventurers to explain how the signal tower works.
+
+If the adventurers decide to help, keep track of how much time they spend at the tower. This will affect the timeline (page 24) which tracks their movements and those of the two Red Crown cultists.
+
+[H1] OUTSIDE THE TOWER
+
+The wall is made from blocks of a black, shiny and completely featureless mineral. Breaching this wall is impossible without specialised siege or engineering equipment. Aynjulls will reluctantly agree to create a hole if the adventurers insist. This takes a couple of hours, and Aynjulls will worry all the time that it will compromise the tower’s stability.
+
+The secret doors are completely indistinguishable from other sections of the wall, even though there are obvious paths that come to a dead end at a blank wall where the doors are hidden. The doors open automatically if the ghoul’s key (see The Magical Keys) comes within 1 yard, and close again when it is further away.
+
+Detect Artefact
+
+[B] A. The Signal Tower
+
+The Dwarfs have managed to complete the bottom floor of the signal tower, which houses the signal fire and mirror. The wooden pylon with its signalling arms has yet to be added. Both the tower and its foundation, which is the ground floor of the old observatory, are surrounded by wooden scaffolding.
+
+The floor of the tower is actually the ceiling of the observatory. It is from this room that the workers have disappeared. They were attacked by the ghoul which entered from the observatory below through a secret trapdoor. Even if the Players suspect there is a trap door in the floor, they will not be able to open it from this side without the ghoul’s key.
+
+If the adventurers decide to spend the night here, the ghoul will attack in the small hours. The trapdoor opens noiselessly and the ghoul springs into the room. The creature is so swift that no one can attack it until it is clear of the trapdoor and fully in the room. If, foolishly, no one is watching the trapdoor, no one knows of the ghoul’s presence until it attacks. The ghoul attempts to flee back through the trapdoor if it has 2 or fewer Wounds remaining. In this case, the adventurers will have time to follow it, or to wedge the trapdoor open before it snaps shut.

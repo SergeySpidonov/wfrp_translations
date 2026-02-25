@@ -1,0 +1,65 @@
+=== СТРАНИЦА 57 ===
+
+[H2] The Inn of the Roaring Falls
+
+The inn is run by Uta Freikrüger, who is also the lock-keeper. As Astrit said, it is a clean, cosy place with a welcoming atmosphere. Accommodation is available at half the prices listed in the Consumer’s Guide (
+
+[B] WFRP
+
+, page 302). There may be a handful of other guests at the inn, mostly riverfolk of various types, or the adventurers may be the only visitors.
+
+Uta is assisted by Theo Luckstein, a hulking barman (
+
+[B] Menial
+
+), plus a cook (
+
+[B] Servant
+
+), two stable hands, and two serving/ chamber maids (all
+
+[B] Menials
+
+). There is also Jake — an ancient Marienburger who has tools for minor boat repairs, and who operates the simple raft of a ferry across the Stir (
+
+[B] Bargeswain
+
+).
+
+The staff and guests can be a source of rumours, and can tell the adventurers a little about the village of Unterbaum (see The Baumenvolk, below). The inn’s patrons are often engaged in low stakes gambling. They favour an odd game involving intricately painted cards that has become popular as of late, and welcome any to join them and gamble a few pennies.
+
+Enquiries about the Barren Hills, however, will meet with the same muttered prayers — ‘ Sigmar save us! ’ — and worried looks the adventurers encountered in Kemperbad. The inn’s staff can recommend Corrobreth, Unterbaum’s village priest, as a good source of information on the hills. They can also give directions to the village, which lies just a few miles west of the inn.
+
+[H2] Crossing the River Narn
+
+In order to reach Unterbaum, the adventurers may have to cross the River Narn. There is neither bridge nor ferry, but fortunately the river is not particularly deep (except after heavy rain). The current is strong, however, and local NPCs will advise the adventurers to rope themselves together before attempting to cross. Due to the cliffs, the best place to cross is above point 4 on the map on page 56. Anyone wading across the river must make a
+
+[B] Challenging (+0) Athletics
+
+Test to keep their footing. Characters not tied together who fail may make a
+
+[B] Hard (-20) Swim
+
+Test to make it across. If this is also failed, the Character must spend a Fate Point or be swept over the falls. Anyone who fails the first test but is tied to other Characters can be pulled upright if the Character next to them makes an
+
+[B] Average (+20) Strength
+
+Test. If the result is an Impressive Failure (-4 SL) or worse, this Character also falls, then the next Character in the line may make an
+
+[B] Average (+20) Strength
+
+Test, and so on.
+
+[H1] UNTERBAUM
+
+Unterbaum is an idyllic, rural village, protected by druidic priests from the dangers of the Empire’s forests. Villagers have little interest in events in the outside world, and seldom travel farther than the river, where they trade grains and root vegetables for iron and tools. They are a trusting, peaceful folk, devout followers of Rhya, with a strong sense of hospitality, and will offer food and shelter to any traveller.
+
+The village stands in the centre of a large clearing, about a mile across, consisting of fields, goat pens, and pig sties. A rough wooden stockade surrounds a cluster of log cabins, all facing a large oak tree in the middle of the village.
+
+Astrit introduces the adventurers to Vorster, the village elder, and Corrobreth, the village priest. Before the villagers will answer any questions, the necessities of hospitality must be observed. Food and drink are brought, and a cabin is placed at the adventurers’ disposal. All the villagers are open and friendly, and the village seems safe and welcoming. Vorster explains that few strangers ever visit the village except to trade, and gently enquires about the party’s intentions. If the adventurers explain that they are planning to venture into the Barren Hills, their hosts try to dissuade them from such a dangerous undertaking. Corrobreth tells the story of the meteor.
+
+‘Many generations ago, the beings of Chaos poured out of their vile wastelands to despoil the land and gather souls for their despicable gods. It was a dark time indeed, for even the sky's vault above conspired with them. For days, the sky screamed and the Chaos moon howled and spat its evil upon us.
+
+To protect us, the Druids of old built a stone circle around the places where its foul expectorations landed, but it was barely enough. The land was blighted for generations, and around Devil’s Bowl, where the largest piece landed, strange, unnatural growths began to appear. I fear there are evil things still lurking in the hills, waiting till the time comes for them to rise up and sweep away all before them.’
+
+If the Red Crown expedition has already passed by, Vorster adds, ‘ You are not the only ones venturing into the hills. Another group of strangers passed this way recently, led by a fair-haired woman and a dark-haired man. They did not stop here, but came up from the Twin Falls and headed straight into the hills towards the Devil’s Bowl. ’

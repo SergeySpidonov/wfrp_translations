@@ -1,0 +1,392 @@
+[
+  {
+    "type": "bold",
+    "text": "SKELETONS (4)",
+    "bbox": [
+      378.3938903808594,
+      565.543701171875,
+      438.9438781738281,
+      577.4636840820312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      308.964111328125,
+      581.5435791015625,
+      508.6078796386719,
+      593.4635620117188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 35 25 40 30 30 20 25 - - - 14",
+    "bbox": [
+      310.4739990234375,
+      596.0103759765625,
+      509.11279296875,
+      611.328369140625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      306.9046936035156,
+      615.3143920898438,
+      518.7579956054688,
+      630.6323852539062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour 2, Construct, Dark Vision, Fear 2, Painless, Undead, Weapon +8",
+    "bbox": [
+      306.9046936035156,
+      615.3143920898438,
+      518.7579956054688,
+      641.432373046875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      306.9046936035156,
+      639.7490234375,
+      436.4140930175781,
+      655.0670166015625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dodge 30, Melee (Basic) 45",
+    "bbox": [
+      306.9046936035156,
+      639.7490234375,
+      436.4140930175781,
+      655.0670166015625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      306.9046936035156,
+      653.3837280273438,
+      508.1709899902344,
+      668.7017211914062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Hand Weapons, Tattered Chainmail Shirt",
+    "bbox": [
+      306.9046936035156,
+      653.3837280273438,
+      508.1709899902344,
+      668.7017211914062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Special Rules:",
+    "bbox": [
+      306.9046936035156,
+      667.018310546875,
+      518.77392578125,
+      682.3363037109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Because of the way they died, these skeletons are not Unstable, and can move around freely. If the Characters flee, the skeletons will follow them until they are destroyed or the Characters are dead.",
+    "bbox": [
+      306.9046936035156,
+      667.018310546875,
+      518.77392578125,
+      714.7362670898438
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "ASTRIT — HUMAN VILLAGER (BRASS 3)",
+    "bbox": [
+      91.37039947509766,
+      417.0386047363281,
+      246.18943786621094,
+      428.9585876464844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      69.01260375976562,
+      433.03851318359375,
+      268.7814025878906,
+      444.95849609375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 35 33 35 35 30 35 29 31 30 30 23",
+    "bbox": [
+      70.52259826660156,
+      447.5054016113281,
+      269.2864074707031,
+      462.8233947753906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      63.070899963378906,
+      463.9747009277344,
+      275.66717529296875,
+      479.2926940917969
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animal Care 35, Athletics 40, Consume Alcohol 45, Drive 40, Endurance 45, Entertain (Storytelling) 35, Gossip 35, Haggle 35, Lore (Local) 40, Melee (Basic 40, Brawling 40), Outdoor Survival 35",
+    "bbox": [
+      63.070899963378906,
+      463.9747009277344,
+      275.66717529296875,
+      511.69268798828125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      63.070899963378906,
+      510.00927734375,
+      188.67434692382812,
+      525.3272705078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Stone Soup, Strong Back",
+    "bbox": [
+      63.070899963378906,
+      510.00927734375,
+      188.67434692382812,
+      525.3272705078125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      63.070899963378906,
+      523.6439819335938,
+      176.65028381347656,
+      538.9619750976562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Weapon (Pitchfork) +7",
+    "bbox": [
+      63.070899963378906,
+      523.6439819335938,
+      176.65028381347656,
+      538.9619750976562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      63.070899963378906,
+      537.2786254882812,
+      170.81719970703125,
+      552.5966186523438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Pitchfork, Shovel",
+    "bbox": [
+      63.070899963378906,
+      537.2786254882812,
+      170.81719970703125,
+      552.5966186523438
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "BRUNHILDE GRATTEN – GHOST",
+    "bbox": [
+      343.7455139160156,
+      281.7275085449219,
+      473.3645324707031,
+      293.6474914550781
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      308.8504943847656,
+      297.7274169921875,
+      508.4942932128906,
+      309.64739990234375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "6 30 55 30 40 20 45 20 15 15 30 11",
+    "bbox": [
+      310.3605041503906,
+      312.1941833496094,
+      508.9992980957031,
+      327.5121765136719
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      306.7911071777344,
+      331.4981994628906,
+      518.6453857421875,
+      346.8161926269531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dark Vision, Ethereal, Fear 2, Undead, Unstable, Ranged (Bow) +6, Weapon +6",
+    "bbox": [
+      306.7911071777344,
+      331.4981994628906,
+      518.6453857421875,
+      357.6161804199219
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Ghost of Brunhilde Gratten",
+    "bbox": [
+      51.02360153198242,
+      561.8717041015625,
+      285.3071594238281,
+      582.2957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A hundred and twenty years ago, Brunhilde was a scout for Dagmar von Wittgenstein’s expedition to find the warpstone meteorite. After finding what he sought, Dagmar murdered his whole party, stabbing Brunhilde repeatedly while she slept and burying the rest alive in the nearby cavern.",
+    "bbox": [
+      51.02360153198242,
+      576.4777221679688,
+      285.3071594238281,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Since then Brunhilde has haunted the area around the Devil’s Bowl, yearning for a proper burial for herself and her companions. She will tell the tale of Dagmar’s betrayal — of how he led them into the lush hills to find a meteorite which he calculated had landed here, and of how he changed when he found it, becoming first secretive and then murderous.",
+    "bbox": [
+      51.02360153198242,
+      646.0776977539062,
+      285.3017883300781,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skysoarer the Raven",
+    "bbox": [
+      50.74020004272461,
+      63.07170104980469,
+      285.30731201171875,
+      83.4957046508789
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Corrobreth has trained Skysoarer to act as a scout, flying in an indicated direction and swooping to mark the positions of any people or creatures that he sees larger than the raven himself. When not acting as a scout for Corrobreth, Skysoarer usually sits on his shoulder.",
+    "bbox": [
+      50.74020004272461,
+      77.67768096923828,
+      285.30731201171875,
+      139.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "SKYSOARER THE RAVEN",
+    "bbox": [
+      115.31310272216797,
+      145.8948974609375,
+      212.3721160888672,
+      157.8148956298828
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      64.13819885253906,
+      161.89483642578125,
+      263.7820129394531,
+      173.81483459472656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "2 15 - 5 15 25 40 - 20 20 10 1",
+    "bbox": [
+      65.64820098876953,
+      176.361572265625,
+      262.0369873046875,
+      191.67958068847656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      62.07889938354492,
+      192.83087158203125,
+      265.81768798828125,
+      208.1488800048828
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Bestial, Fly 100, Size (Tiny), Skittish, Weapon+0",
+    "bbox": [
+      62.07889938354492,
+      192.83087158203125,
+      265.81768798828125,
+      208.1488800048828
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Optional:",
+    "bbox": [
+      62.07889938354492,
+      205.04827880859375,
+      265.81768798828125,
+      220.3662872314453
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Size (Small), Trained (Scout)",
+    "bbox": [
+      62.07889938354492,
+      205.04827880859375,
+      265.81768798828125,
+      220.3662872314453
+    ]
+  }
+]

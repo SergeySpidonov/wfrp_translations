@@ -1,0 +1,252 @@
+[
+  {
+    "type": "bold",
+    "text": "A. The Hallway",
+    "bbox": [
+      50.74020004272461,
+      63.07170104980469,
+      285.30731201171875,
+      83.4957046508789
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There is a wooden bench against one wall for patients who cannot stand unaided. Visitors will be asked to leave their cloaks or coats here.",
+    "bbox": [
+      50.74020004272461,
+      77.67768096923828,
+      285.30731201171875,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "B. Dining Room and Kitchen",
+    "bbox": [
+      50.74020004272461,
+      121.07170104980469,
+      285.28021240234375,
+      141.49569702148438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "These two rooms are where Frau Blucher spends most of her time when she is not cleaning the house. There is nothing unusual about either of them. The kitchen cupboards contain only a stale loaf and a few meagre supplies.",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.28021240234375,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "C. Surgery",
+    "bbox": [
+      50.74020004272461,
+      190.6716766357422,
+      285.3072509765625,
+      211.09567260742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This is where Frau Blucher will show the Characters in to see Jean Rousseaux. On their first visit, Rousseaux will be busy in his cellar, and will not enter for several minutes. During this time the adventurers are left to their own devices.",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.3072509765625,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Rousseaux sees patients here, and the room has been decorated with an eye to inspiring confidence. The office is equipped with a desk, four chairs, a couch, a wall cupboard, and a bench. In one corner of the room, a skeleton hangs in an iron frame. Hanging on the wall behind the desk is a framed parchment declaring Jean Rousseaux to be a graduate of Quenelles University’s Department of Physicians. This is a fake, but the parchment is an exceedingly good forgery.",
+    "bbox": [
+      50.74020004272461,
+      263.2777099609375,
+      285.3163146972656,
+      348.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "On the desk are a quill, ink, sand (for drying fresh ink), and parchment. The desk's large drawer is not locked, and contains a letter from Lady Margritte (Handout 12).",
+    "bbox": [
+      50.74020004272461,
+      356.07769775390625,
+      285.3126220703125,
+      394.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The cupboard is unlocked and contains numerous bottles of coloured water and coloured sand. There is also an unmarked glass bottle of blue rotgut (see page 75) in here, and a pottery jar containing five Chaos Leeches (see box). On a bench next to the cupboard are various surgical implements and other physician’s tools.",
+    "bbox": [
+      50.74020004272461,
+      576.4777221679688,
+      285.3072204589844,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "D. Study",
+    "bbox": [
+      50.74020004272461,
+      643.0717163085938,
+      285.3109130859375,
+      663.4957275390625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Rousseaux uses this room as a study and to entertain guests. If the adventurers are polite to him and make a successful",
+    "bbox": [
+      50.74020004272461,
+      657.6776733398438,
+      285.3109130859375,
+      684.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Charm",
+    "bbox": [
+      50.74020004272461,
+      669.2777099609375,
+      285.3109130859375,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, Rousseaux will invite them in here for a drop of Bretonnian brandy. If asked about the brandy, he will claim he brought it with him to Wittgendorf when he first arrived",
+    "bbox": [
+      50.74020004272461,
+      680.877685546875,
+      285.3109130859375,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "from his native Bretonnia, but anyone with the Read/Write Talent who examines the bottle and succeeds in a",
+    "bbox": [
+      294.9920959472656,
+      298.07769775390625,
+      529.5316162109375,
+      324.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Intelligence",
+    "bbox": [
+      294.9920959472656,
+      309.6777038574219,
+      529.5316162109375,
+      336.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will realise that the brandy is only one year old. If pressed, Rousseaux will confess that the brandy was a gift from Lady Margritte von Wittgenstein.",
+    "bbox": [
+      294.9920959472656,
+      321.2777099609375,
+      529.5316162109375,
+      359.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The study contains a locked bureau, a couch, three easy chairs, and a bookcase that stands against one wall. Since this room is directly underneath Rousseaux’s bedroom (F), be sure to make an",
+    "bbox": [
+      294.9920959472656,
+      367.6777038574219,
+      529.5692138671875,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Opposed Stealth/Perception Test",
+    "bbox": [
+      294.9920959472656,
+      402.4776916503906,
+      529.5692138671875,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "between Rousseaux and the Characters should they break in here at night and try to force the bureau open. If he hears any noise, Rousseaux will come to investigate. Inside the bureau are various writing materials and a book with Rousseaux’s notes on the effects of the warpstone dust (Handout 13, page 74). There is also an unfinished letter to Lady Margritte (Handout 14, page 74), and a locked cash-box (D -10, SL 2) containing a signet ring bearing the von Wittgenstein crest (value 5 GCs), as well as 8 GC, 10/6 in assorted coins.",
+    "bbox": [
+      294.9920959472656,
+      402.4776916503906,
+      529.5692138671875,
+      522.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The bookcase contains various medical treatises from Rousseaux’s student days, and conceals the entrance to the cellar. A successful",
+    "bbox": [
+      294.9920959472656,
+      530.0776977539062,
+      529.569091796875,
+      568.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Perception Test",
+    "bbox": [
+      294.9920959472656,
+      553.2777099609375,
+      529.569091796875,
+      568.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "reveals a catch that causes the bookcase to swing open, revealing a flight of steps leading down to the cellar. A stench of decay wafts up from below when the secret door is opened.",
+    "bbox": [
+      294.9920959472656,
+      553.2777099609375,
+      529.569091796875,
+      603.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "E. Cellar",
+    "bbox": [
+      294.9920959472656,
+      608.271728515625,
+      529.564697265625,
+      628.6957397460938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A flight of rickety wooden steps leads down into the cellar. It is here that Rousseaux mixes the powdered warpstone into his rotgut. Across the room is a table with several vials and bottles upon it. A locked (D +20, SL 0) wooden door (TB 2, W15) leads to the cannibal tunnels beneath the village. A strong stench of decay emanates from a buzzing mass of blackness lying on a bench against the far wall.",
+    "bbox": [
+      294.9920959472656,
+      622.877685546875,
+      529.564697265625,
+      707.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Surgery",
+    "bbox": [
+      61.958499908447266,
+      541.82568359375,
+      275.2355651855469,
+      553.815673828125
+    ]
+  }
+]

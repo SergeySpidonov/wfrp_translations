@@ -1,0 +1,322 @@
+[
+  {
+    "type": "h2",
+    "text": "The Inn of the Roaring Falls",
+    "bbox": [
+      50.74020004272461,
+      59.129825592041016,
+      285.31536865234375,
+      80.58582305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The inn is run by Uta Freikrüger, who is also the lock-keeper. As Astrit said, it is a clean, cosy place with a welcoming atmosphere. Accommodation is available at half the prices listed in the Consumer’s Guide (",
+    "bbox": [
+      50.74020004272461,
+      77.67780303955078,
+      285.31536865234375,
+      127.79579162597656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      50.74020004272461,
+      112.47779083251953,
+      285.31536865234375,
+      127.79579162597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 302). There may be a handful of other guests at the inn, mostly riverfolk of various types, or the adventurers may be the only visitors.",
+    "bbox": [
+      50.74020004272461,
+      112.47779083251953,
+      285.31536865234375,
+      150.9958038330078
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Uta is assisted by Theo Luckstein, a hulking barman (",
+    "bbox": [
+      50.7401008605957,
+      158.877685546875,
+      285.29510498046875,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Menial",
+    "bbox": [
+      50.7401008605957,
+      158.877685546875,
+      285.29510498046875,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "), plus a cook (",
+    "bbox": [
+      50.7401008605957,
+      158.877685546875,
+      285.29510498046875,
+      185.79579162597656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Servant",
+    "bbox": [
+      50.7401008605957,
+      170.477783203125,
+      285.29510498046875,
+      185.79579162597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "), two stable hands, and two serving/ chamber maids (all",
+    "bbox": [
+      50.7401008605957,
+      170.477783203125,
+      285.29510498046875,
+      197.3958282470703
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Menials",
+    "bbox": [
+      50.7401008605957,
+      182.07781982421875,
+      285.29510498046875,
+      197.3958282470703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "). There is also Jake — an ancient Marienburger who has tools for minor boat repairs, and who operates the simple raft of a ferry across the Stir (",
+    "bbox": [
+      50.7401008605957,
+      182.07781982421875,
+      285.29510498046875,
+      220.5957794189453
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Bargeswain",
+    "bbox": [
+      50.7401008605957,
+      205.27777099609375,
+      285.29510498046875,
+      220.5957794189453
+    ]
+  },
+  {
+    "type": "body",
+    "text": ").",
+    "bbox": [
+      50.7401008605957,
+      205.27777099609375,
+      285.29510498046875,
+      220.5957794189453
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The staff and guests can be a source of rumours, and can tell the adventurers a little about the village of Unterbaum (see The Baumenvolk, below). The inn’s patrons are often engaged in low stakes gambling. They favour an odd game involving intricately painted cards that has become popular as of late, and welcome any to join them and gamble a few pennies.",
+    "bbox": [
+      50.7401008605957,
+      228.477783203125,
+      285.3063659667969,
+      301.7958068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Enquiries about the Barren Hills, however, will meet with the same muttered prayers — ‘ Sigmar save us! ’ — and worried looks the adventurers encountered in Kemperbad. The inn’s staff can recommend Corrobreth, Unterbaum’s village priest, as a good source of information on the hills. They can also give directions to the village, which lies just a few miles west of the inn.",
+    "bbox": [
+      50.7401008605957,
+      309.67779541015625,
+      285.3213806152344,
+      382.99578857421875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Crossing the River Narn",
+    "bbox": [
+      50.7401008605957,
+      383.9298095703125,
+      285.3213806152344,
+      405.38580322265625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "In order to reach Unterbaum, the adventurers may have to cross the River Narn. There is neither bridge nor ferry, but fortunately the river is not particularly deep (except after heavy rain). The current is strong, however, and local NPCs will advise the adventurers to rope themselves together before attempting to cross. Due to the cliffs, the best place to cross is above point 4 on the map on page 56. Anyone wading across the river must make a",
+    "bbox": [
+      50.7401008605957,
+      402.4778137207031,
+      285.3213806152344,
+      498.99578857421875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Athletics",
+    "bbox": [
+      50.7401008605957,
+      483.67779541015625,
+      285.3213806152344,
+      498.99578857421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to keep their footing. Characters not tied together who fail may make a",
+    "bbox": [
+      50.7401008605957,
+      483.67779541015625,
+      285.3213806152344,
+      510.5957946777344
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Swim",
+    "bbox": [
+      50.7401008605957,
+      495.2778015136719,
+      285.3213806152344,
+      522.19580078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to make it across. If this is also failed, the Character must spend a Fate Point or be swept over the falls. Anyone who fails the first test but is tied to other Characters can be pulled upright if the Character next to them makes an",
+    "bbox": [
+      50.7401008605957,
+      506.8778076171875,
+      285.3213806152344,
+      556.9957885742188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Strength",
+    "bbox": [
+      50.7401008605957,
+      541.6777954101562,
+      285.3213806152344,
+      568.5957641601562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. If the result is an Impressive Failure (-4 SL) or worse, this Character also falls, then the next Character in the line may make an",
+    "bbox": [
+      50.7401008605957,
+      553.2777709960938,
+      285.3213806152344,
+      591.7957763671875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Strength",
+    "bbox": [
+      50.7401008605957,
+      576.477783203125,
+      285.3213806152344,
+      591.7957763671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, and so on.",
+    "bbox": [
+      50.7401008605957,
+      576.477783203125,
+      285.3213806152344,
+      591.7957763671875
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "UNTERBAUM",
+    "bbox": [
+      50.7401008605957,
+      603.4427490234375,
+      149.1772003173828,
+      626.0907592773438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Unterbaum is an idyllic, rural village, protected by druidic priests from the dangers of the Empire’s forests. Villagers have little interest in events in the outside world, and seldom travel farther than the river, where they trade grains and root vegetables for iron and tools. They are a trusting, peaceful folk, devout followers of Rhya, with a strong sense of hospitality, and will offer food and shelter to any traveller.",
+    "bbox": [
+      50.7401008605957,
+      634.477783203125,
+      285.31610107421875,
+      719.3958129882812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The village stands in the centre of a large clearing, about a mile across, consisting of fields, goat pens, and pig sties. A rough wooden stockade surrounds a cluster of log cabins, all facing a large oak tree in the middle of the village.",
+    "bbox": [
+      294.9920959472656,
+      66.07770538330078,
+      529.559326171875,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Astrit introduces the adventurers to Vorster, the village elder, and Corrobreth, the village priest. Before the villagers will answer any questions, the necessities of hospitality must be observed. Food and drink are brought, and a cabin is placed at the adventurers’ disposal. All the villagers are open and friendly, and the village seems safe and welcoming. Vorster explains that few strangers ever visit the village except to trade, and gently enquires about the party’s intentions. If the adventurers explain that they are planning to venture into the Barren Hills, their hosts try to dissuade them from such a dangerous undertaking. Corrobreth tells the story of the meteor.",
+    "bbox": [
+      294.9920959472656,
+      124.07770538330078,
+      529.5582885742188,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘Many generations ago, the beings of Chaos poured out of their vile wastelands to despoil the land and gather souls for their despicable gods. It was a dark time indeed, for even the sky's vault above conspired with them. For days, the sky screamed and the Chaos moon howled and spat its evil upon us.",
+    "bbox": [
+      294.9920959472656,
+      263.2777099609375,
+      529.3250732421875,
+      324.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "To protect us, the Druids of old built a stone circle around the places where its foul expectorations landed, but it was barely enough. The land was blighted for generations, and around Devil’s Bowl, where the largest piece landed, strange, unnatural growths began to appear. I fear there are evil things still lurking in the hills, waiting till the time comes for them to rise up and sweep away all before them.’",
+    "bbox": [
+      294.9920959472656,
+      332.877685546875,
+      529.360107421875,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the Red Crown expedition has already passed by, Vorster adds, ‘ You are not the only ones venturing into the hills. Another group of strangers passed this way recently, led by a fair-haired woman and a dark-haired man. They did not stop here, but came up from the Twin Falls and headed straight into the hills towards the Devil’s Bowl. ’",
+    "bbox": [
+      294.9920959472656,
+      414.07769775390625,
+      529.5162353515625,
+      475.7956848144531
+    ]
+  }
+]

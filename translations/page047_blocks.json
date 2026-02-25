@@ -1,0 +1,302 @@
+[
+  {
+    "type": "h1",
+    "text": "THE MINE",
+    "bbox": [
+      50.74020004272461,
+      267.0426940917969,
+      128.84921264648438,
+      289.6907043457031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Old Mine map (page 46) shows the layout of the mine. From the entrance, the smell of wolves and Goblins is very strong. The timbers shoring up the entrance are very badly decayed and riddled with woodworm: they can easily be pulled down with an",
+    "bbox": [
+      50.74020004272461,
+      298.07769775390625,
+      285.3162536621094,
+      359.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Strength",
+    "bbox": [
+      50.74020004272461,
+      344.4776916503906,
+      285.3162536621094,
+      359.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, trapping any Goblins inside. It will take them at least two days to dig their way out.",
+    "bbox": [
+      50.74020004272461,
+      344.4776916503906,
+      285.3162536621094,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "An old mine cart lies just inside the entrance, so badly rusted that it can only be moved by two Characters succeeding in a",
+    "bbox": [
+      50.7401008605957,
+      379.2777099609375,
+      285.3062744140625,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Strength",
+    "bbox": [
+      50.7401008605957,
+      402.4776916503906,
+      285.3062744140625,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test each Round, or a single Character succeeding in a",
+    "bbox": [
+      50.7401008605957,
+      402.4776916503906,
+      285.3062744140625,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Very Hard (-30) Strength",
+    "bbox": [
+      50.7401008605957,
+      414.07769775390625,
+      285.3062744140625,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. When moving, its wheels squeak so loudly that every Wolf and Goblin in the mine is alerted. The three numbered chambers are used as sleeping quarters. They are extremely dirty and smelly, and have flea-ridden bedding on the floor.",
+    "bbox": [
+      50.7401008605957,
+      414.07769775390625,
+      285.3062744140625,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Cave-In!",
+    "bbox": [
+      50.7401008605957,
+      476.7297058105469,
+      285.3062744140625,
+      498.1856994628906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Conditions in the mine are damp and dark with a pervasive smell. As the adventurers enter, dust and grit falls ominously from the ceiling. Although there is no immediate chance of a cave-in, any fighting or other violent activity may cause one. Each Round of activity there is a 10% chance that the timbers supporting the roof will begin to collapse. This increases to 30% if blackpowder or other explosive weapons are used.",
+    "bbox": [
+      50.7401008605957,
+      495.2777099609375,
+      285.3062744140625,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "During the first Round of a cave-in, dust falls from the roof and the timbers creak ominously. This gets worse on the second Round. On the third Round there is a loud, reverberating crack and a broken beam sags down from the roof. On the fourth Round the roof collapses, blocking a 2-yard stretch of passage.",
+    "bbox": [
+      50.7401008605957,
+      588.0776977539062,
+      285.3045654296875,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Anyone who retreats before the fourth Round will not be injured. Everyone still in the area when the roof collapses will suffer 8 Wounds, reduced to 5 with a successful",
+    "bbox": [
+      50.7401008605957,
+      657.6776733398438,
+      285.3072204589844,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Dodge",
+    "bbox": [
+      50.7401008605957,
+      680.877685546875,
+      285.3072204589844,
+      707.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. These wounds are reduced by Toughness Bonus, but not armour.",
+    "bbox": [
+      50.7401008605957,
+      692.4777221679688,
+      285.3072204589844,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Death on the Reik",
+    "bbox": [
+      62.529701232910156,
+      111.76512908935547,
+      280.58563232421875,
+      123.75513458251953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "GOBLINS OF THE TWISTED MAW (24)",
+    "bbox": [
+      335.2200012207031,
+      524.3438720703125,
+      486.63897705078125,
+      536.2638549804688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      311.2247009277344,
+      541.9437255859375,
+      510.8684997558594,
+      553.8637084960938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 25 40 35 35 20 35 40 30 20 20 14",
+    "bbox": [
+      312.7347106933594,
+      556.2855834960938,
+      511.3735046386719,
+      571.6035766601562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents & Traits:",
+    "bbox": [
+      306.3306884765625,
+      569.9202880859375,
+      517.07763671875,
+      585.23828125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Accurate Shot 2, Armour 1 (3 with Shield), Afraid (Elves), Hardy, Hatred (Dwarfs), Infected, Night Vision, Ranged (Shortbow) +7, Weapon (Sword) +7",
+    "bbox": [
+      306.3306884765625,
+      569.9202880859375,
+      517.07763671875,
+      606.8383178710938
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      306.3306884765625,
+      605.1549072265625,
+      517.05859375,
+      620.472900390625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Melee (Basic) 35, Perception 30, Ranged (Bow) 50, Ride (Wolf) 45",
+    "bbox": [
+      306.3306884765625,
+      605.1549072265625,
+      517.05859375,
+      631.2728881835938
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      306.3306884765625,
+      629.589599609375,
+      497.6764831542969,
+      644.9075927734375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Leather Jerkin, Shield, Shortbow, Sword",
+    "bbox": [
+      306.3306884765625,
+      629.589599609375,
+      497.6764831542969,
+      644.9075927734375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "GREAT WOLVES (15)",
+    "bbox": [
+      371.8245849609375,
+      648.359619140625,
+      450.0345764160156,
+      660.2796020507812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      311.2247009277344,
+      665.9595336914062,
+      510.8684997558594,
+      677.8795166015625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 55 - 35 40 30 55 - 15 15 - 12",
+    "bbox": [
+      312.7347106933594,
+      680.3013916015625,
+      511.3735046386719,
+      695.619384765625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      306.3306884765625,
+      693.9359741210938,
+      518.2068481445312,
+      709.2539672851562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour 1, Bestial, Night Vision, Skittish, Stride, Tracker, Trained (Mount), Weapon +7",
+    "bbox": [
+      306.3306884765625,
+      693.9359741210938,
+      518.2068481445312,
+      720.0540161132812
+    ]
+  }
+]

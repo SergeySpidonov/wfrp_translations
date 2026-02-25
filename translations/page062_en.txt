@@ -1,0 +1,69 @@
+=== СТРАНИЦА 62 ===
+
+[H1] NON-PLAYER CHARACTERS
+
+[H2] The Villagers
+
+The villagers of the Baumenvolk are a hardy lot. The nearby forest, and the Barren Hills beyond, have encouraged them to be well prepared for interlopers. You may use the profile given on page 52, Grissenwald Farmers and Farm Labourers, for their statistics, but each adult in the village has a 50% chance of carrying a shortbow. If so, they also have a Ranged (Bow) Skill of 35.
+
+[B] Corrobreth the Priest
+
+Corrobreth’s face bears deep score-marks down each side of his cheeks, which are very evident when he smiles. He does not indulge in casual conversation, but when he does speak it is to offer advice or provide important information. Like all followers of Rhya, he avoids taking life unless it is necessary for sustenance or defence. Consequently, he prefers to avoid conflict, relying on stealth or compromise to avoid danger.
+
+Corrobreth is aware of the changes caused by the warpstone meteorite. He knows the location of the meteor crater, and of the monoliths erected around it. He has never had any cause to go to the site himself, but he is willing to act as the adventurers’ guide.
+
+[B] VORSTER THE ELDER – HUMAN VILLAGE ELDER (SILVER 2)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 48 30 44 46 29 45 28 44 32 56 15
+
+[B] Traits:
+
+Armour (Leather Jack) 1, Weapon (Two-Handed Woodsman’s Axe) +10
+
+[B] Skills:
+
+Animal Care 54, Athletics 50, Bribery 71, Charm 74, Consume Alcohol 56, Cool 35, Dodge 50, Endurance 53, Entertain (Storytelling) 73, Evaluate 49, Gossip 73, Haggle 71, Intimidate 53, Intuition 44, Language (Bretonnian) 49, Leadership 72, Lore (Local 60, Reikland 47), Melee (Basic 54, Brawling) 56, Two-Handed 60), Outdoor Survival 59, Ranged (Bow) 35
+
+[B] Talents:
+
+Animal Affinity, Attractive, Dealmaker 2, Doomed ( Thy Death Shall Be Unknown To Thee ), Public Speaker, Read/Write, Resistance (Disease)
+
+[B] Trappings:
+
+Leather Jack, Two-Handed Woodsman’s Axe
+
+[B] CORROBRETH THE PRIEST – HUMAN PRIEST (SILVER 1)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 33 31 30 33 32 32 30 39 41 38 13
+
+[B] Traits:
+
+Weapon (Sword) +7
+
+[B] Skills:
+
+Animal Care 44, Athletics 37, Charm 44, Cool 47, Endurance 38, Evaluate 44, Haggle 41, Heal 50, Intimidate 35, Intuition 39, Leadership 41, Lore (Reikland 44, Theology 46), Melee (Basic) 43, Perception 40, Pray 44, Research 44, Row 37
+
+[B] Talents:
+
+Bless (Rhya), Invoke (Rhya), Night Vision, Orientation, Read/Write, Resistance (Poison), Savvy
+
+[B] Trappings:
+
+Pet Raven, Raft, Religious Symbol, Robes, Sack, Staff, Sword
+
+[B] Blessings:
+
+Breath, Conscience, Grace, Healing, Protection, Recuperation
+
+[B] Miracles:
+
+Rhya’s Children, Rhya’s Harvest, Rhya’s Touch
+
+[B] Vorster the Elder
+
+Vorster has been Elder for 12 years, and is liked and respected in the village. He is a friendly and congenial individual who delights in entertaining guests. He takes great pains to ensure their comfort, although he does so in such a way that it appears natural and effortless.

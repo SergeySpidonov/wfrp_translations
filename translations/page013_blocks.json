@@ -1,0 +1,182 @@
+[
+  {
+    "type": "body",
+    "text": "Until the ‘purple palm’ warning is properly delivered, the cultists will repeat the attempt, using a variety of disguises: beggars, Strigany, entertainers, and so on. After the first few encounters you can tell the adventurers that the odd folk gesticulating at them seem strangely familiar as well as just… strange. If the cultists have not managed to pass the purple palm after two days, they will leave for Altdorf to report to their superiors.",
+    "bbox": [
+      295.0015869140625,
+      332.877685546875,
+      529.5599365234375,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers may try to tail the cultists either to their lodgings in Weissbruck or all the way to Altdorf. Both cultists are skilled at avoiding pursuit and relevant Tests are",
+    "bbox": [
+      295.0015869140625,
+      425.6777038574219,
+      529.559814453125,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20)",
+    "bbox": [
+      295.0015869140625,
+      448.877685546875,
+      529.559814453125,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "or",
+    "bbox": [
+      295.0015869140625,
+      460.4776916503906,
+      529.559814453125,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Very Hard (-30)",
+    "bbox": [
+      295.0015869140625,
+      460.4776916503906,
+      529.559814453125,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "at your discretion. If the adventurers do manage to corner the cultists, they will fight to the death rather than allow themselves to be captured. Use the profile for Purple Hand Cultist found on page 23 if required.",
+    "bbox": [
+      295.0015869140625,
+      460.4776916503906,
+      529.559814453125,
+      510.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Her offer is quite sincere, but she is quite gushing in her praise when she makes it: she has been shaken by the mutant attack, and is very glad to be alive. Renate is actually quite useful around boats, too.",
+    "bbox": [
+      50.74020004272461,
+      66.07782745361328,
+      285.3072204589844,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Renate or Josef can also explain how to trade the cargo on arrival at a suitable port. See the",
+    "bbox": [
+      50.74020004272461,
+      124.07782745361328,
+      285.2803649902344,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Death on the Reik Companion",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.2803649902344,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "for more details.",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.2803649902344,
+      162.5957794189453
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "WEISSBRUCK",
+    "bbox": [
+      50.74020004272461,
+      174.24282836914062,
+      159.03900146484375,
+      196.8908233642578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "In Weissbruck, the adventurers have the opportunity to buy equipment and supplies, and perhaps to train for Career changes. They may wish to trade their salvaged cargo, and to look up Elvyra Kleinestun, the herbalist they met at the Schaffenfest in Bögenhafen. They may also make enquiries about the bounty hunter Adolphus Kuftsos, whom they encountered there.",
+    "bbox": [
+      50.74020004272461,
+      205.27777099609375,
+      285.30364990234375,
+      278.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "First, however, they must deal with the Purple Hand cultists who are anticipating their arrival.",
+    "bbox": [
+      50.74020004272461,
+      286.4778137207031,
+      285.30731201171875,
+      313.3957824707031
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Purple Palm",
+    "bbox": [
+      50.74020004272461,
+      314.3298034667969,
+      285.30731201171875,
+      335.7857971191406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "When the adventurers first arrive in the town, they are approached by two cultists disguised as pedlars. Under cover of an innocent-sounding sales patter, these two try to exchange secret signs with Lieberung’s double among the adventurers. If ‘Lieberung’ is dead, the pedlars will try to use secret signs to determine the cult loyalties of the other adventurers.",
+    "bbox": [
+      50.74020004272461,
+      332.8778076171875,
+      285.30731201171875,
+      406.19580078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "While one ‘pedlar’ carries on with a normal sales pitch, the other scratches the right-hand side of his nose with the little finger of his left hand while inserting the thumb of his right hand into his right ear, palm to the front and the fingers fully extended. If any adventurer copies this gesture, both cultists will wink knowingly, and the one who did not make the sign will hold out his right hand to shake hands. The cultist’s palm is coated with purple ink, and after the handshake, the two will",
+    "bbox": [
+      50.74020004272461,
+      414.0777893066406,
+      285.28936767578125,
+      510.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "quickly disappear into the crowd or a maze of back alleys. The target of the handshake will have a stained, purple palm. This is a sign used by the cult to convey a warning. In this case the warning is ‘hand over the inheritance’, and there’s an ‘or else’ in there too…",
+    "bbox": [
+      294.9920959472656,
+      66.07770538330078,
+      529.5555419921875,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers don’t respond, the cultists’ gestures become more and more deliberate. They will eventually give up and disappear (as above, into the crowd or through a maze of alleys) when a Watch patrol appears. They don’t talk or answer questions, except for their false sales pitch.",
+    "bbox": [
+      294.9920959472656,
+      135.67767333984375,
+      529.5610961914062,
+      197.3957061767578
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "type": "body",
+    "text": "The other two thugs in the hayloft take two Rounds to react to the sentry’s warning or the sounds of fighting. On the first Round, they look over the 3 ft high railing on the hayloft, and dodge back as soon as they see the adventurers. The second Round is wasted in panic, as they were not expecting trouble. On the third Round, they hoist Elvyra out of the chair, leaving her hands and feet bound. Should the adventurers come up the ladder, the two thugs are standing behind Elvyra with a dagger at her throat.",
+    "bbox": [
+      51.19110107421875,
+      321.2777099609375,
+      285.731201171875,
+      429.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The thugs do not intend to kill Elvyra; she is valuable to their master. They do expect the threat to make the adventurers hesitate, giving them time to push her out of the hayloft into a pile of mouldy straw outside, jump after her, and then escape as best they can. The plan is not perfect by any means, but it is the best that they have. If it becomes clear that they cannot win in a stand-off or fight, the thugs will surrender, hoping to make a run for it when they are led out of the barn.",
+    "bbox": [
+      51.19110107421875,
+      437.2777099609375,
+      285.7491455078125,
+      533.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Elyvra’s rescue should pose little trouble. If the adventurers fail she will be taken to Altdorf, never to be heard from again.",
+    "bbox": [
+      51.19110107421875,
+      541.6777954101562,
+      285.7213439941406,
+      568.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If possible, you should arrange matters so that the thugs all escape or are killed. If necessary, have Elvyra kick one of them so that he falls onto a pitchfork or hits his head. She will be distraught at the death. The point of this is that if the adventurers get to interrogate the thugs they may be tempted to waste time in Altdorf looking for a daemonologist.",
+    "bbox": [
+      51.19110107421875,
+      576.477783203125,
+      285.7555236816406,
+      649.7957763671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If an interrogation does happen, then the thugs admit:",
+    "bbox": [
+      51.19110107421875,
+      657.6776733398438,
+      251.62112426757812,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘ We was hired by a tall man. Tall-ish. Not quite my size. Sort of. Looked about forty, I suppose, though it’s hard to tell with posh folks. I dunno. Middling years, perhaps. Piercing-blue eyes, he had, like",
+    "bbox": [
+      51.19110107421875,
+      680.877685546875,
+      285.541259765625,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "ice. Right hard looking, in a soft sorta way. Or were they brown? Or maybe green. He definitely had two of them. I noticed that .",
+    "bbox": [
+      295.4525146484375,
+      321.2778015136719,
+      529.751220703125,
+      348.19580078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "After a while, the adventurers should realise that the thugs know nothing useful about their employer, except for the fact that he paid them 5 GC and promised another 20 GC on Elvyra’s delivery. Searching the barn and the thugs turns up an assortment of glass vials and bottles from Elvyra’s house, three Daggers, two pairs of Knuckledusters, and a total of 10 shillings.",
+    "bbox": [
+      295.4525146484375,
+      356.0777893066406,
+      529.9934692382812,
+      429.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If asked about her kidnappers, Elvyra will say that they were working for someone in Altdorf who wanted her to do something she definitely didn’t want to do. Beyond that she refuses to explain anything. She is happy to be free though, and polite enough with her thanks.",
+    "bbox": [
+      295.4525146484375,
+      437.2778015136719,
+      530.0162963867188,
+      498.99578857421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers ever return to Weissbruck, Elvyra and Liza are gone, moved to a new town under new names.",
+    "bbox": [
+      295.4525146484375,
+      506.8778076171875,
+      529.9755859375,
+      533.7957763671875
+    ]
+  }
+]

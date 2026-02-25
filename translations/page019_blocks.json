@@ -1,0 +1,252 @@
+[
+  {
+    "type": "body",
+    "text": "If it looks like the adventurers are having a hard time, remember that thuggish types rarely have too many friends, and that a bystander will always point the adventurers in the right direction. No one is going to be too upset if Bengt, Gurt, and Willi get a bit of a thumping… or worse. Capturing one or more of the labourers allows some questions to be asked, but without many helpful answers. ‘The boss man’ paid in cash; he might be an Altdorfer, they didn’t ask about his business with the adventurers, they ‘Just did a job, y’know… that’s all. Bit o’ fun and a larf.’ Kuftsos was a very recognisable figure. The adventurers can find plenty of dockside innkeepers and bar patrons who remember him. However, he never spoke to a Weissbruck local about the business that brought him there.",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.30279541015625,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "WEISSBRUCK TO ALTDORF",
+    "bbox": [
+      50.74020004272461,
+      243.84271240234375,
+      257.5152893066406,
+      266.49072265625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There is a toll of 18/- to take a boat into the Weissbruck canal, or 2 GC for barges over 12 ft wide. The alternative to paying is a journey down the river to Carroburg, then back up the Reik to Altdorf. This is approximately three times as far as the canal trip.",
+    "bbox": [
+      50.74020004272461,
+      274.877685546875,
+      285.3153991699219,
+      322.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "It takes three days to get from Weissbruck to Altdorf by canal, which is peaceful, with a regular river patrol presence. The chances of any attack are almost nil, but at your discretion the journey can be punctuated by hazards and human encounters. The ‘River Life of the Empire’ section of the",
+    "bbox": [
+      50.74020004272461,
+      321.2777099609375,
+      285.29913330078125,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Death on the Reik Companion",
+    "bbox": [
+      50.74020004272461,
+      367.6777038574219,
+      285.29913330078125,
+      394.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "is a good place for inspiration. The adventurers will get a chance to practise their boat handling skills and become used to a waterway life in this comparatively safe and controlled environment.",
+    "bbox": [
+      50.74020004272461,
+      379.2777099609375,
+      285.29913330078125,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Altdorf",
+    "bbox": [
+      50.74020004272461,
+      430.3297119140625,
+      285.29913330078125,
+      451.78570556640625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Empire’s capital looms above the dock, vast and full of promise. Though they may not know it, the adventurers are pressed for time, and can’t explore the fabled city any more thoroughly than when they were on the way to Bögenhafen. However brief, their visit this time will not be uneventful.",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.29913330078125,
+      510.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "A Routine Check",
+    "bbox": [
+      50.74020004272461,
+      515.4717407226562,
+      285.2721252441406,
+      535.895751953125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A river patrol boat stops the adventurers while they are approaching Altdorf. The crew are friendly and not very thorough, so any hidden contraband goes undiscovered. The check should serve to make the adventurers feel uncomfortable. If they are carrying anything illegal, have the river patrol come close to discovering it. Encourage the adventurers to find a way to distract their visitors.",
+    "bbox": [
+      50.74020004272461,
+      530.0776977539062,
+      285.2721252441406,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "One of the river patrol crew is, however, a Purple Hand agent. He stares suspiciously for a moment at the adventurers and particularly at ‘Lieberung’. He says nothing and goes about his business, avoiding further contact with the adventurers. As soon as the patrol boat reaches docks, he reports the sighting to his superiors in the cult.",
+    "bbox": [
+      50.74020004272461,
+      622.877685546875,
+      285.2928466796875,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The river patrol captain will take a statement from the adventurers about how they came into possession of the boat. Depending on how much trouble you want to make for your adventurers there are a couple of ways of dealing with their salvage. The captain can issue them a Writ of Salvage giving them legal title to the boat and its cargo. This costs 5 GCs. He can, if they are in any way evasive, direct them to the Harbourmaster’s Court on the dockside. In this case, the adventurers can look forward to two or three days of bureaucratic delays, paperwork, and (even higher) documentation fees.",
+    "bbox": [
+      294.9920959472656,
+      66.07770538330078,
+      529.5592651367188,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "In the Market",
+    "bbox": [
+      294.9920959472656,
+      190.6716766357422,
+      529.5510864257812,
+      211.09567260742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the Characters have not yet managed to find a buyer for the wool on the boat, shortly after mooring they will be approached by a Herr Hohenzoll. This merchant drives a hard bargain, and will offer them 10 shillings per sack of wool, but can be haggled up to 2 GC per sack by anyone who makes a couple of",
+    "bbox": [
+      294.9920959472656,
+      205.2777099609375,
+      529.5510864257812,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Charm",
+    "bbox": [
+      294.9920959472656,
+      251.67770385742188,
+      529.5510864257812,
+      278.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "or",
+    "bbox": [
+      294.9920959472656,
+      263.2777099609375,
+      529.5510864257812,
+      278.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Haggle",
+    "bbox": [
+      294.9920959472656,
+      263.2777099609375,
+      529.5510864257812,
+      278.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Tests. Hohenzoll wants to do business, but he isn’t a charity. You should encourage your adventurers to spend some of this money on equipment. They will certainly need it later on in the adventure!",
+    "bbox": [
+      294.9920959472656,
+      263.2777099609375,
+      529.5510864257812,
+      313.39569091796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Wanted!",
+    "bbox": [
+      294.9920959472656,
+      318.271728515625,
+      529.5592041015625,
+      338.6957092285156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers may be apprehensive about entering Altdorf after the young noble’s murder during their last visit. They won’t know that the real culprits have already been caught and hanged. Wanted posters accurately describing two of the adventurers and offering a 10 GC reward are still posted around the docks, and in many of the surrounding villages.",
+    "bbox": [
+      294.9920959472656,
+      332.877685546875,
+      529.5592041015625,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "While they are in the city there is a 20% chance per day that someone will report the adventurers and claim the reward. Perhaps someone stares at them in the street, then hurries away. A six-man Watch patrol arrives later to arrest the adventurers and, if they don’t bribe or bluff their way out, they will spend three days in a damp, lice-ridden cell. Their captors release them when it comes to light that the case is solved. However, it’s quite possible that some of their gear mysteriously goes missing while they are incarcerated. This is your opportunity to remove one or two items that are a little too useful to the Characters.",
+    "bbox": [
+      294.9920959472656,
+      414.07769775390625,
+      529.56494140625,
+      533.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If and when the adventurers next visit Altdorf, the wanted posters have disappeared, pasted over with new announcements. There is no further danger from the Watch over that incident.",
+    "bbox": [
+      294.9920959472656,
+      541.6776733398438,
+      529.5411376953125,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Keeping Tabs",
+    "bbox": [
+      294.9920959472656,
+      585.0717163085938,
+      529.5504760742188,
+      605.4957275390625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Purple Hand has been expecting the adventurers to arrive in Altdorf, as they were tipped off by their agents in Weissbruck when the adventurers’ boat left town.",
+    "bbox": [
+      294.9920959472656,
+      599.6776733398438,
+      529.5504760742188,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "While the cultists are watching the docks, this time they do not attempt to make contact. Instead, two low-level cultists tail the adventurers night and day, trying to learn what ‘Lieberung the Magister Impedimentae’ and his companions are doing. When the adventurers leave Altdorf, the cultists will hire a small boat and follow them.",
+    "bbox": [
+      294.9920959472656,
+      646.0776977539062,
+      529.5584716796875,
+      719.3956909179688
+    ]
+  }
+]

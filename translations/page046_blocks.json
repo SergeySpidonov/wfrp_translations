@@ -1,0 +1,112 @@
+[
+  {
+    "type": "h2",
+    "text": "The Goblins — Daytime",
+    "bbox": [
+      82.20469665527344,
+      418.72979736328125,
+      561.024658203125,
+      440.185791015625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "During the day Goblins are asleep at the following locations. napping. It will be much more exciting if Gutbag is ready when the adventurers enter his room, however. Noisy or careless adventurers are likely to alert the Goblins: they will yell out warnings, and other Goblins will converge on their position over the next 2D10 Rounds. The nearest Goblins will be the first to arrive, followed by those in the tower, and finally the Goblins from the mine.",
+    "bbox": [
+      82.20469665527344,
+      437.2777099609375,
+      561.024658203125,
+      522.1956787109375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Nighttime",
+    "bbox": [
+      82.20469665527344,
+      523.1296997070312,
+      561.024658203125,
+      544.585693359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Goblin raids take place on alternate nights, so if there was a raid the previous night, the Goblins will be relaxing in the tower and mine (same locations as during the day, but they are awake).",
+    "bbox": [
+      82.20469665527344,
+      541.6777954101562,
+      561.024658203125,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "On the night of a raid, Gutbag and his forces begin assembling at midnight in the area in front of the mine. Half an hour later they head down the main track towards Grissenwald. Any adventurers approaching the mine at this time will hear them coming and have time to hide before the Goblins reach them.",
+    "bbox": [
+      326.4566955566406,
+      588.0776977539062,
+      561.0318603515625,
+      649.7957763671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "During a raid, 3–5 wounded Goblins are left at the tower, each with around half their total Wounds remaining. The raiders return at five o’clock in the morning: their wolves are allowed to run free, returning to the mine of their own accord later.",
+    "bbox": [
+      326.4566955566406,
+      657.6777954101562,
+      561.0336303710938,
+      707.7957763671875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "THE MINE",
+    "bbox": [
+      177.7758026123047,
+      464.2462158203125,
+      218.88580322265625,
+      476.16619873046875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Area Goblins Wolves",
+    "bbox": [
+      114.89029693603516,
+      480.7501220703125,
+      277.51348876953125,
+      492.67010498046875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "THE TOWER",
+    "bbox": [
+      175.04550170898438,
+      545.272216796875,
+      223.905517578125,
+      557.1921997070312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Area No. of Goblins",
+    "bbox": [
+      122.39759826660156,
+      561.776123046875,
+      255.83677673339844,
+      573.6961059570312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A guard is supposed to watch the winding approach from the mine to the tower, but is often asleep. If the adventurers are careful, they may be able to catch most of the Goblins",
+    "bbox": [
+      81.97920227050781,
+      669.2777099609375,
+      316.5553283691406,
+      707.7957153320312
+    ]
+  }
+]

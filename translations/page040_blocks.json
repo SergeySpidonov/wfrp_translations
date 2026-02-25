@@ -1,0 +1,112 @@
+[
+  {
+    "type": "body",
+    "text": "If a fight does break out, the Dwarfs have no wish to kill anyone. They just want a decent recreational punch-up. If attacked, they pick up any improvised weapon that comes to hand: bottles, chairs and so on. Killing one or both Dwarfs will land the adventurers in a blood feud (see below) with their clan.",
+    "bbox": [
+      82.20469665527344,
+      216.877685546875,
+      316.7889404296875,
+      278.595703125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Watch",
+    "bbox": [
+      82.20469665527344,
+      279.5296936035156,
+      316.7889404296875,
+      300.9856872558594
+    ]
+  },
+  {
+    "type": "body",
+    "text": "After 6 Rounds of fighting a Watch patrol arrives at the inn. You can make the response time longer if your Players are enjoying the fight. The patrol consists of four watchmen and a sergeant. They try to break up the fight and, if no one has been killed, they take the Dwarfs away to sleep off their drunkenness in the cells. If one or both of the Dwarfs have been killed, the Watch sergeant warns the adventurers to make themselves scarce.",
+    "bbox": [
+      82.20469665527344,
+      298.07769775390625,
+      316.7889404296875,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘Normally we’d run you in, but as this were self-defence we’ll say no more about it. They came looking for a fight, picked the wrong folk. But I don’t want you around here. These wasters have a lot of relatives and I don’t need more headaches. Get out of town and stay out, or it’ll be the lock-up for you.’",
+    "bbox": [
+      82.20469665527344,
+      390.877685546875,
+      316.5466613769531,
+      452.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The patrol leaves, taking any Dwarf bodies with them. After the incident, the locals in the inn will start to complain:",
+    "bbox": [
+      82.20469665527344,
+      460.4776916503906,
+      316.7268371582031,
+      487.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘Murderous dwarfs! They ought to be rounded up, aye, and hung.’",
+    "bbox": [
+      326.4566955566406,
+      216.877685546875,
+      549.4956665039062,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers enquire about the Dwarfs, they will learn more:",
+    "bbox": [
+      326.4566955566406,
+      240.07769775390625,
+      560.9877319335938,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘Murderers, all of ’em. Nasty natures, your dwarfs. Anyways, they’ve burnt down three farms and killed every soul. Watch has done nothing.’",
+    "bbox": [
+      326.4566955566406,
+      274.877685546875,
+      560.8035278320312,
+      313.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Other drinkers confirm the story. Three farms were recently attacked at night, leaving no survivors. Although no one saw the Dwarfs committing the atrocities, the culprits are obvious to the Grissenwald locals:",
+    "bbox": [
+      326.4566955566406,
+      321.2777099609375,
+      561.0238037109375,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘Them dwarfs are spending coin like it’s going out of fashion. They’ve come into money all of a sudden. Don’t take no wizard to put two and two together.’",
+    "bbox": [
+      326.4566955566406,
+      379.2777099609375,
+      560.7979125976562,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The locals are keen to warn the adventurers to stay clear of the Dwarf shanty town at the edge of Grissenwald. If you want, the locals will also provide some or all of the information from ‘The Dwarfs of Grissenwald' on page 42.",
+    "bbox": [
+      326.4566955566406,
+      425.6777038574219,
+      560.996826171875,
+      475.7956848144531
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "bold",
+    "text": "12. Etelka’s Bedroom",
+    "bbox": [
+      82.20469665527344,
+      344.4776916503906,
+      316.7717590332031,
+      359.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "- Etelka’s clothes are scattered across the floor, mixed with Gutbag’s extensive collection of finger bones. Stuck on a bedpost is a severed Dwarven head. Hanging on the wall is a picture of Etelka: if the adventurers have seen her on their journey to Grissenwald, they will not fail to recognise her.",
+    "bbox": [
+      82.20469665527344,
+      344.4776916503906,
+      316.7717590332031,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A wooden chest lies against the west wall, which can be opened with a",
+    "bbox": [
+      82.20469665527344,
+      414.07769775390625,
+      316.7709655761719,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Pick Lock",
+    "bbox": [
+      82.20469665527344,
+      425.6777038574219,
+      316.7709655761719,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, SL5. Gutbag keeps the key on a chain around his neck. Inside the chest are 28 Gold Crowns, 85 Shillings, 105 Brass Pennies and Etelka’s silverware",
+    "bbox": [
+      82.20469665527344,
+      425.6777038574219,
+      316.7709655761719,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "— 12 silver plates (1 GCs each), 12 knife, fork & spoon sets (2 GCs each), and one salt and pepper set (2 GCs). Loose among the coins are 18 silver rings (worth 2d10 x 10 silver shillings in total), 37 earrings (worth 4D10 x 10 silver shillings in total), and an assortment of half-empty perfume bottles.",
+    "bbox": [
+      326.4566955566406,
+      344.4776916503906,
+      561.0436401367188,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A",
+    "bbox": [
+      326.4566955566406,
+      414.07769775390625,
+      560.9959106445312,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Perception",
+    "bbox": [
+      326.4566955566406,
+      414.07769775390625,
+      560.9959106445312,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test reveals a hidden compartment: turning one of the rivets at the bottom of the chest causes it to slide out. Alternatively, any Character who makes a close inspection of the empty chest followed by a",
+    "bbox": [
+      326.4566955566406,
+      414.07769775390625,
+      560.9959106445312,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10)",
+    "bbox": [
+      326.4566955566406,
+      448.877685546875,
+      560.9959106445312,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "We wus forced inta this ya know! We wus a nice ‘n’ peaceful tribe, nevva did any ’arm, didn’t caws no trubble. But we wus picked on and forced outta da mountains by erm... trolls. Yeah! Big trolls it wus... Hey, if ya let us go, I wun’ caws no more trubble.",
+    "bbox": [
+      93.54329681396484,
+      268.5010986328125,
+      312.41729736328125,
+      326.89111328125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "GUTBAG STOAT THROTTLER – GOBLIN LEADER",
+    "bbox": [
+      340.93450927734375,
+      63.831905364990234,
+      531.853515625,
+      75.75190734863281
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      336.6893005371094,
+      81.43181610107422,
+      536.3330688476562,
+      93.35182189941406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 45 60 40 40 20 35 40 30 50 25 21",
+    "bbox": [
+      331.7951965332031,
+      95.77362823486328,
+      544.7680053710938,
+      111.09162902832031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits & Talents:",
+    "bbox": [
+      331.7951965332031,
+      107.37360382080078,
+      544.7680053710938,
+      122.69160461425781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Accurate Shot 2, Armour 2 (5 with shield), Afraid (Elves), Elite, Hatred (Dwarfs), Hardy, Leader, Roughrider, Night Vision, Ranged (Shortbow) +8, Weapon +7",
+    "bbox": [
+      331.7951965332031,
+      107.37360382080078,
+      544.7680053710938,
+      157.49159240722656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      331.7951965332031,
+      155.19091796875,
+      544.7680053710938,
+      170.50892639160156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Melee (Basic) 55, Perception 30, Ranged (Bow) 70, Ride (Wolf) 45",
+    "bbox": [
+      331.7951965332031,
+      155.19091796875,
+      544.7680053710938,
+      182.10902404785156
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      331.7951965332031,
+      179.80828857421875,
+      544.7680053710938,
+      195.1262969970703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Key to the chest in area 12, Diamond Tiara perched on top of Helmet (9 GC), Red ball gown worn over Sleeved Mail Shirt, Helmet, Magical Shield ( Shield 2 , Defensive , Undamaging – see below), Shortbow, Sword",
+    "bbox": [
+      331.7951965332031,
+      179.80828857421875,
+      544.7680053710938,
+      229.92628479003906
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "Magical Shield",
+    "bbox": [
+      331.7952880859375,
+      231.22561645507812,
+      550.6463623046875,
+      247.9136199951172
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Undamaging",
+    "bbox": [
+      331.7952880859375,
+      315.9736022949219,
+      550.6463623046875,
+      327.9635925292969
+    ]
+  }
+]

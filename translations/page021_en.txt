@@ -1,0 +1,91 @@
+=== СТРАНИЦА 21 ===
+
+[B] TENTACLED MUTANT (BRASS 0)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 55 30 35 55 40 45 25 25 30 25 16
+
+[B] Traits:
+
+Amphibious, Armour 1, Corruption (Minor), Mutation (Enormous Eye), Night Vision, 2 Tentacles +7
+
+[B] Skills:
+
+Dodge 55, Melee (Brawling) 65
+
+[B] THE MUTANTS (BRASS 0)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 45 35 41 31 44 31 32 33 40 27 14
+
+[B] Traits:
+
+Corruption (Minor), Mutation (see below), Weapon +8
+
+[B] Skills:
+
+Dodge 41, Swim 53, Melee (Basic) 55
+
+Winged Mutant - Hidden in the trees
+
+[B] Additional Skills
+
+: Ranged (Crossbow) 45
+
+[B] Traits
+
+: Flight 60, Ranged (Crossbow) +9
+
+[B] Trappings:
+
+Spear, Crossbow
+
+Beak-Face - On the Barge
+
+[B] Traits
+
+: Beak (Bite +7)
+
+[B] Trappings:
+
+Sword 5 Wounds remaining
+
+Furry - On the Barge
+
+[B] Traits:
+
+Fur (Armour 1)
+
+[B] Trappings:
+
+Club 6 Wounds remaining
+
+[B] RENATE HAUSIER, HUMAN VAGABOND,
+
+[B] FORMER BOAT-HAND (BRASS 1)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 31 26 35 38 34 45 37 37 40 42 13
+
+[B] Skills:
+
+Charm 54, Consume Alcohol 45, Dodge 50, Endurance 42, Entertain (Storytelling) 47, Evaluate 40, Gossip 51, Haggle 57, Intuition 39, Language (Bretonnian) 40, Melee (Basic) 34, Outdoor Survival 42, Row 43, Sail 57, Stealth (Rural) 52, Swim 43
+
+[B] Talents:
+
+Doomed ( Lives Shall be Saved at the Cost of Thine Own ), Fisherman, Flee!, Night Vision, Resistance (Disease), Rover, Strong Back, Strong Swimmer, Tinker, Very Resilient
+
+[B] Traits:
+
+Weapon (Knife) +5
+
+[B] Trappings:
+
+Blankets (4), Iron Pots (2), Knife, Lantern, Pack, Pins (300), Purse (containing 3/6), Reels of Coloured Ribbon (3), Rope (10 yards), Small Knives and Forks (12), Tinderbox
+
+[H2] The Boat Survivor, Renate Hausier
+
+A very independent and self-reliant young woman, Renate is often mistaken for a Strigani. She favours brightly coloured, heavily patterned clothing, and usually wears a red headscarf over her raven-black hair, with two large gold hoops hanging from her ears. Renate is naturally cautious (the Players may have another word for her), and has a healthy aversion to danger. She will always try to find some non-violent way out of danger, such as bluffing, hiding, or running away. She loves travelling and seeing different places, and it was this, rather than any particular love for adventure, that motivated her to take up the wandering life of a Pedlar. If the adventurers invite her to join them, she will readily do so, because she realises that she is safer with them than she would be on her own.

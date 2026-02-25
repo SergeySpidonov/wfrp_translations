@@ -1,0 +1,382 @@
+[
+  {
+    "type": "bold",
+    "text": "RIVER PATROL CAPTAIN – HUMAN SHIPSWORD (SILVER 4)",
+    "bbox": [
+      340.8782043457031,
+      360.7892150878906,
+      476.68701171875,
+      384.3092041015625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      309.0780944824219,
+      388.38909912109375,
+      508.7218933105469,
+      400.30908203125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 45 43 51 30 40 28 27 30 31 43 14",
+    "bbox": [
+      310.5881042480469,
+      402.8559875488281,
+      509.2268981933594,
+      418.1739807128906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      307.0187072753906,
+      422.159912109375,
+      468.9364318847656,
+      437.4779052734375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Mail Shirt and Helmet) 2, Weapon (Sword) +9, Ranged (Pistol) +8",
+    "bbox": [
+      307.0187072753906,
+      422.159912109375,
+      468.9364318847656,
+      448.27789306640625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      307.0187072753906,
+      446.5946044921875,
+      509.2667541503906,
+      461.91259765625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Athletics 35, Charm 46, Cool 40, Dodge 39, Endurance 35, Haggle 48, Intimidate 61, Intuition 48, Leadership 55, Lore (Reikland 35, Riverways 41), Melee (Basic) 57, Perception 48, Ranged (Blackpowder) 55, Row 61, Sail 42, Swim 64",
+    "bbox": [
+      307.0187072753906,
+      446.5946044921875,
+      509.2667541503906,
+      505.1125793457031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      307.0187072753906,
+      503.42919921875,
+      499.26812744140625,
+      518.7471923828125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Fearless (Wreckers) 2, Hatred (Wreckers), Pilot, Sea Legs, Strong Swimmer 2,Waterman",
+    "bbox": [
+      307.0187072753906,
+      503.42919921875,
+      499.26812744140625,
+      529.5471801757812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      307.0187072753906,
+      527.8638916015625,
+      507.82391357421875,
+      543.181884765625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Grappling Hook, Helmet, Lantern & Oil, Mail Shirt, Pistol (with 10 shots), Uniform, Shield, Sword,",
+    "bbox": [
+      307.0187072753906,
+      527.8638916015625,
+      507.82391357421875,
+      564.7819213867188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "RIVER PATROL CREW – HUMAN RIVER RECRUIT",
+    "bbox": [
+      312.5664978027344,
+      582.5900268554688,
+      506.4945983886719,
+      594.510009765625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "(SILVER 1)",
+    "bbox": [
+      389.13580322265625,
+      594.1900024414062,
+      426.67578125,
+      606.1099853515625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      308.20111083984375,
+      610.18994140625,
+      507.8448791503906,
+      622.1099243164062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 35 30 40 30 30 30 35 30 30 25 13",
+    "bbox": [
+      309.7110900878906,
+      624.6567993164062,
+      508.34991455078125,
+      639.9747924804688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      306.1416931152344,
+      643.960693359375,
+      503.8982849121094,
+      659.2786865234375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Leather Jack) 1, Weapon (Sword) +8",
+    "bbox": [
+      306.1416931152344,
+      643.960693359375,
+      503.8982849121094,
+      659.2786865234375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      306.1416931152344,
+      657.5952758789062,
+      495.535400390625,
+      672.9132690429688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dodge 35, Melee (Basic) 40, Perception 35, Row 45, Sail 35, Swim 45",
+    "bbox": [
+      306.1416931152344,
+      657.5952758789062,
+      495.535400390625,
+      683.7133178710938
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      306.1416931152344,
+      682.0299682617188,
+      384.3870849609375,
+      697.3479614257812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Very Strong",
+    "bbox": [
+      306.1416931152344,
+      682.0299682617188,
+      384.3870849609375,
+      697.3479614257812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      306.1416931152344,
+      695.6646118164062,
+      461.66998291015625,
+      710.9826049804688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Leather Jack, Uniform, Sword",
+    "bbox": [
+      306.1416931152344,
+      695.6646118164062,
+      461.66998291015625,
+      710.9826049804688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "PURPLE HAND CULTIST (???)",
+    "bbox": [
+      105.98909759521484,
+      597.944091796875,
+      220.5281219482422,
+      609.8640747070312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      63.55400085449219,
+      613.9439086914062,
+      263.1977844238281,
+      625.8638916015625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 30 30 30 30 30 30 30 30 30 25 12",
+    "bbox": [
+      65.06400299072266,
+      628.4108276367188,
+      263.70281982421875,
+      643.7288208007812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      61.49470138549805,
+      647.7147216796875,
+      131.55020141601562,
+      663.03271484375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Weapon +6",
+    "bbox": [
+      61.49470138549805,
+      647.7147216796875,
+      131.55020141601562,
+      663.03271484375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      61.49470138549805,
+      661.3494262695312,
+      273.8392333984375,
+      676.6674194335938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Secret Signs (Purple Hand); other Skills at GM’s discretion, according to cover.",
+    "bbox": [
+      61.49470138549805,
+      661.3494262695312,
+      273.8392333984375,
+      687.4674072265625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      61.49470138549805,
+      685.7839965820312,
+      273.79583740234375,
+      701.1019897460938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Purple Hand Tattoo, Some Purple Item of Clothing, others at GM’s discretion.",
+    "bbox": [
+      61.49470138549805,
+      685.7839965820312,
+      273.79583740234375,
+      711.9019775390625
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The River Patrol",
+    "bbox": [
+      294.9920959472656,
+      279.5298156738281,
+      529.990478515625,
+      300.9858093261719
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The river patrol boat has a crew of 2+D10 River Wardens, which includes one Captain. They are typically serious individuals who take their duties seriously, but tend to treat fellow Riverfolk with fairness.",
+    "bbox": [
+      294.9920959472656,
+      298.0777893066406,
+      529.990478515625,
+      348.1956787109375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Cultists",
+    "bbox": [
+      50.74020004272461,
+      407.12969970703125,
+      285.3073425292969,
+      428.585693359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "All the Purple Hand cultists have some item of clothing that is purple: a tunic, cloak, belt, or something else. After three or four cultist encounters, begin making secret",
+    "bbox": [
+      50.74020004272461,
+      425.6777038574219,
+      285.3073425292969,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Intelligence",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.3073425292969,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Tests for the adventurers to spot this purple theme. Also, every cultist has a small purple tattoo of an open hand, somewhere on their bodies. Although the cultists have a variety of occupations which provide them with suitable cover stories, they all have a number of Skills in common, that are listed below. In addition, they have whatever non-combat Skills are consistent with their cover and the situation in which they are encountered.",
+    "bbox": [
+      50.74020004272461,
+      460.4776916503906,
+      285.3073425292969,
+      556.9956665039062
+    ]
+  }
+]

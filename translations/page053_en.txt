@@ -1,0 +1,91 @@
+=== СТРАНИЦА 53 ===
+
+[B] 15 DWARF MINERS (BRASS 4)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+3 45 30 40 45 30 20 40 30 55 20 17
+
+[B] Traits:
+
+Prejudice (Elves), Weapon (Pick) +8
+
+[B] Skills:
+
+Language (Khazalid) 33, Lore (Dwarfs 33, Geology 35, Local 37, Metallurgy 35), Melee (Basic 53, Two-Handed 55), Ranged (Crossbow) 35, Trade (Carpentry) 45, Trade (Explosives) 46
+
+[B] Talents:
+
+Magic Resistance, Night Vision, Read/Write, Resolute, Robust, Strider (Rocky), Sturdy, Very Strong
+
+[B] Trappings:
+
+Axe, Crossbow, Pick, Shovel
+
+[B] The Dwarf Leader, Gorim Greathammer
+
+Gorim is a powerfully built Dwarf with flowing, red-blond hair and beard. He is the clan chief of the few remaining Dwarfs at Khazid Slumbol. To keep his people from starving, he sold his magical warhammer and divided the proceeds among them. Like the other Dwarfs, Gorim is convinced Etelka Herzen somehow swindled them out of a rich gold mine.
+
+[B] Etelka's Cook, Dumpling Hayfoot
+
+Dumpling will be very impressed by any Halfling who is not a cook: she has never met a Halfling outside the Mootland who works in another profession. She will be grateful to see the adventurers, and will ask them to escort her to Grissenwald ‘ or wherever else I can get a coach or boat to a better place. The Mistress can do without proper notice as far as I’m concerned, for there was nothing proper about the situation she left me in. ’
+
+Dumpling is quite happy to answer any questions the adventurers may have, since she no longer feels that she owes Etelka any loyalty. If insulted or threatened, though, she concludes the adventurers are no better than her mistress and refuses to help.
+
+A man with a thin, weasel face called several days ago
+
+with a letter for the mistress (see Timeline, page 26).
+
+He and the mistress then left: ‘ They went to Norn’s
+
+River to get some Bare Pills. ’ (‘Along the Narn River to the Barren Hills’ is correct, but Dumpling doesn’t hold with eavesdropping and did not hear correctly.)
+
+They were planning to go to Kemperbad first.
+
+Note: Some of this information will need to change if, for example, Etelka met Heidlemann in Kemperbad rather than waiting for him here.
+
+[B] GORIM GREATHAMMER – NOBLE, FORMER MASTER MINER (GOLD 3)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+3 52 30 53 51 33 20 42 30 63 24 21
+
+[B] Traits:
+
+Armour (Mail Coat) 2, Hatred (Greenskins), Ranged (Crossbow) (60) +9, Weapon (Warhammer) +11
+
+[B] Skills:
+
+Bribery 29, Charm 29, Consume Alcohol 59, Cool 73, Endurance 59, Gamble 35, Gossip 29, Intimidate 65, Intuition 39, Language (Khazalid 33), Leadership 37, Lore (Dwarfs 33, Geology 35, Local 40, Metallurgy 35), Melee (Two-Handed) 63, Outdoor Survival 40, Perception 40, Play (Drum) 47, Ranged (Crossbow) 35, Stealth (Underground) 26, Trade (Engineer) 54, Trade (Explosives) 53
+
+[B] Talents:
+
+Enclosed Fighter, Magic Resistance, Night Vision, Noble Blood, Read/Write
+
+[B] Trappings:
+
+Crossbow, Mail Coat, Shovel, Warhammer
+
+[B] DUMPLING HAYFOOT – HALFLING SERVANT
+
+[B] (SILVER 3
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+3 18 37 25 35 40 39 43 31 42 51 10
+
+[B] Traits:
+
+Weapon (Meat Tenderiser) +5, Small
+
+[B] Skills:
+
+Animal Care 36, Charm 54, Consume Alcohol 40, Dodge 44, Endurance 40, Gossip 56, Language (Mootish) 36, Lore (Herbs) 38, Trade (Cook) 53
+
+[B] Talents:
+
+Acute Sense (Taste), Beneath Notice, Etiquette (Servants), Night Vision, Resistance (Chaos)
+
+[B] Trappings:
+
+Meat Tenderiser (Improvised), Uniform

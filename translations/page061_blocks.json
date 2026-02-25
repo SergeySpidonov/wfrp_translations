@@ -1,0 +1,212 @@
+[
+  {
+    "type": "body",
+    "text": "Each Round for the next 3 Rounds, another skeleton comes through the opening. These are the remaining members of Dagmar’s expedition, buried alive more than a century ago. Unable to escape, they kept trying to claw their way out. The skeletons wish to be destroyed, but they are compelled to attack by the decades of warpstone radiation they have absorbed. As the skeletons are destroyed they thank their saviours for releasing them, and collapse into dust.",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.3162536621094,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Inside the cave are some rotten backpacks and other items of equipment. There is a total of 10 GCs and 3/–, and a silver flask (1 GC) containing an enhanced Healing Draught that magically restores 1d10 + Toughness Bonus lost Wounds, up to the drinker’s maximum. The final key to Dagmar’s secret library is among the debris (see The Signal Tower, page 65). It is identical to those carried by the tower’s Zombie guardians. If the adventurers are still unaware of the significance of the observatory, they will also find a map identical to the one described in the Dead Horse encounter (page 55).",
+    "bbox": [
+      50.74020004272461,
+      309.6777038574219,
+      285.3064270019531,
+      429.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers miss these two items or fail to search the cavern thoroughly, the ghostly Brunhilde will point them out. ‘ This pack was Dagmar’s ,’ she says, pointing. ‘ He left it behind, of course, but maybe there is something in there that will be useful to you. ’ However, she will only be in a helpful mood if the adventurers have dealt with the skeletons and promised to give her a decent burial.",
+    "bbox": [
+      50.74020004272461,
+      437.2777099609375,
+      285.2935485839844,
+      522.1956787109375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Trail of the Red Crown",
+    "bbox": [
+      50.74020004272461,
+      523.1296997070312,
+      285.2935485839844,
+      544.585693359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Red Crown expedition will probably have left the Barren Hills before the adventurers arrive at the Devil’s Bowl (see Timeline, page 26).",
+    "bbox": [
+      50.74020004272461,
+      541.6776733398438,
+      285.2935485839844,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers search the area around Devil’s Bowl thoroughly, they may be able to find the rival expedition’s abandoned campsite. There is nothing there but a cold fire-pit and some areas of flattened, yellowed grass where tents were once pitched. There is nothing of interest in or around the site.",
+    "bbox": [
+      50.74020004272461,
+      588.0776977539062,
+      285.30718994140625,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "With a successful",
+    "bbox": [
+      50.74020004272461,
+      657.6776733398438,
+      285.31634521484375,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Track",
+    "bbox": [
+      50.74020004272461,
+      657.6776733398438,
+      285.31634521484375,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, the adventurers can tell when the expedition left the area, and that they were headed back the way they came, towards Twin Falls. If the Players fail the necessary test, Corrobreth the Druid can provide this information.",
+    "bbox": [
+      50.74020004272461,
+      657.6776733398438,
+      285.31634521484375,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "THE RETURN",
+    "bbox": [
+      294.9920959472656,
+      197.44277954101562,
+      394.68505859375,
+      220.0907745361328
+    ]
+  },
+  {
+    "type": "body",
+    "text": "After dealing with the skeletons and the Skaven, the adventurers are left with the ghost of Brunhilde. She thanks them for helping her companions, and leads them back to her grave. If there are no Priest Characters in the party, Corrobreth the Druid will conduct a simple prayer ceremony as the adventurers gather stones to turn the dirt mound over her shallow grave into a respectable cairn. As the prayers conclude, the ghost hovers over the cairn and turns to face the adventurers.",
+    "bbox": [
+      294.9920959472656,
+      228.47772216796875,
+      529.558349609375,
+      324.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘Thank you,’ she says, looking deeply — and rather unsettlingly — into the eyes of each Character. ‘I go to my rest now, and I wish you well on your quest. Dagmar von Wittgenstein is surely dead by now, but if you can find the source of this evil and destroy it, you will have done me and my companions a great service — and the world, too. Goodbye, friends, and may Sigmar guard you.’",
+    "bbox": [
+      294.9920959472656,
+      332.877685546875,
+      529.5306396484375,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "With those words still hanging in the air, her ghostly form sinks into the mound, fading as it does so.",
+    "bbox": [
+      294.9920959472656,
+      414.0777893066406,
+      529.568359375,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The journey back to Unterbaum is uneventful, but the party will have the same feeling of being watched. This feeling stays with the Characters throughout the remainder of the adventure, and for good reason: they are being followed by a Skaven of the Clan Eshin — a nightrunner or assassin. The adventurers should never spot or catch their follower, but they should always feel as though someone is watching them.",
+    "bbox": [
+      294.9920959472656,
+      448.877685546875,
+      529.5593872070312,
+      533.7957763671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Skaven tracks them as far as Wittgendorf (page 68), and then leaves to report to its masters.",
+    "bbox": [
+      294.9920959472656,
+      541.6776733398438,
+      529.5491333007812,
+      568.595703125
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "RESOLUTION",
+    "bbox": [
+      294.9920959472656,
+      580.2427978515625,
+      397.3641052246094,
+      602.8908081054688
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Rewards",
+    "bbox": [
+      294.9920959472656,
+      615.9296875,
+      529.5574951171875,
+      637.3856811523438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Beyond any points you offer for good roleplaying and clever ideas at the end of the session, XP should be awarded for the following:",
+    "bbox": [
+      294.9920959472656,
+      634.477783203125,
+      529.5574951171875,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "30 points for reaching the Devil’s Bowl.",
+    "bbox": [
+      294.9920959472656,
+      674.14697265625,
+      458.7361145019531,
+      689.4649658203125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "20 points for defeating or escaping from the Skaven.",
+    "bbox": [
+      294.9920959472656,
+      687.7816772460938,
+      505.6441345214844,
+      703.0996704101562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "30 points for finding the final observatory key.",
+    "bbox": [
+      294.9920959472656,
+      701.4163208007812,
+      485.214111328125,
+      716.7343139648438
+    ]
+  }
+]

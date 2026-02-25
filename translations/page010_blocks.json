@@ -1,0 +1,52 @@
+[
+  {
+    "type": "body",
+    "text": "The journey to Weissbruck can be as peaceful or as eventful as you wish. If things went badly in Bögenhafen, the river is choked with refugees fleeing the doomed town. Rumours abound about the terrible things that happened there, and every nearby town and barony is desperately mustering soldiers. If Bögenhafen was spared, traffic on the rivers runs as normal.",
+    "bbox": [
+      82.20469665527344,
+      89.27777862548828,
+      316.76373291015625,
+      162.5957794189453
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This journey offers a perfect opportunity to introduce Players to the boat handling rules in the",
+    "bbox": [
+      326.1731872558594,
+      89.27777862548828,
+      560.74853515625,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Death on the Reik Companion.",
+    "bbox": [
+      326.1731872558594,
+      100.87769317626953,
+      560.74853515625,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "You can also try out some of the hazards and encounters described there. Conversations with passing riverfolk, or in riverside inns at night, allow the adventurers to pick up news and rumours.",
+    "bbox": [
+      326.1731872558594,
+      112.47779083251953,
+      560.74853515625,
+      162.5957794189453
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "BÖGENHAFEN TO WEISSBRUCK",
+    "bbox": [
+      197.148193359375,
+      58.24282455444336,
+      443.7644348144531,
+      80.89082336425781
+    ]
+  }
+]

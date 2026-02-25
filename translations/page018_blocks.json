@@ -1,0 +1,112 @@
+[
+  {
+    "type": "h2",
+    "text": "The Bounty Hunter",
+    "bbox": [
+      82.20469665527344,
+      59.129825592041016,
+      316.76739501953125,
+      80.58582305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers may decide to spend some time inquiring in the riverside inns for Bengt, Gurt, and Willi, the three thugs hired by Adolphus Kuftsos to attack their barge on their last visit to the town.",
+    "bbox": [
+      82.20469665527344,
+      77.67768096923828,
+      316.76739501953125,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "At your discretion, and with some",
+    "bbox": [
+      82.20469665527344,
+      135.67767333984375,
+      316.7557067871094,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Fellowship",
+    "bbox": [
+      82.20469665527344,
+      135.67767333984375,
+      316.7557067871094,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Tests and a little bribery, it will be possible to track the three labourers down as they are quite well known on the docks. The Test will be",
+    "bbox": [
+      82.20469665527344,
+      147.27777099609375,
+      316.7557067871094,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0)",
+    "bbox": [
+      82.20469665527344,
+      170.47772216796875,
+      316.7557067871094,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "or harder if the adventurers are suspiciously pushy or hostile.",
+    "bbox": [
+      82.20469665527344,
+      170.47772216796875,
+      316.7557067871094,
+      197.3958282470703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Three or four failed tests should mean that the labourers hear about the adventurers’ inquiries and decide, not unreasonably, to disappear. Armed people asking questions are usually trouble, after all.",
+    "bbox": [
+      326.4566955566406,
+      66.07770538330078,
+      561.02294921875,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers pursue their quarry, the thugs lead them a merry chase around and through a variety of warehouses and inns. Use the Pursuit rules (",
+    "bbox": [
+      326.4566955566406,
+      124.07770538330078,
+      561.0057373046875,
+      162.59571838378906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      326.4566955566406,
+      147.2777099609375,
+      561.0057373046875,
+      162.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 166) and make the adventurers sustain a series of successful Tests to keep up with the trio. You can keep the chase going for as long as your Players enjoy it, adding complications to reflect the fact that the labourers are on their home ground.",
+    "bbox": [
+      326.4566955566406,
+      147.2777099609375,
+      561.0057373046875,
+      208.9956817626953
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "type": "body",
+    "text": "The drawing board itself is empty. The portraits depict various members of the von Wittgenstein family, though they are not labelled. The adventurers will not know this if they have not yet visited Castle Wittgenstein. However, the family resemblance between the portrait subjects is clear: all have aquiline noses, high foreheads, and thick, bushy eyebrows.",
+    "bbox": [
+      82.20469665527344,
+      66.07770538330078,
+      316.772705078125,
+      139.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Propped in one corner of the room is an ornately carved staff. Anyone with the Detect Artefact Talent will feel a strong aura coming from the staff. The zombies will not attack anyone carrying it.",
+    "bbox": [
+      82.20469665527344,
+      147.2777099609375,
+      316.75286865234375,
+      197.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "E. Library",
+    "bbox": [
+      82.20469665527344,
+      202.27171325683594,
+      316.77545166015625,
+      222.69570922851562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There are three zombies in this room, which is lined with bookshelves from floor to ceiling. The books are written in a variety of mundane, secret, and arcane languages. They cover many subjects, from alchemical treatises to ‘novels’ of a somewhat insalubrious literary nature. There is nothing of immediate use to the adventurers, but anyone making a",
+    "bbox": [
+      82.20469665527344,
+      216.877685546875,
+      316.77545166015625,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Evaluate",
+    "bbox": [
+      82.20469665527344,
+      274.877685546875,
+      316.77545166015625,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will find 2d10 books in the library that a book trader or collector would consider valuable. Their musty condition means that each is worth 1d10 GCs. You can include a couple of historical or religious books if you want to pass on some background information to your Players.",
+    "bbox": [
+      82.20469665527344,
+      286.4776916503906,
+      316.77545166015625,
+      348.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "F. Inner Corridor",
+    "bbox": [
+      82.20469665527344,
+      353.07171630859375,
+      316.7807922363281,
+      373.4956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The inner wall of this area is made of 2-inch-thick steel. If no one taps the wall, this is spotted by anyone who makes an",
+    "bbox": [
+      82.20469665527344,
+      367.6777038574219,
+      316.7807922363281,
+      394.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Perception",
+    "bbox": [
+      82.20469665527344,
+      390.877685546875,
+      316.7807922363281,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test. There are two 18-inch-long bars attached to the wall at waist height, one at each end. If any two adventurers push on these bars, the entire wall rotates so that a gap in this wall will align with the central accessway (area G, below).",
+    "bbox": [
+      82.20469665527344,
+      390.877685546875,
+      316.7807922363281,
+      452.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "G. Central Accessway",
+    "bbox": [
+      82.20469665527344,
+      457.4717102050781,
+      316.74578857421875,
+      477.89569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Note: the entrance from the inner corridor (area f) can only be opened and closed by two people in that area. If that entrance is closed and the adventurers enter through the trapdoor, they can only leave the way they came in.",
+    "bbox": [
+      82.20469665527344,
+      472.07769775390625,
+      316.74578857421875,
+      522.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The floor here is inscribed with a glowing hexagram, or six- pointed star. Anyone making an",
+    "bbox": [
+      82.20469665527344,
+      530.0776977539062,
+      316.7890319824219,
+      556.9956665039062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Perception",
+    "bbox": [
+      82.20469665527344,
+      541.6776733398438,
+      316.7890319824219,
+      556.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will notice that there is a hole at each point of the hexagram. These holes are star-shaped, and the right size to accept the keys carried by the five zombies. Of course, one key is missing unless it has been brought from the Barren Hills. If all six keys are inserted into the hexagram the secret trapdoor in the floor will open (downwards). Anyone standing on the trapdoor must make a",
+    "bbox": [
+      82.20469665527344,
+      541.6776733398438,
+      316.7890319824219,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Initiative",
+    "bbox": [
+      82.20469665527344,
+      622.877685546875,
+      316.7890319824219,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test or fall 3 yards into the secret library beneath. An",
+    "bbox": [
+      82.20469665527344,
+      622.877685546875,
+      316.7890319824219,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Athletics",
+    "bbox": [
+      82.20469665527344,
+      634.4777221679688,
+      316.7890319824219,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will reduce the Damage taken (",
+    "bbox": [
+      82.20469665527344,
+      634.4777221679688,
+      316.7890319824219,
+      661.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      82.20469665527344,
+      646.0776977539062,
+      316.7890319824219,
+      661.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 166).",
+    "bbox": [
+      82.20469665527344,
+      646.0776977539062,
+      316.7890319824219,
+      661.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "H. Secret Library",
+    "bbox": [
+      326.4566955566406,
+      63.07170104980469,
+      561.0056762695312,
+      83.4957046508789
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The corridors radiating from the central hexagonal chamber are lined with shelves containing books. These are on a variety of subjects, mostly written in Classical and Magickal, though some have marginalia in Reikspiel, Bretonnian, and Tilean.",
+    "bbox": [
+      326.4566955566406,
+      77.67768096923828,
+      561.0056762695312,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "For each hour spent examining the books, there is a 50% chance of turning up one of the following. Where a spell is marked as Arcane, the GM may choose which Lore it is from.",
+    "bbox": [
+      326.4566955566406,
+      135.67767333984375,
+      561.0364990234375,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A grimoire with one of the following spells (your",
+    "bbox": [
+      337.7951965332031,
+      182.07769775390625,
+      549.68017578125,
+      197.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "choice): Healing Light (Light), Blast or Push (Arcane).",
+    "bbox": [
+      349.1337890625,
+      193.67767333984375,
+      542.7927856445312,
+      208.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A section of false book fronts conceals a Potion of",
+    "bbox": [
+      337.7951965332031,
+      216.877685546875,
+      549.652099609375,
+      232.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Healing. This is a green, viscous liquid that smells of almonds, and instantly restores 1d10+2 Wounds when consumed.",
+    "bbox": [
+      349.1337890625,
+      228.47772216796875,
+      549.6673583984375,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A torn grimoire page with one of the spells (your",
+    "bbox": [
+      337.7951965332031,
+      274.877685546875,
+      549.6612548828125,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "choice): Aethyric Armour (Arcane), Mindslip (Shadows), or Mystifying Miasma (Shadows).",
+    "bbox": [
+      349.1337890625,
+      286.4776916503906,
+      549.6587524414062,
+      313.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A table in the centre of the library bears three large books. Two are ancient tomes: Sternschau’s ‘ Astronomickal Records: Being A Guide of the Mysterious Phenomena of the Nighte Sky ’, and ‘ True Omens and Prophecies of the Seer Unserfrau ’. The books are open at the pages shown in Handouts 6 and 7 (page 28), respectively.",
+    "bbox": [
+      326.4566955566406,
+      321.2777099609375,
+      561.0060424804688,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The pages of the third volume are filled with a spidery script in the Magick language. The title page may be translated as ‘ The Journal of the Year 2405, by the hand of Wizard Dagmar von Wittgenstein ’. The final entry is reproduced as Handout 8 (below), and it is the most revealing. This provides the adventurers with the final piece of information they need to lead them to Castle Wittgenstein, and the climax of the adventure.",
+    "bbox": [
+      326.4566955566406,
+      390.877685546875,
+      561.0272827148438,
+      475.7956848144531
+    ]
+  }
+]

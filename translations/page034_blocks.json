@@ -1,0 +1,92 @@
+[
+  {
+    "type": "h2",
+    "text": "Arriving in Kemperbad",
+    "bbox": [
+      82.20469665527344,
+      511.52972412109375,
+      316.75469970703125,
+      532.9857177734375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers are most likely to arrive at Kemperbad for the first time as they travel south along the Reik, heading for Grissenwald and Black Peaks. They are also likely to stop here again on the way to the Barren Hills.",
+    "bbox": [
+      82.20469665527344,
+      530.0776977539062,
+      316.75469970703125,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "During the day, the docks are bustling. Riverboats load and unload cargoes, and the ‘lifts’ to the town proper are in constant use. If the adventurers have a cargo to sell, or are looking to buy one, they couldn’t have come to a better place!",
+    "bbox": [
+      82.20469665527344,
+      588.0776977539062,
+      316.7718200683594,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "In addition to trading, the adventurers may wish to find help in learning Skills or changing Careers. If the Players decide to take the time to do this, refer to Training and Mentors (page 140).",
+    "bbox": [
+      82.20469665527344,
+      646.0776977539062,
+      316.7628173828125,
+      684.595703125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Purple Hand in Kemperbad",
+    "bbox": [
+      326.4566955566406,
+      511.52972412109375,
+      561.0057373046875,
+      532.9857177734375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The cultists of the Purple Hand are still tracking the adventurers, and are determined to apprehend the Character who they believe is their renegade Magister Impedimentae. His supposedly rich ‘inheritance’ is still to be acquired for the cult.",
+    "bbox": [
+      326.4566955566406,
+      530.0776977539062,
+      561.0057373046875,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Shortly before the party leaves Kemperbad for Grissenwald, Lieberung’s double, or another adventurer, is jostled in a crowded street. The adventurer feels a sharp tug at their hair. There is just time to notice a man dressed in purple disappearing into the crowd, but no chance to stop or follow him.",
+    "bbox": [
+      326.4566955566406,
+      588.0776977539062,
+      561.0346069335938,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A lock of the Character’s hair is gone! Nothing obvious will happen as a result, but the adventurers will have plenty of time to worry. For a typical cultist profile, see The Cultists, page 23.",
+    "bbox": [
+      326.4566955566406,
+      657.6776733398438,
+      560.9969482421875,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "Rumours about Wittgendorf",
+    "bbox": [
+      320.78741455078125,
+      283.07769775390625,
+      452.7904968261719,
+      299.76568603515625
+    ]
+  }
+]

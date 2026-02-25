@@ -1,0 +1,322 @@
+[
+  {
+    "type": "bold",
+    "text": "The Engineers (6) – Dwarf Engineer",
+    "bbox": [
+      50.74020004272461,
+      62.423702239990234,
+      285.306396484375,
+      79.03170013427734
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There are six Engineers remaining when the adventurers first meet Aynjulls: Thingrim, Belegol, Kardak, Gudrun, Guzul and Minak. All are frightened and confused by the mysterious deaths of their colleagues, although they try not to let it show.",
+    "bbox": [
+      50.74020004272461,
+      77.67768096923828,
+      285.306396484375,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Undead at the Observatory",
+    "bbox": [
+      50.74020004272461,
+      372.3297119140625,
+      256.9540100097656,
+      393.78570556640625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Ghoul Champion",
+    "bbox": [
+      50.74020004272461,
+      654.6716918945312,
+      285.2803649902344,
+      675.095703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "One of the Wizard Dagmar's final experiments, this unfortunate creature has guarded its long dead creator’s home for centuries. Preserved by foul sorcery and the occasional foolhardy rat, the Ghoul is ravenous for a more substantial meal.",
+    "bbox": [
+      50.74020004272461,
+      669.2777099609375,
+      285.2803649902344,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "THE ENGINEERS (6) – DWARF ENGINEER (SILVER 2)",
+    "bbox": [
+      66.05180358886719,
+      140.7200927734375,
+      269.75982666015625,
+      152.6400909423828
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      68.20120239257812,
+      158.31988525390625,
+      267.8450012207031,
+      170.23988342285156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "3 40 35 30 40 30 20 45 40 50 20 16",
+    "bbox": [
+      69.71119689941406,
+      172.66180419921875,
+      268.3500061035156,
+      187.9798126220703
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      63.30720138549805,
+      187.09637451171875,
+      186.60479736328125,
+      202.4143829345703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Leather Jack) 1 , Weapon (Hand Axe) +7",
+    "bbox": [
+      63.30720138549805,
+      187.09637451171875,
+      186.60479736328125,
+      214.0144805908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Skills: Consume Alcohol 45, Cool 55, Dodge 25, Drive 25, Endurance 45, Evaluate 43, Language (Classical 45, Guilder 45, Khazali 43), Lore (Dwarfs 43, Engineer 45, Geology 45, Metallurgy 45), Melee (Basic) 45, Perception 35, Ranged (Blackpowder) 40, Research 45, Trade (Engineer) 50",
+    "bbox": [
+      63.30720138549805,
+      213.131103515625,
+      244.87318420410156,
+      298.0491027832031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      63.30720138549805,
+      297.16571044921875,
+      226.92718505859375,
+      312.48370361328125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Craftsman (Engineer), Etiquette (Guilder), Magic Resistance, Night Vision, Orientation, Read/Write 2, Resolute, Sturdy",
+    "bbox": [
+      63.30720138549805,
+      297.16571044921875,
+      226.92718505859375,
+      335.6836853027344
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      63.30720138549805,
+      334.0003967285156,
+      236.58349609375,
+      349.3183898925781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Carpenter’s Tools or Stonemason’s Tools, Hand Axe, Leather Jack",
+    "bbox": [
+      63.30720138549805,
+      334.0003967285156,
+      236.58349609375,
+      360.1183776855469
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "ZOMBIES (5)",
+    "bbox": [
+      386.30938720703125,
+      556.4603271484375,
+      435.5494079589844,
+      568.3803100585938
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      311.2247009277344,
+      574.0601196289062,
+      510.8684997558594,
+      585.9801025390625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 35 - 40 40 5 10 15 - - - 16",
+    "bbox": [
+      312.7347106933594,
+      588.4019775390625,
+      511.3735046386719,
+      603.719970703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      306.3306884765625,
+      602.8366088867188,
+      518.2012329101562,
+      618.1546020507812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Construct, Corrupted (Minor)Dark Vision, Fear 2, Painless, Regenerate*, Territorial (Tower), Undead, Unstable*, Weapon +7",
+    "bbox": [
+      306.3306884765625,
+      602.8366088867188,
+      518.2012329101562,
+      641.3546142578125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "*These Zombies are sustained by Dagmar’s fell magic. They are not Unstable while inside the tower, and enjoy the Regenerate trait only while they are inside its walls.",
+    "bbox": [
+      306.3306884765625,
+      640.4713134765625,
+      518.1849365234375,
+      678.9893188476562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      306.3306884765625,
+      677.305908203125,
+      500.1368103027344,
+      692.6239013671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Each Zombie carries a 6-inch-long iron key — resembling a 6-pointed star at the cross- section — on a leather thong about its neck.",
+    "bbox": [
+      306.3306884765625,
+      677.305908203125,
+      500.1368103027344,
+      714.223876953125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "GHOUL CHAMPION",
+    "bbox": [
+      367.2598876953125,
+      73.89488983154297,
+      448.92987060546875,
+      85.81489562988281
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      308.3901062011719,
+      91.49468231201172,
+      508.0339050292969,
+      103.41468811035156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 60 - 45 40 40 35 25 20 40 5 16",
+    "bbox": [
+      309.90008544921875,
+      105.83661651611328,
+      508.5387878417969,
+      121.15461730957031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      306.3306884765625,
+      124.07782745361328,
+      492.2087097167969,
+      139.3958282470703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Bite +5, Elite, Hungry, Infected, Night Vision, Venom (Difficult -10)*, Weapon +8",
+    "bbox": [
+      306.3306884765625,
+      124.07782745361328,
+      492.2087097167969,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      306.3306884765625,
+      147.27777099609375,
+      492.2087097167969,
+      162.5957794189453
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A 6-inch-long iron key, resembling a 5-pointed star in cross-section, on a leather thong about its neck, Hand Weapon (Sharpened Tibia)",
+    "bbox": [
+      306.3306884765625,
+      147.27777099609375,
+      492.2087097167969,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "*PARALYSING VENOM",
+    "bbox": [
+      306.3306884765625,
+      193.82568359375,
+      508.2969970703125,
+      205.815673828125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Ghoul has been enchanted not only to bind it to the tower, but also to give its bite a unique effect. Rather than causing a Poisoned Condition, those afflicted by the Ghoul’s venom gain the Unconscious condition instead. This lasts for 1d10 hours minus the victim’s Toughness Bonus, to a minimum of 1 hour. Unlike the normal Unconscious condition, the ghoul’s bite renders its victims immobile, but otherwise aware of their surroundings and exactly what is being done to them.",
+    "bbox": [
+      306.3306884765625,
+      205.27777099609375,
+      508.2969970703125,
+      324.9956970214844
+    ]
+  }
+]

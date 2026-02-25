@@ -1,0 +1,322 @@
+[
+  {
+    "type": "body",
+    "text": "Twice each day you should make a secret",
+    "bbox": [
+      82.20469665527344,
+      66.07770538330078,
+      316.7530212402344,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Initiative",
+    "bbox": [
+      82.20469665527344,
+      66.07770538330078,
+      316.7530212402344,
+      92.99568176269531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test using the highest Initiative value among the adventurers, and grant a +10 bonus to any Character with the Sixth Sense Talent. Make the Test when the adventurers stop for the night and when they resume travelling in the morning.",
+    "bbox": [
+      82.20469665527344,
+      77.67768096923828,
+      316.7530212402344,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers spot the cultists, you should give them a brief description. The cultists should make an",
+    "bbox": [
+      82.20469665527344,
+      135.67767333984375,
+      316.7852783203125,
+      162.59571838378906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Intelligence",
+    "bbox": [
+      82.20469665527344,
+      147.2777099609375,
+      316.7852783203125,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to realise that they have been spotted. They will then do their best to evade any fight with the adventurers. If the Test is failed, they will walk straight into any ambush set by the Characters.",
+    "bbox": [
+      82.20469665527344,
+      158.877685546875,
+      316.7852783203125,
+      208.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the cultists are captured or killed, the only information that the adventurers will find is a note (Handout 3 below).Do not worry if the cultists in Weissbruck failed to pass on the purple palm. Your Players will be mystified as to what is going on. Let them come up with all kinds of entertaining theories as to the nature of the note’s ‘purple palm’.",
+    "bbox": [
+      82.20469665527344,
+      216.877685546875,
+      316.7817077636719,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The shadowing continues, using replacements for any cultists killed, until the adventurers are confronted in Kemperbad.",
+    "bbox": [
+      82.20469665527344,
+      298.07769775390625,
+      316.7709655761719,
+      324.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Pursuing the Kidnappers",
+    "bbox": [
+      82.20469665527344,
+      550.271728515625,
+      316.7628173828125,
+      570.6957397460938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers didn’t rescue Elvyra Kleinestun and have rushed to Altdorf in the hope of saving her, they are going to be disappointed. The pharmacist has vanished, and there is no chance of finding one person hidden in a city of this size.",
+    "bbox": [
+      82.20469665527344,
+      564.877685546875,
+      316.7628173828125,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Of course, news of the adventurers’ inquiries could reach the ears of Alberich Hollzauber, the daemonologist. He might take steps to silence them using hired thugs, a summoned daemon, or some other means. He is always careful to shield himself from any unpleasantness, though, and the Players may never learn his name. His hirelings are paid in cash through intermediaries. All anyone knows is that someone of wealth and power paid well to be rid of the adventurers.",
+    "bbox": [
+      82.20469665527344,
+      622.877685546875,
+      316.7808837890625,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Training and Advancement",
+    "bbox": [
+      326.4566955566406,
+      63.07170104980469,
+      561.0047607421875,
+      83.4957046508789
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Altdorf is a vast city with inhabitants from all walks of life. If the adventurers can gain the right introductions, they will be able to find training in almost any Skill. They will also find instructors to prepare them for any required Career change.",
+    "bbox": [
+      326.4566955566406,
+      77.67768096923828,
+      561.0047607421875,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As at other times during this adventure, you can handle training in whatever way suits your group’s playing style. Bear in mind that staying too long in one place takes away the sense of urgency that should be driving the adventure forward.",
+    "bbox": [
+      326.4566955566406,
+      135.67767333984375,
+      560.98779296875,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "A Familiar Face",
+    "bbox": [
+      326.4566955566406,
+      190.6716766357422,
+      560.9979248046875,
+      211.09567260742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As the adventurers leave the city for the second time, one of them (you can pick one at random) will catch sight of an oddly familiar face.",
+    "bbox": [
+      326.4566955566406,
+      205.2777099609375,
+      560.9979248046875,
+      243.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Boarding a coach at the Four Seasons depot near the docks is Ernst Heidlemann, the ‘Physician’s Student’ they met at the Coach and Horses Inn. They travelled with him at least part of the way to Altdorf some time ago (see",
+    "bbox": [
+      326.4566955566406,
+      251.67770385742188,
+      561.0363159179688,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Enemy in Shadows",
+    "bbox": [
+      326.4566955566406,
+      286.4776916503906,
+      561.0363159179688,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 22). The adventurers’ boat passes fairly close to the coach on the dockside. Heidlemann looks out from the coach window and makes accidental eye contact with one of the adventurers before hastily ducking out of sight. The coach pulls away before the adventurers have time to stop it. If you want to be particularly dramatic, a cloud crosses the sun just at that moment…",
+    "bbox": [
+      326.4566955566406,
+      286.4776916503906,
+      561.0363159179688,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Heidlemann is a member of the Red Crown cult. His superiors have ordered him to go to Grissenwald and help another cultist, Etelka Herzen the wizard, to organise an expedition into the Barren Hills. He and the adventurers will meet again.",
+    "bbox": [
+      326.4566955566406,
+      379.2777099609375,
+      560.9976806640625,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "RESOLUTION",
+    "bbox": [
+      326.4566955566406,
+      441.0426940917969,
+      428.8287048339844,
+      463.6907043457031
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Rewards",
+    "bbox": [
+      326.4566955566406,
+      476.7297058105469,
+      561.0219116210938,
+      498.1856994628906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Beyond any points you offer for good roleplaying and clever ideas at the end of the session, XP should be awarded for the following:",
+    "bbox": [
+      326.4566955566406,
+      495.2777099609375,
+      561.0219116210938,
+      533.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "40 points for securing the abandoned river boat.",
+    "bbox": [
+      326.4566955566406,
+      534.9469604492188,
+      520.7916259765625,
+      550.2649536132812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "50 points for rescuing Elvyra.",
+    "bbox": [
+      326.4566955566406,
+      548.5817260742188,
+      452.5796813964844,
+      563.8997192382812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "15 points for calming down Liza.",
+    "bbox": [
+      326.4566955566406,
+      562.21630859375,
+      466.7645568847656,
+      577.5343017578125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "15 points for tracking down Kuftsos’s thugs.",
+    "bbox": [
+      326.4566955566406,
+      575.8510131835938,
+      506.59942626953125,
+      591.1690063476562
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "NON-PLAYER CHARACTERS",
+    "bbox": [
+      326.4566955566406,
+      603.4426879882812,
+      531.6737670898438,
+      626.0906982421875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Boat Attackers",
+    "bbox": [
+      326.4566955566406,
+      639.1296997070312,
+      561.0236206054688,
+      660.585693359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Rightly or wrongly, the Empire’s population of mutants are shunned from society. While some simply seek to hide themselves away, many turn to violence — either to survive, or to punish the society that abandoned them.",
+    "bbox": [
+      326.4566955566406,
+      657.6776733398438,
+      561.0236206054688,
+      707.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "To: Loorbeer & Kuhn Our agents report that the target is travelling your way, in the company of the group discussed at our last meeting. Earlier attempts to make contact elicited very little. You are to make sure that we do not lose track of our valuables again, making regular reports in the usual manner. Do not forget that the purple palm has already been passed.",
+    "bbox": [
+      111.6552963256836,
+      343.64599609375,
+      293.42498779296875,
+      486.0135498046875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Time of Changes is coming! The Arch Lumen",
+    "bbox": [
+      111.6552963256836,
+      492.93218994140625,
+      260.4891052246094,
+      531.7286376953125
+    ]
+  }
+]

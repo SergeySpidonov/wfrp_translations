@@ -1,0 +1,452 @@
+[
+  {
+    "type": "bold",
+    "text": "15 DWARF MINERS (BRASS 4)",
+    "bbox": [
+      111.1677017211914,
+      557.7528076171875,
+      223.46774291992188,
+      569.6727905273438
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      67.55030059814453,
+      576.8372802734375,
+      267.319091796875,
+      588.7572631835938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "3 45 30 40 45 30 20 40 30 55 20 17",
+    "bbox": [
+      69.060302734375,
+      591.30419921875,
+      267.8240966796875,
+      606.6221923828125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      62.52989959716797,
+      605.7388916015625,
+      223.0244903564453,
+      621.056884765625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Prejudice (Elves), Weapon (Pick) +8",
+    "bbox": [
+      62.52989959716797,
+      605.7388916015625,
+      223.0244903564453,
+      621.056884765625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      62.52989959716797,
+      620.1735229492188,
+      265.2251892089844,
+      635.4915161132812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Language (Khazalid) 33, Lore (Dwarfs 33, Geology 35, Local 37, Metallurgy 35), Melee (Basic 53, Two-Handed 55), Ranged (Crossbow) 35, Trade (Carpentry) 45, Trade (Explosives) 46",
+    "bbox": [
+      62.52989959716797,
+      620.1735229492188,
+      265.2251892089844,
+      670.29150390625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      62.52989959716797,
+      669.408203125,
+      265.0752868652344,
+      684.7261962890625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Magic Resistance, Night Vision, Read/Write, Resolute, Robust, Strider (Rocky), Sturdy, Very Strong",
+    "bbox": [
+      62.52989959716797,
+      669.408203125,
+      265.0752868652344,
+      696.326171875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      62.52989959716797,
+      695.4428100585938,
+      210.45314025878906,
+      710.7608032226562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Axe, Crossbow, Pick, Shovel",
+    "bbox": [
+      62.52989959716797,
+      695.4428100585938,
+      210.45314025878906,
+      710.7608032226562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Dwarf Leader, Gorim Greathammer",
+    "bbox": [
+      50.74020004272461,
+      225.4717254638672,
+      285.3072814941406,
+      245.89572143554688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Gorim is a powerfully built Dwarf with flowing, red-blond hair and beard. He is the clan chief of the few remaining Dwarfs at Khazid Slumbol. To keep his people from starving, he sold his magical warhammer and divided the proceeds among them. Like the other Dwarfs, Gorim is convinced Etelka Herzen somehow swindled them out of a rich gold mine.",
+    "bbox": [
+      50.74020004272461,
+      240.07781982421875,
+      285.3072814941406,
+      313.39569091796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Etelka's Cook, Dumpling Hayfoot",
+    "bbox": [
+      295.443115234375,
+      260.271728515625,
+      530.0184936523438,
+      280.6957092285156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dumpling will be very impressed by any Halfling who is not a cook: she has never met a Halfling outside the Mootland who works in another profession. She will be grateful to see the adventurers, and will ask them to escort her to Grissenwald ‘ or wherever else I can get a coach or boat to a better place. The Mistress can do without proper notice as far as I’m concerned, for there was nothing proper about the situation she left me in. ’",
+    "bbox": [
+      295.443115234375,
+      274.877685546875,
+      530.0184936523438,
+      359.7958068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dumpling is quite happy to answer any questions the adventurers may have, since she no longer feels that she owes Etelka any loyalty. If insulted or threatened, though, she concludes the adventurers are no better than her mistress and refuses to help.",
+    "bbox": [
+      295.443115234375,
+      367.67779541015625,
+      530.0111694335938,
+      417.7958068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A man with a thin, weasel face called several days ago",
+    "bbox": [
+      309.6163024902344,
+      422.5816955566406,
+      518.612548828125,
+      437.8996887207031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "with a letter for the mistress (see Timeline, page 26).",
+    "bbox": [
+      318.1202087402344,
+      434.18170166015625,
+      512.5924682617188,
+      449.49969482421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "He and the mistress then left: ‘ They went to Norn’s",
+    "bbox": [
+      309.6163024902344,
+      448.61639404296875,
+      518.4368896484375,
+      463.93438720703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "River to get some Bare Pills. ’ (‘Along the Narn River to the Barren Hills’ is correct, but Dumpling doesn’t hold with eavesdropping and did not hear correctly.)",
+    "bbox": [
+      318.1202087402344,
+      460.2164001464844,
+      518.6710205078125,
+      498.7344055175781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "They were planning to go to Kemperbad first.",
+    "bbox": [
+      309.6163024902344,
+      497.85101318359375,
+      486.03240966796875,
+      513.1690063476562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Note: Some of this information will need to change if, for example, Etelka met Heidlemann in Kemperbad rather than waiting for him here.",
+    "bbox": [
+      295.443115234375,
+      518.477783203125,
+      529.9832153320312,
+      556.9957885742188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "GORIM GREATHAMMER – NOBLE, FORMER MASTER MINER (GOLD 3)",
+    "bbox": [
+      77.68710327148438,
+      322.3636169433594,
+      259.2951965332031,
+      345.88360595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      67.09929656982422,
+      350.2135009765625,
+      266.86810302734375,
+      362.13348388671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "3 52 30 53 51 33 20 42 30 63 24 21",
+    "bbox": [
+      68.60929870605469,
+      364.6803894042969,
+      267.37310791015625,
+      379.9983825683594
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      62.07889938354492,
+      379.114990234375,
+      273.19189453125,
+      394.4329833984375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Mail Coat) 2, Hatred (Greenskins), Ranged (Crossbow) (60) +9, Weapon (Warhammer) +11",
+    "bbox": [
+      62.07889938354492,
+      379.114990234375,
+      273.19189453125,
+      406.0329895019531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      62.07889938354492,
+      405.1496887207031,
+      269.4299621582031,
+      420.4676818847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Bribery 29, Charm 29, Consume Alcohol 59, Cool 73, Endurance 59, Gamble 35, Gossip 29, Intimidate 65, Intuition 39, Language (Khazalid 33), Leadership 37, Lore (Dwarfs 33, Geology 35, Local 40, Metallurgy 35), Melee (Two-Handed) 63, Outdoor Survival 40, Perception 40, Play (Drum) 47, Ranged (Crossbow) 35, Stealth (Underground) 26, Trade (Engineer) 54, Trade (Explosives) 53",
+    "bbox": [
+      62.07889938354492,
+      405.1496887207031,
+      269.4299621582031,
+      501.6676940917969
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      62.07889938354492,
+      500.7843017578125,
+      231.5762176513672,
+      516.102294921875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Enclosed Fighter, Magic Resistance, Night Vision, Noble Blood, Read/Write",
+    "bbox": [
+      62.07889938354492,
+      500.7843017578125,
+      231.5762176513672,
+      527.7022705078125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      62.07889938354492,
+      526.8190307617188,
+      264.334228515625,
+      542.1370239257812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Crossbow, Mail Coat, Shovel, Warhammer",
+    "bbox": [
+      62.07889938354492,
+      526.8190307617188,
+      264.334228515625,
+      542.1370239257812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "DUMPLING HAYFOOT – HALFLING SERVANT",
+    "bbox": [
+      321.1098937988281,
+      563.16748046875,
+      503.9988708496094,
+      575.0874633789062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "(SILVER 3",
+    "bbox": [
+      392.6694030761719,
+      574.7675170898438,
+      429.18939208984375,
+      586.6875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      311.2247009277344,
+      590.7673950195312,
+      510.8684997558594,
+      602.6873779296875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "3 18 37 25 35 40 39 43 31 42 51 10",
+    "bbox": [
+      312.7347106933594,
+      605.1093139648438,
+      511.3735046386719,
+      620.4273071289062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      306.3306884765625,
+      619.5438842773438,
+      471.1561584472656,
+      634.8618774414062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Weapon (Meat Tenderiser) +5, Small",
+    "bbox": [
+      306.3306884765625,
+      619.5438842773438,
+      471.1561584472656,
+      634.8618774414062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      306.3306884765625,
+      633.9785766601562,
+      520.629150390625,
+      649.2965698242188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Animal Care 36, Charm 54, Consume Alcohol 40, Dodge 44, Endurance 40, Gossip 56, Language (Mootish) 36, Lore (Herbs) 38, Trade (Cook) 53",
+    "bbox": [
+      306.3306884765625,
+      633.9785766601562,
+      520.629150390625,
+      672.49658203125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      306.3306884765625,
+      671.6132202148438,
+      508.939697265625,
+      686.9312133789062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Acute Sense (Taste), Beneath Notice, Etiquette (Servants), Night Vision, Resistance (Chaos)",
+    "bbox": [
+      306.3306884765625,
+      671.6132202148438,
+      508.939697265625,
+      698.5311889648438
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      306.3306884765625,
+      697.6478881835938,
+      498.092041015625,
+      712.9658813476562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Meat Tenderiser (Improvised), Uniform",
+    "bbox": [
+      306.3306884765625,
+      697.6478881835938,
+      498.092041015625,
+      712.9658813476562
+    ]
+  }
+]

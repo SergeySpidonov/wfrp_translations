@@ -1,0 +1,59 @@
+=== СТРАНИЦА 39 ===
+
+The journey from Kemperbad to Grissenwald can be enlivened by random encounters if desired. There is always a chance that the adventurers will cross paths with the Red Crown cultists (see The Timeline, page 26), but there will be little chance of a confrontation. After several days the adventurers’ boat reaches Grissenwald.
+
+[H1] A GRISLY FIND
+
+This is an optional encounter as the adventurers pass by Castle Wittgenstein on their way to Grissenwald. It serves to place the castle’s location firmly in their minds without encouraging them to visit it right away.
+
+On their journey, the adventurers should have heard rumours about Castle Wittgenstein and its evil reputation. This impression of wrongness is magnified when they see it for the first time. It broods ominously over the river, and passing boats hug the opposite bank, as watermen tell tales of maimed and mutated corpses they have seen floating down this stretch of the river. As the adventurers’ boat passes beneath the castle’s gloomy towers, the adventurers are hailed by a passing vessel. Its crew warn the adventurers to keep to the east bank, and direct their attention to something floating in the water.
+
+Once human, the floating corpse now resembles a bloated fish. If the adventurers try to drag it from the water decaying limbs come apart, and the skin sloughs off exposing hideously rotted flesh. Anyone taking a close look at the body must make a
+
+[B] Hard (-20) Cool
+
+Test to overcome a natural urge to vomit. Those who do so will notice the corpse’s skin hangs in shreds, but there are fleshy, pink growths under the armpits, which look disturbingly like small, sucker-tipped tentacles.
+
+If the adventurers do fish the body out of the river, the passing vessel will head away as fast as it can. Its crew will shout to the adventurers to stay away from them, and to throw the body back:
+
+‘It’s another wretch from the castle! Who knows what diseases it has? And now you might have them, too!’
+
+If the adventurers look like they are making for the castle to find out what happened to the grisly corpse, there are more shouted warnings:
+
+‘You’re as good as hanged if you try! Them von Wittgensteins are lords and ladies, so do as they please! Folk say the castle is cursed, and the family along with it, and a plague will take anyone who goes near!’
+
+Inquiring further along the river, the adventurers will hear similar stories from anyone who plies these waters regularly. This gruesome body is not the first to be found in the river below the castle, and some of them were in a worse state. Everyone knows there may be a curse on the castle dating back:
+
+‘from old Dagmar’s time… one of the von Wittgensteins did something, and the gods are punishing the whole family and everyone around them.’
+
+The point here is to create a sense of menace and foreshadowing. There are accounts to settle, but not quite yet.
+
+[H1] GRISSENWALD
+
+Grissenwald (Map 7) is a small settlement at the confluence of the Rivers Grissen and Reik. It is a favourite stopping place for riverfolk and boasts a number of wharfside inns. Asking about Black Peaks at any of the inns, the adventurers are told that it is a disused coal mine up in the hills, about five miles away. Anyone making a
+
+[B] Challenging (+0) Gossip
+
+or
+
+[B] Bribery
+
+Test will discover that:
+
+The mine used to be run by Dwarfs. Dwarfs are a bunch of worthless alcoholics. The Dwarfs sold the mine to a noblewoman from Nuln about three years ago. The Dwarfs used to be the town’s main suppliers of coal.
+
+Anyone making a
+
+[B] Hard (-20) Gossip
+
+Test finds out that Etelka Herzen is the mine’s current owner. She is described as a friendly, private woman who lives in a house near the mine and rarely visits the town.
+
+[H2] A Rude Interruption
+
+While the adventurers are making enquiries, two drunken Dwarfs enter the inn. They are spoiling for a fight, and start insulting any strangers, including the adventurers. They will be particularly insulting to any Elf, but a Halfling or an obvious academic will do as a target.
+
+‘You smell something funny?’ ‘Yeah, it’s the dead elf over there. They smell worse dead than alive.’ ‘It’s moving. Can’t be dead. Undead, maybe.’ ‘We can sort that.’
+
+They will be favourably disposed to any Dwarf adventurers.
+
+The innkeeper tries to calm the Dwarfs, and even offers free drinks if they don’t cause trouble. The Dwarfs are relentless, and the adventurers can only escape their abuse by leaving.

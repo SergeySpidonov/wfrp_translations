@@ -1,0 +1,126 @@
+=== СТРАНИЦА 52 ===
+
+[H1] NON-PLAYER CHARACTERS
+
+[H2] The Grissenwald Farmers
+and Farm Labourers
+
+[B] WATCH SERGEANT (SILVER 3)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 50 30 45 30 45 30 25 30 40 45 17
+
+[B] Traits:
+
+Weapon (Sword) +8, Armour (Breastplate) 2
+
+[B] Skills:
+
+Charm 50, Climb 50, Cool 55, Dodge 40, Endurance 35, Entertain (Storytelling) 50, Gamble 35, Intimidate 60, Intuition 55, Leadership 60, Lore (Law 45, Local 45), Melee (Basic) 65, Perception 55
+
+[B] Talents:
+
+Etiquette (Soldiers), Fearless (Criminals), Hardy, Nose for Trouble, Strike to Stun
+
+[B] Trappings:
+
+Breastplate, Helm, Sword
+
+[B] WATCH RECRUIT (BRASS 3)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 40 30 35 30 30 30 25 30 30 35 12
+
+[B] Traits:
+
+Armour (Leather Jack) 1, Weapon (Club) +7
+
+[B] Skills:
+
+Athletics 35, Consume Alcohol 35, Dodge 35, Gamble 35, Melee (Basic) 45, Perception 35
+
+[B] Talents:
+
+Drilled, Strike to Stun
+
+[B] Trappings:
+
+Club, Leather Jack, Uniform
+
+[B] DURAK DIMHOLT – WOUNDED DWARF PROSPECTOR (BRASS 2)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+3 44 29 40 47 29 20 36 32 56 22 17
+
+[B] Traits:
+
+Armour (Leather Jack) 1, Prejudice (Elves), Weapon (Hand-Axe) +8, Weapon (Pick) +9
+
+[B] Skills:
+
+Consume Alcohol 50, Endurance 52, Intuition 34, Language (Khazalid) 35, Lore (Dwarfs 35, Geology 37, Local 37, Metallurgy 37), Melee (Two- handed) 49, Perception 34, Trade (Carpentry) 41
+
+[B] Talents:
+
+Magic Resistance, Night Vision, Read/ Write, Resolute, Strider (Rocky), Sturdy
+
+[B] Trappings:
+
+Axe, Leather Jack, Pack, Pick, Prospecting Pan, Shovel, Tent, 1D10 Silver shillings
+
+[H2] The Dwarfs of Khazid Slumbol
+
+[B] Durak Dimholt
+
+Durak is a dour and determined character who has stuck with his clan through thick and thin, despite wanting to leave after the mine was sold. He was ambushed by a Goblin patrol while out hunting. If he is saved Durak will be very grateful, and after he has healed fully he will be interested in joining the adventurers and putting Khazid Slumbol behind him. However, if the party includes one or more Elves, they must each make a
+
+[B] Hard (-20) Charm
+
+Test or Durak will refuse to accompany them.
+
+[B] GURDA AND HANSE – HUMAN PEASANTS (BRASS 2)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 33 31 35 38 31 30 28 29 31 32 12
+
+[B] Traits:
+
+Hatred (Greenskins)
+
+[B] Skills:
+
+Animal Care 34, Athletics 34, Charm 35, Consume Alcohol 43, Cool 36, Endurance 44, Gossip 37, Haggle 35, Lore (Local) 37, Melee (Basic 38, Brawling 37), Outdoor Survival 36
+
+[B] Talents:
+
+Stone Soup, Strong Back
+
+[B] HUMAN VILLAGERS (BRASS 3)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 35 30 35 35 30 35 30 30 30 30 12
+
+[B] Traits:
+
+Weapon (Pitchfork) +7
+
+[B] Skills:
+
+Animal Care 35, Athletics 40, Drive 40, Endurance 45, Entertain (Storytelling) 35, Gossip 35, Haggle 35, Lore (Local) 40, Melee (Basic 40, Brawling 40), Outdoor Survival 35
+
+[B] Talents:
+
+Stone Soup, Strong Back
+
+[B] Trappings:
+
+Pitchfork, Shovel
+
+[H2] The Grissenwald Town Watch
+
+A typical patrol consists of three Watch Recruits, led by an experienced Watch Sergeant.

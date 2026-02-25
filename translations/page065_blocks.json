@@ -1,0 +1,262 @@
+[
+  {
+    "type": "body",
+    "text": "If the adventurers ask who delivered the note, the servant will indicate a hooded figure seated by the door, surrounded by four ugly-looking thugs. Seeing the adventurers look his way, the hooded figure quite openly begins to cast a spell. The thugs will try to stop anyone getting to him before the casting is finished. Unless Lieberung’s double makes a successful",
+    "bbox": [
+      50.74020004272461,
+      367.6777038574219,
+      285.3163146972656,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Cool",
+    "bbox": [
+      50.74020004272461,
+      425.6777038574219,
+      285.3163146972656,
+      452.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test, his hands will turn bright purple, and remain this colour for nine days.",
+    "bbox": [
+      50.74020004272461,
+      437.2777099609375,
+      285.3163146972656,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "While physically harmless, this spell may turn out to be quite inconvenient if the Character’s hands are seen by a witch hunter or other NPC who knows something about the Ruinous Powers and their followers. At the very least, the adventurers should have some anxious moments as NPCs ask what happened to the Character’s hands, why they always wear gloves and never take them off, or any number of other innocent but worrying questions. If you play it well, this simple spell could turn out to be quite nerve-wracking for the Players.",
+    "bbox": [
+      50.74020004272461,
+      472.07769775390625,
+      285.3252258300781,
+      580.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Having cast the spell, the Purple Hand wizard leaves the inn, while the hired thugs prevent anyone from following. He should be able to escape into the town without much trouble, but if the adventurers capture him, he knows only that he was ordered to deliver the letter and to pass on this more emphatic, magical version of the ‘purple palm’ warning. Like all Purple Hand agents, he is prepared to die rather than be captured. If the adventurers are skilled and lucky enough to take him alive and break his will, he can identify only the members of his immediate cell, all of whom will have fled town when he failed to report back.",
+    "bbox": [
+      50.74020004272461,
+      588.0776977539062,
+      285.30731201171875,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "THE SIGNAL TOWER",
+    "bbox": [
+      294.9920959472656,
+      58.24270248413086,
+      450.90606689453125,
+      80.89070129394531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The signal tower is described on pages 27–33. If the adventurers did not stop there before, start with the Hitch-Hikers event (page 33). Otherwise, they will find things have changed since their last visit, depending on various factors.",
+    "bbox": [
+      294.9920959472656,
+      89.27771759033203,
+      529.5637817382812,
+      139.3957061767578
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Claws in the Dark",
+    "bbox": [
+      294.9920959472656,
+      140.3297119140625,
+      529.5637817382812,
+      161.7857208251953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the ghoul (page 37) survived the adventurers’ last visit to the tower, they will find that work on the signalling device has not progressed. The site seems abandoned: a search will turn up the bodies of four more Dwarfs, including that of Aynjulls Isembeard the foreman (page 36). All of the Dwarfs have been dead for at least a week. The site seems to have been abandoned in a hurry, but all tools and personal possessions are gone. Unless the Red Crown expedition has reached the tower before the adventurers, the site is inhabited only by the undead.",
+    "bbox": [
+      294.9920959472656,
+      158.877685546875,
+      529.5637817382812,
+      266.99560546875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "A Better Time",
+    "bbox": [
+      294.9920959472656,
+      267.9296875,
+      529.5637817382812,
+      289.38568115234375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers destroyed the ghoul on their last visit to the tower, they will find that work has progressed considerably since then. Aynjulls will greet them like long-lost friends, and do everything she can to help them — with the exception of putting any member of her crew in danger, of course. A couple of new Dwarfs have arrived to replace those lost to ghoul attacks. They have heard tales of the adventurers’ prowess, and seem even more impressed than the Dwarfs who were there previously.",
+    "bbox": [
+      294.9920959472656,
+      286.4776916503906,
+      529.5637817382812,
+      394.595703125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Interlopers",
+    "bbox": [
+      294.9920959472656,
+      395.5296936035156,
+      529.5637817382812,
+      416.9856872558594
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers have not yet had a decisive confrontation with the Red Crown expedition led by Etelka Herzen and Ernst Heidlemann, this is the perfect time for it to happen. You can consult the Timeline (page 26) to determine whether they are already at the tower when the adventurers arrive, or simply have them arrive at the most dramatic possible moment. The following paragraphs cover the main possibilities.",
+    "bbox": [
+      294.9920959472656,
+      414.0776062011719,
+      529.5637817382812,
+      498.99560546875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Retaking the Tower",
+    "bbox": [
+      294.9920959472656,
+      499.9296875,
+      529.5637817382812,
+      521.3856811523438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers arrive to find the tower in the hands of the Red Crown cultists. A couple of hired thugs stand guard over the surviving Dwarfs, who are bound hand and foot at the base of the tower. Several of them are wounded. The two wizards are looking on as a couple more thugs attack the base of the tower with tools stolen from the Dwarfs, trying to force open one of the doors used by the ghoul. The adventurers have various options:",
+    "bbox": [
+      294.9920959472656,
+      518.4777221679688,
+      529.5637817382812,
+      614.9956665039062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Attack!",
+    "bbox": [
+      294.9920959472656,
+      619.8716430664062,
+      529.560302734375,
+      640.295654296875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers could attack the Red Crown cultists head-on. A good tactic would be to neutralise the two guards and free the Dwarfs, who will snatch up tools, rocks, or whatever else comes to hand, and fight alongside the adventurers against the rest of the enemy force.",
+    "bbox": [
+      294.9920959472656,
+      634.4777221679688,
+      529.560302734375,
+      696.1956176757812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "My Dear Friend,",
+    "bbox": [
+      67.92315673828125,
+      80.79976654052734,
+      154.86380004882812,
+      100.50129699707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Things cannot be allowed to continue",
+    "bbox": [
+      69.8077621459961,
+      107.2560043334961,
+      249.41329956054688,
+      127.36176300048828
+    ]
+  },
+  {
+    "type": "body",
+    "text": "in this vein. The Inner Circle has too",
+    "bbox": [
+      71.73106384277344,
+      124.83797454833984,
+      246.6658172607422,
+      144.92347717285156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "many other fish to fry to suffer such upset over an absconding Magister lmpedimentae. This is your final warning.",
+    "bbox": [
+      67.50106048583984,
+      142.41567993164062,
+      269.0690612792969,
+      197.74220275878906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Have the 20,000 Gold Crowns in Altdorf",
+    "bbox": [
+      70.42436218261719,
+      195.12692260742188,
+      269.5604553222656,
+      215.3179473876953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "within the week, unless you prefer to take it to Middenheim personally. Do not attempt to abscond, or we will see",
+    "bbox": [
+      67.1943588256836,
+      212.71328735351562,
+      252.88246154785156,
+      267.9235534667969
+    ]
+  },
+  {
+    "type": "body",
+    "text": "to it that you live just long enough to",
+    "bbox": [
+      73.11756134033203,
+      265.4331970214844,
+      245.7972869873047,
+      285.5086975097656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "beg for the sweet release of death.",
+    "bbox": [
+      74.04086303710938,
+      283.01080322265625,
+      228.7656707763672,
+      303.0079650878906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "We will be in touch...",
+    "bbox": [
+      66.9255599975586,
+      309.4277038574219,
+      174.35325622558594,
+      329.2185363769531
+    ]
+  }
+]

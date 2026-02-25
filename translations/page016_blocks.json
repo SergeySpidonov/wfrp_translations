@@ -1,0 +1,232 @@
+[
+  {
+    "type": "body",
+    "text": "The landlord was a little puzzled about where they were going to stay, but not particularly curious. ‘Folks have a right to their own business,’ is his attitude.",
+    "bbox": [
+      82.20469665527344,
+      66.07770538330078,
+      316.7618408203125,
+      104.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There are lots of barns hereabouts. Some of them might well be red. Barns come in lots of colours. According to everyone ‘good old Otto’, the tavern’s geriatric potman, is a great source of information. He has worked here for as long as anyone can remember, and he sees everything.",
+    "bbox": [
+      82.20469665527344,
+      112.47772979736328,
+      316.7619323730469,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "For his part, Otto remembers that he saw three strangers leave last night with a large trunk piled on a wheelbarrow. He knows, though, that his memory is not what it once was. A drink or a few coins have miraculous restorative powers. Otto does remember that the strangers headed north, towards the canal. There is a red barn near there, on the far bank.",
+    "bbox": [
+      82.20469665527344,
+      182.07769775390625,
+      316.7816467285156,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "THE RED BARN",
+    "bbox": [
+      326.4566955566406,
+      58.24282455444336,
+      440.57061767578125,
+      80.89082336425781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Just across the canal is a group of miscellaneous buildings. The Red Barn, below left, stands at the northern edge of this group, dilapidated and almost overgrown by foliage. Only the barn doors are properly red, and even then the paint is faded and peeling.",
+    "bbox": [
+      326.4566955566406,
+      89.27777862548828,
+      561.005615234375,
+      150.9958038330078
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Inside, the three thugs (see The Red Barn Kidnappers, page 22) are holding Elvyra in the hayloft, gagged and tied to a chair.",
+    "bbox": [
+      326.4566955566406,
+      158.8778076171875,
+      561.0015258789062,
+      185.79579162597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "One of them is supposed to be a sentry, but is dozing, slumped against a broken cart near the doors. The other two thugs are asleep. Elvyra is drifting in and out of sleep, because she is simply not comfortable enough to get any rest.",
+    "bbox": [
+      326.4566955566406,
+      193.67779541015625,
+      561.0230712890625,
+      243.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers have a good chance of being able to approach the barn undetected. The dozing sentry should make a",
+    "bbox": [
+      326.4566955566406,
+      251.67770385742188,
+      561.013916015625,
+      278.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Perception",
+    "bbox": [
+      326.4566955566406,
+      274.877685546875,
+      561.013916015625,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to hear them coming. This is an",
+    "bbox": [
+      326.4566955566406,
+      274.877685546875,
+      561.013916015625,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Perception",
+    "bbox": [
+      326.4566955566406,
+      286.4776916503906,
+      561.013916015625,
+      301.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test if the adventurers simply walk up to the barn. Shouting a challenge or being noisy will always alert the sentry.",
+    "bbox": [
+      326.4566955566406,
+      286.4776916503906,
+      561.013916015625,
+      324.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If he hears them coming, the sentry readies his weapon and stands behind the door. It is wedged shut, and needs a",
+    "bbox": [
+      326.4566955566406,
+      332.877685546875,
+      561.0218505859375,
+      359.7958068847656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Strength",
+    "bbox": [
+      326.4566955566406,
+      356.07769775390625,
+      561.0218505859375,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to force it open. Up to three Characters can make separate tests to do this at any one time, and only one needs to succeed. The noise of a complete failure always wakes the sentry and he arms himself to confront intruders. If the sentry isn’t awake, he gets up as soon as the adventurers enter the barn. He is automatically Surprised if he was woken (",
+    "bbox": [
+      326.4566955566406,
+      356.07769775390625,
+      561.0218505859375,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      326.4566955566406,
+      425.6777038574219,
+      561.0218505859375,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 169).",
+    "bbox": [
+      326.4566955566406,
+      425.6777038574219,
+      561.0218505859375,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The sentry tries to imitate an irate yokel, and protests in a cod- rustic accent that the adventurers have damaged his door and have no business on private property. He even tries the classic ‘ Get orff my lahhhnd! ’ approach with them. He is not terribly convincing, though. Any adventurer who makes an",
+    "bbox": [
+      326.4566955566406,
+      448.877685546875,
+      561.0281982421875,
+      510.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Intelligence",
+    "bbox": [
+      326.4566955566406,
+      495.2777099609375,
+      561.0281982421875,
+      522.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test spots that he is an imposter. You can give anyone with local knowledge or a Career from the Peasant Class a +10 bonus to the Test if you wish. If the Test fails then the two thugs in the hayloft have time to prepare a response (see below).",
+    "bbox": [
+      326.4566955566406,
+      506.877685546875,
+      561.0281982421875,
+      568.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As soon as he realises that the adventurers aren’t leaving, the sentry shouts a warning to his comrades and makes a dash for the back of the barn. He ducks and weaves to make maximum use of the cover from the cart and stalls. He takes two Rounds to get to the back of the barn. If he makes an",
+    "bbox": [
+      326.4566955566406,
+      576.4777221679688,
+      561.0338134765625,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Initiative",
+    "bbox": [
+      326.4566955566406,
+      622.877685546875,
+      561.0338134765625,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test each Round he put some cover between himself and the adventurers. Missile attacks have a -20 penalty if he does.",
+    "bbox": [
+      326.4566955566406,
+      634.4777221679688,
+      561.0338134765625,
+      672.9956665039062
+    ]
+  }
+]

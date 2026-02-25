@@ -1,0 +1,242 @@
+[
+  {
+    "type": "bold",
+    "text": "I. Yard",
+    "bbox": [
+      51.070899963378906,
+      480.6717224121094,
+      285.63800048828125,
+      501.095703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The yard is surrounded by a wooden fence 5 feet high. During the daytime the gate is unlocked, and beggars can be seen coming and going. At night it is usually locked",
+    "bbox": [
+      51.070899963378906,
+      495.2777099609375,
+      285.63800048828125,
+      533.7957153320312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "(D +0, SL 0)",
+    "bbox": [
+      51.070899963378906,
+      530.0776977539062,
+      285.63800048828125,
+      545.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "J. Brew House",
+    "bbox": [
+      51.070899963378906,
+      550.271728515625,
+      285.63714599609375,
+      570.6957397460938
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The brew house is a wooden building containing Rousseaux’s still. During the day it is tended by Kurt Kutzmann; at night it is locked",
+    "bbox": [
+      51.070899963378906,
+      564.877685546875,
+      285.63714599609375,
+      603.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "(D+0, SL 0)",
+    "bbox": [
+      51.070899963378906,
+      588.0776977539062,
+      285.63714599609375,
+      603.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": ". The shelves are lined with blue bottles containing rotgut, and numerous empty bottles are heaped in one corner. Anyone looking under the heap will find a trapdoor leading to the cannibals’ tunnels.",
+    "bbox": [
+      51.070899963378906,
+      588.0776977539062,
+      285.63714599609375,
+      638.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The still is made from old copper piping, and is encrusted with filth. There is a dark brown mould around the tap and, on close inspection, tiny writhing tendrils can be seen growing from it. These are harmless unless they stay in contact with the skin for an hour or more, in which case this counts as a Major Exposure to Corruption.",
+    "bbox": [
+      51.070899963378906,
+      646.0776977539062,
+      285.65234375,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Lore (Magick or Chaos)",
+    "bbox": [
+      62.07870101928711,
+      108.06798553466797,
+      366.9896240234375,
+      130.85797119140625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Dodge",
+    "bbox": [
+      62.07870101928711,
+      212.354736328125,
+      375.2996520996094,
+      224.3447265625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Endurance",
+    "bbox": [
+      306.3306884765625,
+      578.5278930664062,
+      453.90472412109375,
+      590.5178833007812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      306.3306884765625,
+      665.397216796875,
+      424.90338134765625,
+      677.38720703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "THE CHAOTIC CORPSE",
+    "bbox": [
+      63.49380111694336,
+      354.834716796875,
+      270.5320129394531,
+      366.75469970703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      65.5531997680664,
+      407.0256042480469,
+      265.1969909667969,
+      418.9455871582031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 60 - 50 50 5 10 15 - - - 20",
+    "bbox": [
+      67.06320190429688,
+      421.49249267578125,
+      265.7019958496094,
+      436.81048583984375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      63.493900299072266,
+      438.7618103027344,
+      241.45843505859375,
+      454.0798034667969
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Construct, Dark Vision, Fear 2, Painless, 4 Tentacles +7, Undead, Unstable",
+    "bbox": [
+      63.493900299072266,
+      438.7618103027344,
+      241.45843505859375,
+      465.6797790527344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A bucket next to the still holds a bubbling, purple sludge. This is fermenting juniper berries, used by Rousseaux to cover the worst of the rotgut’s flavour. The adventurers do not know this unless one of them makes an",
+    "bbox": [
+      294.9920959472656,
+      356.07769775390625,
+      529.5330810546875,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20)",
+    "bbox": [
+      294.9920959472656,
+      390.877685546875,
+      529.5330810546875,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test using a suitable skill, such as",
+    "bbox": [
+      294.9920959472656,
+      390.877685546875,
+      529.5330810546875,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trade (Brewer)",
+    "bbox": [
+      294.9920959472656,
+      402.4776916503906,
+      529.5330810546875,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "or",
+    "bbox": [
+      294.9920959472656,
+      402.4776916503906,
+      529.5330810546875,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Lore (Herbs)",
+    "bbox": [
+      294.9920959472656,
+      402.4776916503906,
+      529.5330810546875,
+      417.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": ". There are no traces of warpstone here, apart from those that have affected the tap of the still, as Rousseaux doesn’t trust Kurt to handle the precious powder.",
+    "bbox": [
+      294.9920959472656,
+      402.4776916503906,
+      529.5330810546875,
+      452.595703125
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+=== СТРАНИЦА 11 ===
+
+[H1] A BOAT IN NEED
+
+So far, the adventurers have been lucky that their travel plans have coincided with those of Josef and he let them tag along. Now, though, it’s time for them to part ways. Josef has his own life and business, and he cannot wander all over the Empire with a group of adventurers. He has customers to serve and contracts to fulfil. By now, the adventurers have hopefully learned a little about boat handling, and they should be ready to strike out on their own. All they need is a boat.
+
+[H2] The First Victim
+
+It all begins when one of the party spots a human corpse floating in the river, face down, with several crossbow bolts sticking out of its back. As the Berebeli draws closer, other terrible wounds can be seen.
+
+If the adventurers left Bögenhafen by road, the encounter starts a little differently. A tattered, bedraggled man comes staggering towards them from the direction of the river. He is bleeding from a number of wounds, and two crossbow bolts protrude from his side. He sees the adventurers, points back towards the river and, before he dies, gasps, ‘Mutants!’ The corpse has nothing of value or interest. Following his trail, clearly marked by blood, back to the river is quite easy.
+
+[H2] The Boat
+
+As the adventurers continue along or beside the river, they see a riverboat of the same type as the Berebeli . The boat is adrift, and a number of corpses — some human, some less so — are on deck and afloat in the river. There is no sign of life. A rowing boat is conveniently tied up along the bank, allowing road travellers to reach the drifting boat without swimming.
+
+At this point, you can ask any adventurers with the Sixth Sense Talent to make an
+
+[B] Average (+20) Intuition
+
+Test. Don’t give any information regardless of the result: the intention is that the adventurers should have an uncomfortable feeling that they are being watched, and that ‘something is out there’.
+
+The boat has been attacked by a band of mutants (see ‘The Boat Attackers’, pages 20-21) and the surviving marauders are still on the scene. A winged mutant is keeping watch from a tree and anyone making a
+
+[B] Hard (-20) Perception
+
+Test will spot the creature. It will warn its companions on the boat by imitating an owl call, and Ranger Characters who make an
+
+[B] Average (+20) Intelligence
+
+Test should be told that this is an odd time for owls to be out and about. There are two mutants ransacking the boat’s cabin, and a Beastman is lurking in the water on the other side of the boat from the adventurers.
+
+As soon as the adventurers attempt to board the boat, the winged mutant dives toward them. The two mutants in the cabin attack anyone trying to enter and they fight to the death. The winged mutant flees if it sees the other two killed, or if it is reduced to 3 or fewer Wounds.
+
+After one Round of fighting, the tentacled Beastman rises from the water and reaches up to the deck, trying to seize anyone on its side of the boat. Characters who are close to the rail must make a
+
+[B] Challenging (+0) Cool
+
+Test or gain a Surprised condition. It will seize a leg of someone near the rail if it makes a successful
+
+[B] Melee (Brawling)
+
+Test and drag its target into the water. Targets are wrapped in the creature’s cloying tentacles, suffering SL Entangled Conditions, with a Strength equal to the mutant’s. It will attempt to surprise and entangle a Character each Round until it succeeds or until it is reduced to 3 Wounds or fewer, at which point it will try to flee. Characters who are warned about the mutant by someone who can see it emerge automatically pass the
+
+[B] Cool
+
+Test and will not be surprised.
+
+Entangled Characters may attempt to escape by making an Opposed
+
+[B] Strength
+
+Test — see
+
+[B] WFRP
+
+, page 168. Additionally, the creature’s tentacles may be cut away by any suitable bladed weapon. They are a static target, and the victim is cut free if the tentacles take 5 or more Damage.
+
+At the beginning of the Beastman’s Round, if it has Entangled a victim, it will pull them over the side of the boat. The target may make a
+
+[B] Difficult (-10) Strength
+
+Test to grab hold of the rail and avoid being pulled into the river.

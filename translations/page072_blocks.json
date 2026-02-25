@@ -1,0 +1,82 @@
+[
+  {
+    "type": "body",
+    "text": "They can give directions to the ruined Temple of Sigmar (Location 4) and the physician’s house (Location 5). They refuse to talk about the castle, and whenever it is mentioned they suddenly focus on something else, like a beer-mug that urgently needs polishing or a fascinating piece of dirt on the edge of a table.",
+    "bbox": [
+      82.20469665527344,
+      66.07770538330078,
+      316.77178955078125,
+      139.3957061767578
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The inn has rooms available if the adventurers wish to stay. The bedding is mouldy, but surprisingly free of vermin. There are ample supplies of beer, but very little food. Herbert explains that the adventurers are the inn’s first guests in three years. Herbert will stretch his meagre supplies as far as possible to feed his guests. The chickens in the back yard all have two heads and three legs. When cooked they look very strange, and the vegetables have an unnatural colour to them. Despite these worrying details, the adventurers will not suffer any ill effects from eating in the inn.",
+    "bbox": [
+      82.20469665527344,
+      147.2777099609375,
+      316.7718505859375,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Herbert Marcuse, Innkeeper",
+    "bbox": [
+      82.20469665527344,
+      271.8717041015625,
+      316.7889099121094,
+      292.2956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Herbert has been landlord here for 20 years. His family perished shortly after the warp storm and he now runs the inn on his own. Herbert is depressed all of the time and shows it. He is very guarded about events in the village, especially when talking to outsiders, and he is aware of the cannibalistic tendencies of some villagers, but will not speak of it. He would be horrified to discover that the ghouls have broken through into his cellar!",
+    "bbox": [
+      82.20469665527344,
+      286.4776916503906,
+      316.7889099121094,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "3. The Physician’s House",
+    "bbox": [
+      326.4566955566406,
+      59.129825592041016,
+      561.0328979492188,
+      80.58582305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Understanding the relationship between Rousseaux and Lady Margritte is the key to success in the village. The physician does his best to appear as a well-meaning, selfless benefactor to the afflicted peasants, but the truth is somewhat different. To learn this truth, the adventurers will not only have to talk to Rousseaux, but also search his house and cellar. The physician, meanwhile, having reported to the castle, will try to arrange a dinner party at which the adventurers can meet Lady Margritte. The dishes, however, will be drugged...",
+    "bbox": [
+      326.4566955566406,
+      77.67768096923828,
+      561.0328979492188,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Rousseaux’s house (below) is well maintained, one of the few without visible signs of decay. Rousseaux lives here with his housekeeper, Frau Blucher, and his imbecilic assistant, Kurt Kutzmann. Characters watching the house will see beggars entering the yard (Area I) throughout the day and leaving again after a few minutes, clutching blue bottles of rotgut.",
+    "bbox": [
+      326.4566955566406,
+      193.67767333984375,
+      561.0057983398438,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Arriving at the house, the adventurers are met by Frau Blucher, the housekeeper. She is a diminutive, elderly woman, who is short-sighted and somewhat hard of hearing. She peers at the adventurers quizzically, seeming to ignore all but the loudest of remarks, before showing them into the Surgery (Area C) to see Jean Rousseaux. If attacked or threatened, Frau Blucher will scream loudly and faint.",
+    "bbox": [
+      326.4566955566406,
+      274.877685546875,
+      561.0048828125,
+      359.7958068847656
+    ]
+  }
+]

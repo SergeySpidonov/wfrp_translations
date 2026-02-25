@@ -1,0 +1,212 @@
+[
+  {
+    "type": "body",
+    "text": "The young woman is Lady Margritte (page 116), and she is supervising the abduction of yet another villager. A beggar lies on the ground with blood pumping from the stump of his arm. A young man struggles with the guards and upon seeing the adventurers he cries for aid, but is quickly beaten senseless. Lady Margritte stares coldly at the adventurers for a moment, then returns to the castle with her unconscious prize.",
+    "bbox": [
+      82.20469665527344,
+      66.07770538330078,
+      316.75384521484375,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers intervene, they will have to deal with the six guards (page 123 — Human Sentry). The guards have a foul stench, and anyone within 2 yd of a guard must make a",
+    "bbox": [
+      82.20469665527344,
+      158.877685546875,
+      316.7718505859375,
+      208.9956817626953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Endurance",
+    "bbox": [
+      82.20469665527344,
+      193.67767333984375,
+      316.7718505859375,
+      208.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test or suffer a -10 Weapon Skill penalty for the duration of the combat. Lady Margritte will use spells to help the guards, fleeing to the castle if defeat seems certain. The fight is hampered by panicking beggars: all Initiative scores suffer a -10 penalty, and fleeing guards can automatically escape.",
+    "bbox": [
+      82.20469665527344,
+      193.67767333984375,
+      316.7718505859375,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Dog and Bone Man",
+    "bbox": [
+      82.20469665527344,
+      271.8717041015625,
+      316.7781677246094,
+      292.2956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "While walking through the village, the adventurers see a beggar and a dog fighting over a bone. Unless they step in, the beggar will be slain after 3 Rounds and the dog will flee into the woods with its prize. A few rounds later, more dogs and beggars arrive to fight over the man’s body. This time, the beggars drive off the half-starved dogs and carry the body to the boathouse, where they will cook and eat it.",
+    "bbox": [
+      82.20469665527344,
+      286.4776916503906,
+      316.7781677246094,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers rescue the beggar, he will hug the nearest Character (be sure to check for them becoming lice-ridden), then pick up the dead dog and make his way into the nearest building. Another six beggars follow him inside, and together they cook and eat the dog. The adventurers can get no useful information from the beggars, but they may be offered a few scraps of meat.",
+    "bbox": [
+      82.20469665527344,
+      379.2777099609375,
+      316.7817687988281,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Watcher",
+    "bbox": [
+      82.20469665527344,
+      469.07171630859375,
+      316.7726135253906,
+      489.4956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As the adventurers explore the village, they may become aware (via the Sixth Sense Talent) that they are being watched by a comparatively smartly dressed individual. This is Jean Rousseaux, the village physician. If approached, he will introduce himself, welcome them to the village, and apologise for not coming to meet them earlier. Explaining that he is kept very busy ‘ alleviating the suffering of these poor creatures ,’ he invites the adventurers to call on him the next day at his home (Location 4). He then departs.",
+    "bbox": [
+      82.20469665527344,
+      483.6777038574219,
+      316.7726135253906,
+      591.7957153320312
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Day 2",
+    "bbox": [
+      326.4566955566406,
+      59.129825592041016,
+      363.26812744140625,
+      80.58582305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "A Mother in Need",
+    "bbox": [
+      326.4566955566406,
+      86.27177429199219,
+      561.0330200195312,
+      106.6957778930664
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers are approached by Emrer, a desperate young woman holding a baby wrapped in a blanket. She begs them to help her baby daughter who is dying. The village’s physician has been worse than useless — all Rousseaux gave her was some of his terrible rotgut, which only made the baby’s condition worse. Her baby refuses to eat, she says, and has a terrible green pallor to her skin. To make matters worse, Emrer’s husband was the young man taken to the castle by Lady Margritte shortly after the adventurers arrived (see The Pale Lady, above).",
+    "bbox": [
+      326.4566955566406,
+      100.87769317626953,
+      561.0330200195312,
+      208.9958038330078
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Any Character looking under the blanket suffers minor exposure to Corruption (see",
+    "bbox": [
+      326.4566955566406,
+      216.877685546875,
+      561.013916015625,
+      243.79579162597656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      326.4566955566406,
+      228.477783203125,
+      561.013916015625,
+      243.79579162597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 182). Rather than an infant, the bundle holds a large but apparently docile spider. Eight hairy legs sprout from its body, which is covered in green fur. Whether this was once Emrer's infant, or a common spider of unusual, warpstone-induced size is unclear, but the troubled mother begs the Characters for assistance regardless.",
+    "bbox": [
+      326.4566955566406,
+      228.477783203125,
+      561.013916015625,
+      301.7958068847656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Two-Headed Sheep",
+    "bbox": [
+      326.4566955566406,
+      306.67181396484375,
+      561.0057983398438,
+      327.0957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Characters see a two-headed sheep being chased through the village by a group of eight beggars, hobbling after it on crutches and propelling themselves on various wheeled carts. The sheep is one of many mutant creatures that live around here, and is harmless. Before the adventurers can intervene, it will escape the beggars and flee into the woods.",
+    "bbox": [
+      326.4566955566406,
+      321.2778015136719,
+      561.0057983398438,
+      394.5957946777344
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Impounding",
+    "bbox": [
+      326.4566955566406,
+      399.4718322753906,
+      561.0210571289062,
+      419.89581298828125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The evening following the adventurers’ arrival, a force of 20 guards led by Kratz, the Sergeant of the Guard (see page 124), rides down to the wharf. While eight guards board the adventurers’ vessel, the other twelve cover the Characters with their crossbows as Kratz orders the adventurers to disembark. ‘ Get off this boat, you scum ,’ he yells. ‘ Get your filthy carcasses onto this wharf or you’ll end up feeding the crows. ’",
+    "bbox": [
+      326.4566955566406,
+      414.0777893066406,
+      561.0210571289062,
+      498.99578857421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If asked, Kratz will explain: ‘ This boat has been impounded because you didn’t call at the castle to pay the toll for use of this splendid wharf. Before you ask, it’s too late now to pay, even if you wanted to. ’ A few of the guards laugh at this witticism. ‘ Move along peacefully and no one will get hurt. Or of course, we could always feed you to the beggars. ’ Disturbingly, the beggars look excited at this, and a few of them take an eager step forward.",
+    "bbox": [
+      326.4566955566406,
+      506.8778076171875,
+      560.9862060546875,
+      591.7957763671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The mooring fee is a lie, but Kratz will not listen to any excuses and the adventurers have little choice other than to comply. Their boat is taken through the castle’s water-gate (page 87) and tied up at the wharf there. Any offer to pay will be dismissed, as Kratz explains, ‘ We’ll need some time to calculate the full scale of your fine. We’ll need to get the big abacus out for you lot .’",
+    "bbox": [
+      326.4566955566406,
+      599.6777954101562,
+      561.0059814453125,
+      672.9957885742188
+    ]
+  }
+]

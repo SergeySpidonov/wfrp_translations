@@ -1,0 +1,172 @@
+[
+  {
+    "type": "body",
+    "text": "If the adventurers try to strike up a conversation she can tell them:",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.3153991699219,
+      92.99568176269531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘I run a crew of twelve engineers. All good, solid dwarfs until this job. We were hired in Altdorf six weeks ago, with an Imperial Commission to build this signal tower as specified.’",
+    "bbox": [
+      50.74020004272461,
+      100.87769317626953,
+      285.0975341796875,
+      139.3958282470703
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘It seemed like an ideal site. Good visibility to the next towers up and down the chain, and this ruin is sound enough for a foundation.",
+    "bbox": [
+      50.74020004272461,
+      147.27777099609375,
+      285.0283203125,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘Nothing went right from the start. There were accidents and injuries. And mind, these aren’t blockheaded manlings — no offence — but trained and seasoned dwarfs. They’d no business slipping off scaffolding and dropping hammers on each other. Then they started falling sick, with no cause anyone can find.",
+    "bbox": [
+      50.74020004272461,
+      182.07781982421875,
+      285.0794677734375,
+      243.79579162597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘We carried on regardless. Contracts have been signed, after all. But five days ago the disappearances started. Two more vanished only last night, leaving six of us, including me. The rest of the crew’s asking for danger money now. Some think the place is an accursed elven burial mound. Or something worse. Them two favours the “something worse” thing.",
+    "bbox": [
+      50.74020004272461,
+      251.67779541015625,
+      285.0975036621094,
+      324.99578857421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘We’re falling woefully behind. But… I gave my word and the tower must be finished on time. I’ll take any help I can get. I’ll pay good money for good work. What do you say?’",
+    "bbox": [
+      50.74020004272461,
+      332.8778076171875,
+      285.0948181152344,
+      371.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Aynjulls can be haggled up to 6/– per person per day, plus 5 GC payable when the signal tower is complete (which will take seven more days). She will also pay the bonus if the mystery of what has been happening to her workers is solved.",
+    "bbox": [
+      50.74020004272461,
+      379.2778015136719,
+      285.3253479003906,
+      429.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "She has a diagram (Handout 4) which she will show the adventurers to explain how the signal tower works.",
+    "bbox": [
+      50.74020004272461,
+      437.2778015136719,
+      285.2982482910156,
+      464.19580078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers decide to help, keep track of how much time they spend at the tower. This will affect the timeline (page 24) which tracks their movements and those of the two Red Crown cultists.",
+    "bbox": [
+      50.74020004272461,
+      472.0777893066406,
+      285.3073425292969,
+      522.19580078125
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "OUTSIDE THE TOWER",
+    "bbox": [
+      50.74020004272461,
+      533.8427734375,
+      220.35128784179688,
+      556.4907836914062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The wall is made from blocks of a black, shiny and completely featureless mineral. Breaching this wall is impossible without specialised siege or engineering equipment. Aynjulls will reluctantly agree to create a hole if the adventurers insist. This takes a couple of hours, and Aynjulls will worry all the time that it will compromise the tower’s stability.",
+    "bbox": [
+      50.74020004272461,
+      564.8778076171875,
+      285.30731201171875,
+      638.19580078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The secret doors are completely indistinguishable from other sections of the wall, even though there are obvious paths that come to a dead end at a blank wall where the doors are hidden. The doors open automatically if the ghoul’s key (see The Magical Keys) comes within 1 yard, and close again when it is further away.",
+    "bbox": [
+      50.74020004272461,
+      646.0778198242188,
+      285.30364990234375,
+      719.3958129882812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Detect Artefact",
+    "bbox": [
+      308.89471435546875,
+      112.4483871459961,
+      521.7301025390625,
+      124.67819213867188
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "A. The Signal Tower",
+    "bbox": [
+      294.9920959472656,
+      411.0718078613281,
+      529.5413208007812,
+      431.49578857421875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Dwarfs have managed to complete the bottom floor of the signal tower, which houses the signal fire and mirror. The wooden pylon with its signalling arms has yet to be added. Both the tower and its foundation, which is the ground floor of the old observatory, are surrounded by wooden scaffolding.",
+    "bbox": [
+      294.9920959472656,
+      425.6777038574219,
+      529.5413208007812,
+      487.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The floor of the tower is actually the ceiling of the observatory. It is from this room that the workers have disappeared. They were attacked by the ghoul which entered from the observatory below through a secret trapdoor. Even if the Players suspect there is a trap door in the floor, they will not be able to open it from this side without the ghoul’s key.",
+    "bbox": [
+      294.9920959472656,
+      495.2777099609375,
+      529.5665893554688,
+      568.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers decide to spend the night here, the ghoul will attack in the small hours. The trapdoor opens noiselessly and the ghoul springs into the room. The creature is so swift that no one can attack it until it is clear of the trapdoor and fully in the room. If, foolishly, no one is watching the trapdoor, no one knows of the ghoul’s presence until it attacks. The ghoul attempts to flee back through the trapdoor if it has 2 or fewer Wounds remaining. In this case, the adventurers will have time to follow it, or to wedge the trapdoor open before it snaps shut.",
+    "bbox": [
+      294.9920959472656,
+      576.4777221679688,
+      529.56005859375,
+      684.595703125
+    ]
+  }
+]

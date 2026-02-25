@@ -1,0 +1,49 @@
+=== СТРАНИЦА 75 ===
+
+[B] I. Yard
+
+The yard is surrounded by a wooden fence 5 feet high. During the daytime the gate is unlocked, and beggars can be seen coming and going. At night it is usually locked
+
+[B] (D +0, SL 0)
+
+[B] J. Brew House
+
+The brew house is a wooden building containing Rousseaux’s still. During the day it is tended by Kurt Kutzmann; at night it is locked
+
+[B] (D+0, SL 0)
+
+. The shelves are lined with blue bottles containing rotgut, and numerous empty bottles are heaped in one corner. Anyone looking under the heap will find a trapdoor leading to the cannibals’ tunnels.
+
+The still is made from old copper piping, and is encrusted with filth. There is a dark brown mould around the tap and, on close inspection, tiny writhing tendrils can be seen growing from it. These are harmless unless they stay in contact with the skin for an hour or more, in which case this counts as a Major Exposure to Corruption.
+
+[B] Challenging (+0) Lore (Magick or Chaos)
+
+[B] Challenging (+0) Dodge
+
+[B] Challenging (+0) Endurance
+
+[B] WFRP
+
+[B] THE CHAOTIC CORPSE
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 60 - 50 50 5 10 15 - - - 20
+
+[B] Traits:
+
+Construct, Dark Vision, Fear 2, Painless, 4 Tentacles +7, Undead, Unstable
+
+A bucket next to the still holds a bubbling, purple sludge. This is fermenting juniper berries, used by Rousseaux to cover the worst of the rotgut’s flavour. The adventurers do not know this unless one of them makes an
+
+[B] Average (+20)
+
+Test using a suitable skill, such as
+
+[B] Trade (Brewer)
+
+or
+
+[B] Lore (Herbs)
+
+. There are no traces of warpstone here, apart from those that have affected the tap of the still, as Rousseaux doesn’t trust Kurt to handle the precious powder.

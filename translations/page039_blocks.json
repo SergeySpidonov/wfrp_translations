@@ -1,0 +1,292 @@
+[
+  {
+    "type": "body",
+    "text": "The journey from Kemperbad to Grissenwald can be enlivened by random encounters if desired. There is always a chance that the adventurers will cross paths with the Red Crown cultists (see The Timeline, page 26), but there will be little chance of a confrontation. After several days the adventurers’ boat reaches Grissenwald.",
+    "bbox": [
+      50.74020004272461,
+      112.47779083251953,
+      285.3126525878906,
+      185.79579162597656
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "A GRISLY FIND",
+    "bbox": [
+      50.74020004272461,
+      197.44277954101562,
+      163.46719360351562,
+      220.0907745361328
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This is an optional encounter as the adventurers pass by Castle Wittgenstein on their way to Grissenwald. It serves to place the castle’s location firmly in their minds without encouraging them to visit it right away.",
+    "bbox": [
+      50.74020004272461,
+      228.47772216796875,
+      285.3153991699219,
+      278.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "On their journey, the adventurers should have heard rumours about Castle Wittgenstein and its evil reputation. This impression of wrongness is magnified when they see it for the first time. It broods ominously over the river, and passing boats hug the opposite bank, as watermen tell tales of maimed and mutated corpses they have seen floating down this stretch of the river. As the adventurers’ boat passes beneath the castle’s gloomy towers, the adventurers are hailed by a passing vessel. Its crew warn the adventurers to keep to the east bank, and direct their attention to something floating in the water.",
+    "bbox": [
+      50.74020004272461,
+      286.4778137207031,
+      285.30731201171875,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Once human, the floating corpse now resembles a bloated fish. If the adventurers try to drag it from the water decaying limbs come apart, and the skin sloughs off exposing hideously rotted flesh. Anyone taking a close look at the body must make a",
+    "bbox": [
+      50.74020004272461,
+      414.0777893066406,
+      285.289306640625,
+      464.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Cool",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.289306640625,
+      475.7958068847656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test to overcome a natural urge to vomit. Those who do so will notice the corpse’s skin hangs in shreds, but there are fleshy, pink growths under the armpits, which look disturbingly like small, sucker-tipped tentacles.",
+    "bbox": [
+      50.74020004272461,
+      460.4778137207031,
+      285.289306640625,
+      510.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers do fish the body out of the river, the passing vessel will head away as fast as it can. Its crew will shout to the adventurers to stay away from them, and to throw the body back:",
+    "bbox": [
+      50.74020004272461,
+      518.477783203125,
+      285.2713317871094,
+      568.5957641601562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘It’s another wretch from the castle! Who knows what diseases it has? And now you might have them, too!’",
+    "bbox": [
+      50.74020004272461,
+      576.477783203125,
+      285.0480041503906,
+      603.3958129882812
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers look like they are making for the castle to find out what happened to the grisly corpse, there are more shouted warnings:",
+    "bbox": [
+      50.74020004272461,
+      611.2777709960938,
+      285.31622314453125,
+      649.7957763671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘You’re as good as hanged if you try! Them von Wittgensteins are lords and ladies, so do as they please! Folk say the castle is cursed, and the family along with it, and a plague will take anyone who goes near!’",
+    "bbox": [
+      50.74020004272461,
+      657.6776733398438,
+      285.08673095703125,
+      707.7957763671875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Inquiring further along the river, the adventurers will hear similar stories from anyone who plies these waters regularly. This gruesome body is not the first to be found in the river below the castle, and some of them were in a worse state. Everyone knows there may be a curse on the castle dating back:",
+    "bbox": [
+      294.9920959472656,
+      112.47772979736328,
+      529.5592651367188,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘from old Dagmar’s time… one of the von Wittgensteins did something, and the gods are punishing the whole family and everyone around them.’",
+    "bbox": [
+      294.9920959472656,
+      182.07781982421875,
+      529.3402099609375,
+      220.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The point here is to create a sense of menace and foreshadowing. There are accounts to settle, but not quite yet.",
+    "bbox": [
+      294.9920959472656,
+      228.47772216796875,
+      529.541259765625,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "GRISSENWALD",
+    "bbox": [
+      294.9920959472656,
+      267.0426940917969,
+      405.13507080078125,
+      289.6907043457031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Grissenwald (Map 7) is a small settlement at the confluence of the Rivers Grissen and Reik. It is a favourite stopping place for riverfolk and boasts a number of wharfside inns. Asking about Black Peaks at any of the inns, the adventurers are told that it is a disused coal mine up in the hills, about five miles away. Anyone making a",
+    "bbox": [
+      294.9920959472656,
+      298.07769775390625,
+      529.5263671875,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Gossip",
+    "bbox": [
+      294.9920959472656,
+      356.07769775390625,
+      529.5263671875,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "or",
+    "bbox": [
+      294.9920959472656,
+      356.07769775390625,
+      529.5263671875,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Bribery",
+    "bbox": [
+      294.9920959472656,
+      356.07769775390625,
+      529.5263671875,
+      371.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will discover that:",
+    "bbox": [
+      294.9920959472656,
+      356.07769775390625,
+      529.5263671875,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The mine used to be run by Dwarfs. Dwarfs are a bunch of worthless alcoholics. The Dwarfs sold the mine to a noblewoman from Nuln about three years ago. The Dwarfs used to be the town’s main suppliers of coal.",
+    "bbox": [
+      294.9920959472656,
+      390.877685546875,
+      524.5900268554688,
+      452.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Anyone making a",
+    "bbox": [
+      294.9920959472656,
+      460.4776916503906,
+      529.565673828125,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Hard (-20) Gossip",
+    "bbox": [
+      294.9920959472656,
+      460.4776916503906,
+      529.565673828125,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test finds out that Etelka Herzen is the mine’s current owner. She is described as a friendly, private woman who lives in a house near the mine and rarely visits the town.",
+    "bbox": [
+      294.9920959472656,
+      460.4776916503906,
+      529.565673828125,
+      510.595703125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "A Rude Interruption",
+    "bbox": [
+      294.9920959472656,
+      511.52972412109375,
+      529.565673828125,
+      532.9857177734375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "While the adventurers are making enquiries, two drunken Dwarfs enter the inn. They are spoiling for a fight, and start insulting any strangers, including the adventurers. They will be particularly insulting to any Elf, but a Halfling or an obvious academic will do as a target.",
+    "bbox": [
+      294.9920959472656,
+      530.0776977539062,
+      529.565673828125,
+      591.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘You smell something funny?’ ‘Yeah, it’s the dead elf over there. They smell worse dead than alive.’ ‘It’s moving. Can’t be dead. Undead, maybe.’ ‘We can sort that.’",
+    "bbox": [
+      294.9920959472656,
+      599.6776733398438,
+      526.48193359375,
+      649.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "They will be favourably disposed to any Dwarf adventurers.",
+    "bbox": [
+      294.9920959472656,
+      657.6776733398438,
+      513.1524047851562,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The innkeeper tries to calm the Dwarfs, and even offers free drinks if they don’t cause trouble. The Dwarfs are relentless, and the adventurers can only escape their abuse by leaving.",
+    "bbox": [
+      294.9920959472656,
+      680.877685546875,
+      529.5376586914062,
+      719.3956909179688
+    ]
+  }
+]

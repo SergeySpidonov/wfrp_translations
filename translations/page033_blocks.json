@@ -1,0 +1,282 @@
+[
+  {
+    "type": "h1",
+    "text": "KEMPERBAD",
+    "bbox": [
+      50.74020004272461,
+      359.8428039550781,
+      142.85220336914062,
+      382.4908142089844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There are no required encounters or events for the rest of the journey to Kemperbad, although you can use the River Life of the Empire section of the",
+    "bbox": [
+      50.74020004272461,
+      390.877685546875,
+      285.3072814941406,
+      429.3957824707031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Death on the Reik Companion",
+    "bbox": [
+      50.74020004272461,
+      414.0777893066406,
+      285.3072814941406,
+      429.3957824707031
+    ]
+  },
+  {
+    "type": "body",
+    "text": "as a source of ideas for enlivening the journey.",
+    "bbox": [
+      50.74020004272461,
+      414.0777893066406,
+      285.3072814941406,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Town",
+    "bbox": [
+      50.74020004272461,
+      441.9296875,
+      285.3072814941406,
+      463.38568115234375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Kemperbad sits atop a 500-foot cliff overlooking the Reik, just north of its confluence with the River Stir. The Stir originally plunged over a mighty waterfall into the Reik, but the river has cut a narrow gorge into the cliffs. The waterfall has slowly moved upstream to its present location at the confluence of the Stir and Narn. The gorge of the Stir is crossed by a narrow rope bridge, and this makes the town all but inaccessible to southern road traffic.",
+    "bbox": [
+      50.74020004272461,
+      460.4776916503906,
+      285.3072814941406,
+      556.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Fortunately for commerce, a dock has been built on the Reik at the base of the cliffs. This is connected to the town by an ingenious system of lifts. There are baskets and platforms of varying sizes, suspended from huge block and tackle sets on Elven ropes, and all raised and lowered by counterbalances. The system is maintained and operated by Dwarven engineers. Remarkably, there has been only one fatal accident in the last fifty years. Some drunken young nobles tried to race each other to the bottom. The winner was too unwell to claim his prize.",
+    "bbox": [
+      50.74020004272461,
+      564.877685546875,
+      285.306396484375,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Use of the lifts costs 2d per person on the passenger platforms (holding up to four average-sized individuals), and 2d per ten baskets or sacks of bulk cargo, or 30 encumbrance equivalent.",
+    "bbox": [
+      50.74020004272461,
+      680.877685546875,
+      285.2811584472656,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "For the poor, the miserly, and the athletic, 1,111 steps are cut into the cliff in a zig-zag staircase to the town.",
+    "bbox": [
+      294.9920959472656,
+      367.67779541015625,
+      529.5584106445312,
+      394.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A ferry service at the docks provides the safest way to cross the Reik between Nuln and Altdorf. It connects the Great North Road to Grünburg and Altdorf. The ferry costs 2d per passenger, and 4d for a horse. The locals joke that this is a foot tax. The Four Seasons Coaching Line maintains a large coaching inn and staging post at the nearby village of Jungbach.",
+    "bbox": [
+      294.9920959472656,
+      402.4778137207031,
+      529.556640625,
+      475.7958068847656
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "Government",
+    "bbox": [
+      294.9920959472656,
+      476.72979736328125,
+      529.556640625,
+      498.185791015625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Thanks to an Imperial Charter from Boris the Incompetent in 1066, Kemperbad is an autonomous trading town or ‘Freiburg’. This means it is independent of the Reikland and answerable only to the Emperor. A Council of Thirteen governs the town. Its members are elected by the most influential guilds and families. The Emperor retains the right to appoint or dismiss any of the councillors, but has never done so.",
+    "bbox": [
+      294.9920959472656,
+      495.2778015136719,
+      529.556640625,
+      580.19580078125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Kemperbad has become very wealthy through trade, and all kinds of goods may be found here. It should be considered a City for item Availability (see",
+    "bbox": [
+      294.9920959472656,
+      588.0778198242188,
+      529.5680541992188,
+      626.5957641601562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "WFRP",
+    "bbox": [
+      294.9920959472656,
+      611.2777709960938,
+      529.5680541992188,
+      626.5957641601562
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", page 290).",
+    "bbox": [
+      294.9920959472656,
+      611.2777709960938,
+      529.5680541992188,
+      626.5957641601562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "In theory, the removal of any liege lord, and their accompanying tax demands, should reduce the cost of living. In practice everything costs about as much as elsewhere, as the town’s council has simply increased local taxes and tolls. Therefore, Kemperbad is cleaner and better maintained than some other towns, as the council can afford to keep the streets in good order.",
+    "bbox": [
+      294.9920959472656,
+      634.477783203125,
+      529.5501098632812,
+      707.7957763671875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Perception",
+    "bbox": [
+      64.59310150146484,
+      275.02581787109375,
+      281.5431823730469,
+      287.01580810546875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Detect Artefact",
+    "bbox": [
+      64.59310150146484,
+      309.8258056640625,
+      281.5431823730469,
+      321.8157958984375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Esme Puddlefoot’s Common Herbal",
+    "bbox": [
+      299.0892028808594,
+      124.22582244873047,
+      520.0010986328125,
+      136.2158203125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "in Reikspiel.",
+    "bbox": [
+      299.0892028808594,
+      124.22582244873047,
+      520.0010986328125,
+      136.2158203125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Research",
+    "bbox": [
+      307.5931091308594,
+      135.82568359375,
+      520.0226440429688,
+      159.415771484375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Daemons Amonge Us",
+    "bbox": [
+      299.0892028808594,
+      182.225830078125,
+      519.9853515625,
+      194.2158203125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "i",
+    "bbox": [
+      299.0892028808594,
+      182.225830078125,
+      519.9853515625,
+      194.2158203125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Research",
+    "bbox": [
+      307.5931091308594,
+      205.42578125,
+      522.3607788085938,
+      217.415771484375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A Journey Through Bretonnia",
+    "bbox": [
+      299.0892028808594,
+      240.225830078125,
+      520.0045776367188,
+      252.2158203125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "in Reikspeil",
+    "bbox": [
+      299.0892028808594,
+      240.225830078125,
+      520.0045776367188,
+      252.2158203125
+    ]
+  },
+  {
+    "type": "body",
+    "text": ",",
+    "bbox": [
+      299.0892028808594,
+      240.225830078125,
+      520.0045776367188,
+      252.2158203125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Perception",
+    "bbox": [
+      300.93170166015625,
+      309.8258056640625,
+      487.4695129394531,
+      321.8157958984375
+    ]
+  }
+]

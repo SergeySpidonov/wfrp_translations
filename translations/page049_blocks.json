@@ -1,0 +1,172 @@
+[
+  {
+    "type": "bold",
+    "text": "7. Kitchen",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.31195068359375,
+      81.39570617675781
+    ]
+  },
+  {
+    "type": "body",
+    "text": "— By contrast to the rest of the house, this room is still tidy. The height of the table and work benches are suitable for a Halfling. If the adventurers have entered the building undetected, Dumpling Hayfoot (page 53) will be working in here during the day. Otherwise, she is in her bedroom.",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.31195068359375,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "8. Dumpling’s Room",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.3043518066406,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "— If she has heard fighting in the house, Dumpling Hayfoot will be hiding under her bed, armed with a meat tenderiser (Improvised Weapon). If no one thinks to look under the bed, she may draw their attention by sneezing.",
+    "bbox": [
+      50.74020004272461,
+      135.67767333984375,
+      285.3043518066406,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "First Floor",
+    "bbox": [
+      50.74020004272461,
+      190.6716766357422,
+      285.3001708984375,
+      211.09567260742188
+    ]
+  },
+  {
+    "type": "body",
+    "text": "This level has a wooden floor. From the top of the stairs, the blackened door to the laboratory can be seen lying on the floor. The mirrors and roof-window four yards above (Room 15) are also clearly visible.",
+    "bbox": [
+      50.74020004272461,
+      205.2777099609375,
+      285.3001708984375,
+      255.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "9. Study",
+    "bbox": [
+      50.74020004272461,
+      263.2777099609375,
+      285.2973327636719,
+      278.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "— The doors to this room are locked and have resisted the Goblins’ attempts to break them down. The door leading to the stairwell has visible hack marks, and there are splinters of wood on the floor. The Goblins’ crude attempts at picking the lock have left a kitchen knife jammed in the keyhole, and the lock’s mechanism is ruined. An",
+    "bbox": [
+      50.74020004272461,
+      263.2777099609375,
+      285.2973327636719,
+      336.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Strength",
+    "bbox": [
+      50.74020004272461,
+      321.2777099609375,
+      285.2973327636719,
+      336.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will knock the weakened door off it’s hinges, however.",
+    "bbox": [
+      50.74020004272461,
+      321.2777099609375,
+      285.2973327636719,
+      348.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Inside, a stuffed reptile as large as a horse hangs from the ceiling and a stuffed bear stands next to the door. Through a trick of the light, the bear appears to move when the adventurers enter. On the west wall is a bookcase containing a selection of books on Goblins and their kin. Among these is a grimoire containing the following spells: Aethyric Armour , Flight , Blast and Dome, all Arcane spells in a Lore of the GM’s choosing..",
+    "bbox": [
+      50.74020004272461,
+      356.07769775390625,
+      285.3161926269531,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A quill, an inkwell, and a few small sheets of parchment lie on the desk. The drawer is locked and contains a dark green, viscous liquid in an enamelled red vial (a Healing Draught) along with a letter addressed to Etelka Herzen (Handout 9).",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.3136291503906,
+      498.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If Ernst Heidlemann met Etelka in Kemperbad rather than coming here (see Unforeseen Delays, page 24), the letter orders Etelka to meet Heidlemann in Kemperbad, at the Half Moon Inn. It gives his name, a rough description, and a recognition code: she is to order a brandy and then refuse it, saying loudly that it is not Bretonnian.",
+    "bbox": [
+      294.9920959472656,
+      332.877685546875,
+      529.287353515625,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "10. Living Room",
+    "bbox": [
+      294.9920959472656,
+      414.07769775390625,
+      529.2598266601562,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "— Gutbag has taken over Etelka’s living room, and it is a mess. The furniture is badly stained, and ornaments lie smashed on the floor.",
+    "bbox": [
+      294.9920959472656,
+      414.07769775390625,
+      529.2598266601562,
+      452.595703125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "11. Bedroom",
+    "bbox": [
+      294.9920959472656,
+      460.4776916503906,
+      529.2586059570312,
+      475.7956848144531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "— The Goblins have turned this room into a barracks. There are usually five Goblins in here.",
+    "bbox": [
+      294.9920959472656,
+      460.4776916503906,
+      529.2586059570312,
+      487.39569091796875
+    ]
+  }
+]

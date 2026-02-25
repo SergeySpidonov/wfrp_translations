@@ -1,0 +1,47 @@
+=== СТРАНИЦА 12 ===
+
+Failing costs 1 Wound regardless of armour and Toughness. The Beastman tries to hold its target under water until they drown. Characters pulled into the water in this way can hold their breath for their Toughness Bonus in Rounds — after this, they lose 1 Wound per Round until they fall unconscious.
+
+The victim may fight back while underwater, but only using thrusting weapons such as swords, spears, or daggers, and even these suffer -2 damage. While held underwater, the usual -10 penalty for actions taken while Entangled becomes -20 instead. The Beastman will continue to attempt to drown its victim until they break free, until it is reduced to 3 Wounds, or its victim falls unconscious. If the latter happens, the creature will happily depart, dragging its next meal with it.
+
+[H2] Taking Stock
+
+Once the marauders have been defeated, the adventurers can look over the boat. There are five corpses in total: three of them are Humans (a man and a woman in their mid-twenties and a man in his forties) and the other two are mutants. One has a skull face and eyestalks, the other has bird’s legs, a furry tail, and a single eye on the end of its nose.
+
+A search of the bodies will reveal: 2 Mail Coats (which will fit two of the adventurers), 2 Mail Coifs, 3 Swords (one broken), 1 Crossbow and 13 Bolts, 4 Daggers, 2 Clubs, and a total of 30 shillings in mixed coinage.
+
+[H2] Something Down Below
+
+As the adventurers search the boat, they hear the sound of movement in the hold. If anyone searches the hold, they will find many sacks of wool and 10 crates. A
+
+[B] Difficult (-10) Perception
+
+Test lets that Character see a crate lid move ever so slightly. If that test is failed, a second
+
+[B] Difficult (-10) Perception
+
+Test allows an adventurer to hear a faint sound from inside the crate.
+
+If the adventurers call out ‘Who’s there?’ (or anything else) all movement stops abruptly. If the crate is opened, there’s a woman cowering inside. She screams and brandishes a small knife ineffectually as the lid is removed, but then collapses with relief at the sight of friendly faces. Or perhaps it’s at the sight of normal, non-mutated faces…
+
+This is Renate Hausier, a pedlar from Grünburg and passenger who was on her way home after the Schaffenfest. She was in the hold when the mutants attacked. ‘I looked out and saw this horrible skull-faced creature — I knew I ought to fight, but all I could do was run. I hid in here and hoped no one would notice me.’ Renate will be able to identify the three human corpses as Fritz Segel, the boat’s owner, his son Albrecht, and his daughter-in-law, Heidi. If asked, she thinks the cargo belonged to the Segels rather than being a contract load.
+
+There are, if anyone wants to count them, 75 sacks of wool in total, each the equivalent of 3 Encumbrance Points.
+
+[H2] What Now?
+
+If the adventurers are unsure of what to do after winning the fight, Renate encourages them to take over the boat and cargo so that she can get to her destination in Weissbruck. If the adventurers are still travelling with Josef, he points out that normal practice on the river is to take over a salvaged boat and work it until any next of kin can be traced, keeping any profits as salvage fees. It’s not uncommon for the next of kin to pay a reward too, if they are traced. An
+
+[B] Easy (+40) Lore (Riverways)
+
+Test by an adventurer will bring this to mind, or Renate or Josef can tell the adventurers about salvage. The adventurers have now acquired a boat, a cargo, and a passenger who could serve as a replacement adventurer if one is needed. They are now ready for the next part of the adventure.
+
+If they are travelling with Josef there will be a fond, and moderately alcoholic, farewell. This can take place now, or when the two boats arrive in Weissbruck.
+
+If none of the adventurers have Row or Sail Skills, Josef will spend a day teaching at least one of them the rudiments of boat handling. This is not enough time to learn a Skill, but each of the adventurers being taught should make a
+
+[B] Challenging (+0) Intelligence
+
+Test. Those who succeed gain a +10 bonus to any Tests involving boats that you decide are relevant until they properly acquire either Skill.
+
+Even if Josef is available, Renate will offer to help with the boat. It’s the least she can do for the heroes who rescued her.

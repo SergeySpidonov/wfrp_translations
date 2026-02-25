@@ -1,0 +1,47 @@
+=== СТРАНИЦА 79 ===
+
+The sword, which the GM may choose to treat either as a Hand Weapon or a Zweihänder depending on the party's skills, is in perfect condition. Its name,
+
+[B] Barrakul
+
+, — ‘Hope of the Mountains’ — is inscribed with Dwarf runes along its blade. It is undoubtedly the creation of a Runesmith of no mean skill. When wielded in combat, the blade shimmers, visible one moment and gone the next, and only the red glow of its runes is constant. Non-magical armour is useless against this blade — ignore the AP of any non-magical armour or shield. It possess the Unbreakable quality, but gains the Undamaging flaw if weilded against a Dwarf.
+
+[B] H&I — Graveyard and Mausoleum
+
+The passage from the crypts rises gently, and eventually ends in a flight of steps leading up to a wooden door. Beyond is the mausoleum where local notables were interred. Their coffins have all been broken open and the corpses removed. Outside, the graveyard is wreathed in a perpetual mist that never clears, even during the day. The vast majority of the graves have been dug up and the bodies removed. Most have been eaten, but some have been taken by Lady Margritte for her experiments.
+
+[H2] 5. The Mill
+
+The windmill is where Hilda and her grandfather Hans live. Hans works hard to maintain it, and even has a secret cache of flour in the cellar. The Characters will not be made welcome, as Hans and Hilda are afraid to draw the attention of the guards.
+
+[H2] 6. The Shop
+
+Wittgendorf's only store is closed and long since picked clean. It is now home to a quickly diminishing population of rats.
+
+[H2] 7. The Boathouse
+
+The crumbling boathouse is used as a shelter by the village’s beggars. It reeks of urine and vomit, and contains nothing more than tattered, lice-ridden blankets and cast-off rags of clothing.
+
+[H1] THE OUTLAW CAMP
+
+The outlaw camp lies just over a mile from the village, and is well concealed. Unless led there by Hilda (see The Outlaws’ Spy, page 71), the adventurers will only find it after a thorough search of the surrounding forest. A successful
+
+[B] Difficult (-10) Track
+
+Test will reveal intentionally obscured tracks leading to the outlaw camp. With Hilda leading the way, it takes about half an hour to reach the camp.
+
+[H2] The Forest
+
+The forest surrounding the village is dark and sinister. Tall trees spiral upwards to the sky, blocking out the light. The floor of the forest is covered with sickly-looking fungal growths, and tree roots seem to reach out to snag passers-by. Although no one will ever see a root move, you may impose Athletics and/or Perception Tests at intervals, to avoid tripping.
+
+Hilda seems alert, but unaffected by her surroundings. If the adventurers ask about the forest, she will say that although it has changed dramatically since the storm (see Winds of Change page 69), it is usually safe during the day. During the night, though, terrible creatures come out to hunt.
+
+[H2] The Fungus
+
+The fungus that covers the trees has a warty skin, an unpleasant colouration and a musty smell. A close inspection reveals what might be crude caricatures of human facial features, leering out of a mass of decay.
+
+The fungus is harmless unless eaten. Anyone foolish enough to eat it must make a
+
+[B] Challenging (+0) Endurance
+
+Test or spend 2 Rounds vomiting. Even those who successfully pass their test will be afflicted by stomach pains after 30 minutes, lasting for 1d10 hours. During this time all Tests suffer a -20 penalty.

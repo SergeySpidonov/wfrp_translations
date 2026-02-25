@@ -1,0 +1,79 @@
+=== СТРАНИЦА 63 ===
+
+[B] SKELETONS (4)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 35 25 40 30 30 20 25 - - - 14
+
+[B] Traits:
+
+Armour 2, Construct, Dark Vision, Fear 2, Painless, Undead, Weapon +8
+
+[B] Skills:
+
+Dodge 30, Melee (Basic) 45
+
+[B] Trappings:
+
+Hand Weapons, Tattered Chainmail Shirt
+
+[B] Special Rules:
+
+Because of the way they died, these skeletons are not Unstable, and can move around freely. If the Characters flee, the skeletons will follow them until they are destroyed or the Characters are dead.
+
+[B] ASTRIT — HUMAN VILLAGER (BRASS 3)
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+4 35 33 35 35 30 35 29 31 30 30 23
+
+[B] Skills:
+
+Animal Care 35, Athletics 40, Consume Alcohol 45, Drive 40, Endurance 45, Entertain (Storytelling) 35, Gossip 35, Haggle 35, Lore (Local) 40, Melee (Basic 40, Brawling 40), Outdoor Survival 35
+
+[B] Talents:
+
+Stone Soup, Strong Back
+
+[B] Traits:
+
+Weapon (Pitchfork) +7
+
+[B] Trappings:
+
+Pitchfork, Shovel
+
+[B] BRUNHILDE GRATTEN – GHOST
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+6 30 55 30 40 20 45 20 15 15 30 11
+
+[B] Traits:
+
+Dark Vision, Ethereal, Fear 2, Undead, Unstable, Ranged (Bow) +6, Weapon +6
+
+[B] The Ghost of Brunhilde Gratten
+
+A hundred and twenty years ago, Brunhilde was a scout for Dagmar von Wittgenstein’s expedition to find the warpstone meteorite. After finding what he sought, Dagmar murdered his whole party, stabbing Brunhilde repeatedly while she slept and burying the rest alive in the nearby cavern.
+
+Since then Brunhilde has haunted the area around the Devil’s Bowl, yearning for a proper burial for herself and her companions. She will tell the tale of Dagmar’s betrayal — of how he led them into the lush hills to find a meteorite which he calculated had landed here, and of how he changed when he found it, becoming first secretive and then murderous.
+
+[B] Skysoarer the Raven
+
+Corrobreth has trained Skysoarer to act as a scout, flying in an indicated direction and swooping to mark the positions of any people or creatures that he sees larger than the raven himself. When not acting as a scout for Corrobreth, Skysoarer usually sits on his shoulder.
+
+[B] SKYSOARER THE RAVEN
+
+[B] M WS BS S T I Agi Dex Int WP Fel W
+
+2 15 - 5 15 25 40 - 20 20 10 1
+
+[B] Traits:
+
+Bestial, Fly 100, Size (Tiny), Skittish, Weapon+0
+
+[B] Optional:
+
+Size (Small), Trained (Scout)

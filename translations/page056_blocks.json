@@ -1,0 +1,92 @@
+[
+  {
+    "type": "h1",
+    "text": "TWIN FALLS",
+    "bbox": [
+      82.20469665527344,
+      58.24270248413086,
+      174.40980529785156,
+      80.89070129394531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "As the adventurers approach the confluence of the Rivers Stir and Narn (see below), the river’s turbulence increases and a distant, continuous roar can be heard. Where the Narn joins the Stir, both rivers thunder over the dramatic cliffs in a deafening twin waterfall more than 400 ft high. The waters of the two rivers have carved a great rock basin that boils and seethes like a cauldron, and the air is filled with spray that soaks the Characters more quickly and thoroughly than any rainstorm.",
+    "bbox": [
+      82.20469665527344,
+      89.27771759033203,
+      316.7808837890625,
+      185.7957305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "There is a small landing stage on the northern bank, sheltered from the turbulence by a rock outcrop. A small sailing dinghy is moored here, covered by a tarpaulin to keep the interior dry. Sitting in a cave-mouth beyond the jetty, a woman is busy patching a hide canoe. Seeing the adventurers’ boat, she smiles and waves cheerfully.",
+    "bbox": [
+      82.20469665527344,
+      193.67767333984375,
+      316.7807922363281,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "To the south is a man-made inlet leading to a long flight of 20 locks which allows boats to get up and down the 400-ft drop to and from the River Narn. At the top stands The Roaring Falls, a lock-house and riverside inn. The toll for the locks is quite expensive at 5 GCs.",
+    "bbox": [
+      82.20469665527344,
+      274.877685546875,
+      316.7528991699219,
+      336.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The adventurers may decide to go through the lock system, or they may prefer to stop and talk to the woman. She gives her name as Astrit, from the village of Unterbaum.",
+    "bbox": [
+      82.20469665527344,
+      344.4776916503906,
+      316.7600402832031,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "A Travellers’ Welcome",
+    "bbox": [
+      326.4566955566406,
+      59.129825592041016,
+      561.0311279296875,
+      80.58582305908203
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Astrit will be happy to talk to the adventurers, offering the hospitality of her village if they seem in need. She will be especially pleased if the party has goods to trade, and will insist on taking them to meet the village elder. They know very little about life outside their immediate area. Astrit can explain that most travellers stay at The Roaring Falls inn at the top of the lock system, and that Uta Freikrüger, the landlady and lock- keeper, runs a friendly and clean establishment. Astrit is an open, sincere person, almost entirely incapable of deception.",
+    "bbox": [
+      326.4566955566406,
+      77.67780303955078,
+      561.0311279296875,
+      185.79579162597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If asked about the Barren Hills, Astrit turns pale and touches the forefingers of her right hand to her forehead — a local gesture to ward off evil. ‘No one ever goes there,’ she says, ‘except for Corrobreth, our priest. He sometimes goes into the hills to search for herbs and the like.’ If the adventurers keep asking questions, she suggests that they come to the village to meet the elder and the priest for themselves.",
+    "bbox": [
+      326.4566955566406,
+      193.67779541015625,
+      561.0082397460938,
+      278.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "If the adventurers accompany Astrit back to the village, she leads them into the cave, which rapidly becomes an upward-sloping tunnel, and then a spiral staircase hewn from the rock. The steps ascend 350 ft, and are rather slimy and slippery, but fortunately there is a rope bannister, so there is no danger of falling. At the top, the stairs open on to a narrow strip of grass between the forest and the gorge, affording a magnificent view of the thundering falls. There is a track leading off into the forest, and a horse and cart wait by a magnificent oak tree. Astrit takes the reins and gestures the adventurers into the back of the cart, which trundles off along the track to the village of Unterbaum.",
+    "bbox": [
+      326.4566955566406,
+      286.4778137207031,
+      561.023681640625,
+      417.7958068847656
+    ]
+  }
+]

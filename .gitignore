@@ -1,0 +1,53 @@
+# PDF файлы (крупные)
+*.pdf
+
+# Документы Word
+*.docx
+~$*.xlsx
+
+# Папка Claude Code (локальные настройки)
+.claude/
+
+# Архивы (контент для Foundry VTT)
+*.zip
+
+# Шрифты
+*.ttf
+*.otf
+
+# Файлы Scribus
+*.sla
+
+# HTML-экспорты
+*.html
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+
+# Глоссарий (бинарный Excel, хранится локально)
+Глоссарий.xlsx
+
+# Извлечённые рабочие тексты (большие)
+glossary_extracted.txt
+law_pages_output.txt
+laws_section_full.txt
+toc_and_law.txt
+scribus_errors.txt
+
+# Временные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Папки с контентом, который не нужен в репо
+renders/
+static/
+WFRP2/
+WFRP4/
+"WFRP4 хоумрулы"/
+"Для фаундри"/
+"КиШ - Приключение"/
+"Конверсия WFRP2 под WFRP4"/
+Фаундри/
+Флафф/

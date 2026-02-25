@@ -1,0 +1,232 @@
+[
+  {
+    "type": "body",
+    "text": "The sword, which the GM may choose to treat either as a Hand Weapon or a Zweihänder depending on the party's skills, is in perfect condition. Its name,",
+    "bbox": [
+      50.74020004272461,
+      66.07770538330078,
+      285.3037109375,
+      104.59571838378906
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Barrakul",
+    "bbox": [
+      50.74020004272461,
+      89.27771759033203,
+      285.3037109375,
+      104.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": ", — ‘Hope of the Mountains’ — is inscribed with Dwarf runes along its blade. It is undoubtedly the creation of a Runesmith of no mean skill. When wielded in combat, the blade shimmers, visible one moment and gone the next, and only the red glow of its runes is constant. Non-magical armour is useless against this blade — ignore the AP of any non-magical armour or shield. It possess the Unbreakable quality, but gains the Undamaging flaw if weilded against a Dwarf.",
+    "bbox": [
+      50.74020004272461,
+      89.27771759033203,
+      285.3037109375,
+      197.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "H&I — Graveyard and Mausoleum",
+    "bbox": [
+      50.74020004272461,
+      202.27171325683594,
+      285.30731201171875,
+      222.69570922851562
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The passage from the crypts rises gently, and eventually ends in a flight of steps leading up to a wooden door. Beyond is the mausoleum where local notables were interred. Their coffins have all been broken open and the corpses removed. Outside, the graveyard is wreathed in a perpetual mist that never clears, even during the day. The vast majority of the graves have been dug up and the bodies removed. Most have been eaten, but some have been taken by Lady Margritte for her experiments.",
+    "bbox": [
+      50.74020004272461,
+      216.877685546875,
+      285.30731201171875,
+      313.39569091796875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "5. The Mill",
+    "bbox": [
+      50.74020004272461,
+      314.3297119140625,
+      285.30731201171875,
+      335.78570556640625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The windmill is where Hilda and her grandfather Hans live. Hans works hard to maintain it, and even has a secret cache of flour in the cellar. The Characters will not be made welcome, as Hans and Hilda are afraid to draw the attention of the guards.",
+    "bbox": [
+      50.74020004272461,
+      332.877685546875,
+      285.30731201171875,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "6. The Shop",
+    "bbox": [
+      50.74020004272461,
+      383.9296875,
+      285.30731201171875,
+      405.38568115234375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Wittgendorf's only store is closed and long since picked clean. It is now home to a quickly diminishing population of rats.",
+    "bbox": [
+      50.74020004272461,
+      402.4776916503906,
+      285.30731201171875,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "7. The Boathouse",
+    "bbox": [
+      50.74020004272461,
+      430.3297119140625,
+      285.30731201171875,
+      451.78570556640625
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The crumbling boathouse is used as a shelter by the village’s beggars. It reeks of urine and vomit, and contains nothing more than tattered, lice-ridden blankets and cast-off rags of clothing.",
+    "bbox": [
+      50.74020004272461,
+      448.877685546875,
+      285.30731201171875,
+      487.39569091796875
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "THE OUTLAW CAMP",
+    "bbox": [
+      294.9920959472656,
+      58.24270248413086,
+      452.7281188964844,
+      80.89070129394531
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The outlaw camp lies just over a mile from the village, and is well concealed. Unless led there by Hilda (see The Outlaws’ Spy, page 71), the adventurers will only find it after a thorough search of the surrounding forest. A successful",
+    "bbox": [
+      294.9920959472656,
+      89.27771759033203,
+      529.5594482421875,
+      139.3957061767578
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Difficult (-10) Track",
+    "bbox": [
+      294.9920959472656,
+      124.07770538330078,
+      529.5594482421875,
+      150.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test will reveal intentionally obscured tracks leading to the outlaw camp. With Hilda leading the way, it takes about half an hour to reach the camp.",
+    "bbox": [
+      294.9920959472656,
+      135.67767333984375,
+      529.5594482421875,
+      174.19569396972656
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Forest",
+    "bbox": [
+      294.9920959472656,
+      175.12969970703125,
+      529.5594482421875,
+      196.58570861816406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The forest surrounding the village is dark and sinister. Tall trees spiral upwards to the sky, blocking out the light. The floor of the forest is covered with sickly-looking fungal growths, and tree roots seem to reach out to snag passers-by. Although no one will ever see a root move, you may impose Athletics and/or Perception Tests at intervals, to avoid tripping.",
+    "bbox": [
+      294.9920959472656,
+      193.67767333984375,
+      529.5594482421875,
+      266.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Hilda seems alert, but unaffected by her surroundings. If the adventurers ask about the forest, she will say that although it has changed dramatically since the storm (see Winds of Change page 69), it is usually safe during the day. During the night, though, terrible creatures come out to hunt.",
+    "bbox": [
+      294.9920959472656,
+      274.877685546875,
+      529.5592041015625,
+      336.595703125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Fungus",
+    "bbox": [
+      294.9920959472656,
+      337.5296936035156,
+      529.5592041015625,
+      358.9856872558594
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The fungus that covers the trees has a warty skin, an unpleasant colouration and a musty smell. A close inspection reveals what might be crude caricatures of human facial features, leering out of a mass of decay.",
+    "bbox": [
+      294.9920959472656,
+      356.07769775390625,
+      529.5592041015625,
+      406.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The fungus is harmless unless eaten. Anyone foolish enough to eat it must make a",
+    "bbox": [
+      294.9920959472656,
+      414.07769775390625,
+      529.542236328125,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Endurance",
+    "bbox": [
+      294.9920959472656,
+      425.6777038574219,
+      529.542236328125,
+      440.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test or spend 2 Rounds vomiting. Even those who successfully pass their test will be afflicted by stomach pains after 30 minutes, lasting for 1d10 hours. During this time all Tests suffer a -20 penalty.",
+    "bbox": [
+      294.9920959472656,
+      425.6777038574219,
+      529.542236328125,
+      475.7956848144531
+    ]
+  }
+]

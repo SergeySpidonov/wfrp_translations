@@ -1,0 +1,112 @@
+[
+  {
+    "type": "body",
+    "text": "There is a large key (to Area D, below) on the altar, and next to it is a leather-bound book lying open at the section that tells the Legend of Sigmar. Anyone who examines the book will notice that it is resting on an ancient piece of parchment. The parchment is also written in Classical, and foretells Sigmar’s return to save the Empire in its hour of direst need (see handout below). Any Character who reads this aloud (you may determine if it is with suitable reverence) will receive a blessing.",
+    "bbox": [
+      50.74020004272461,
+      66.07782745361328,
+      285.32891845703125,
+      162.5957794189453
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The lanterns dim and then flare brightly, and the statue’s eyes glitter with intelligence and life. A voice, audible only to the Character who read from the parchment, says, ‘ That hour is fast approaching. Will you be ready? ’ If the Character replies in the affirmative, the voice continues. ‘ I shall give you a sign. Go now, and find the source of the chaos which warps my lands .’ The lanterns dim and flare again, leaving the statue looking normal. The blessed Character will be healed of any and all wounds, and will a gain a +10 bonus to all Fear Tests for the next 24 hours.",
+    "bbox": [
+      50.7401008605957,
+      286.4778137207031,
+      285.31536865234375,
+      394.5957946777344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Other Characters may read the scroll to receive the same blessing, but no one may receive it more than once. Those who are mocking or disrespectful, or who fail to announce their readiness, will never receive the blessing.",
+    "bbox": [
+      50.7401008605957,
+      402.4778137207031,
+      285.299072265625,
+      452.5957946777344
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Charm",
+    "bbox": [
+      306.7815856933594,
+      391.02581787109375,
+      519.599609375,
+      403.01580810546875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "B",
+    "bbox": [
+      92.97640228271484,
+      567.8464965820312,
+      97.45840454101562,
+      578.574462890625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "A",
+    "bbox": [
+      129.40159606933594,
+      598.0355224609375,
+      134.04559326171875,
+      608.7634887695312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "C D",
+    "bbox": [
+      167.66929626464844,
+      538.6497192382812,
+      209.5395050048828,
+      552.4517211914062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "E F",
+    "bbox": [
+      63.35430145263672,
+      574.3662109375,
+      177.59559631347656,
+      586.7949829101562
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "G",
+    "bbox": [
+      56.692901611328125,
+      544.8859252929688,
+      62.54290008544922,
+      555.6138916015625
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "H I",
+    "bbox": [
+      76.96060180664062,
+      693.5630493164062,
+      315.19488525390625,
+      707.5509033203125
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "A B C D E F G H I",
+    "bbox": [
+      514.771728515625,
+      620.3519897460938,
+      518.2267456054688,
+      676.072021484375
+    ]
+  }
+]

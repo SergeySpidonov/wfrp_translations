@@ -1,0 +1,142 @@
+[
+  {
+    "type": "h1",
+    "text": "THE JOURNEY TO THE MINE",
+    "bbox": [
+      50.74020004272461,
+      429.4427185058594,
+      273.7983093261719,
+      452.0907287597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "After talking to the Dwarfs, or after noticing the pattern of attacks on farmsteads, the adventurers may decide to investigate the mine and Etelka Herzen’s house. A rough trackway (see the map above) leads south out of the town toward Black Peaks, winding through the forest for about six and a half miles.",
+    "bbox": [
+      50.74020004272461,
+      460.4776916503906,
+      285.3163146972656,
+      522.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "About a mile from the mine, the adventurers discover a Dwarf propped against a tree. He is ringed by four dead Goblins. The Dwarf is close to death himself, and has three Goblin arrows embedded in his chest. The Dwarf is Durak, a prospector from Khazid Slumbol.",
+    "bbox": [
+      50.74020004272461,
+      530.0776977539062,
+      285.29010009765625,
+      591.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "‘Gobboes!’ he gasps. ‘They’re in the mine — lots of them. They’re taking our gold!’",
+    "bbox": [
+      50.74020004272461,
+      599.6776733398438,
+      285.07330322265625,
+      626.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Durak passes out after delivering this message, and will bleed to death in 5 Rounds unless he receives treatment that restores at least 1 Wound.",
+    "bbox": [
+      50.74020004272461,
+      634.4777221679688,
+      285.2892150878906,
+      672.9956665039062
+    ]
+  },
+  {
+    "type": "body",
+    "text": "A successful",
+    "bbox": [
+      50.74020004272461,
+      680.877685546875,
+      285.30389404296875,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Average (+20) Survival",
+    "bbox": [
+      50.74020004272461,
+      680.877685546875,
+      285.30389404296875,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test or",
+    "bbox": [
+      50.74020004272461,
+      680.877685546875,
+      285.30389404296875,
+      696.1956787109375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Challenging (+0) Perception",
+    "bbox": [
+      50.74020004272461,
+      680.877685546875,
+      285.30389404296875,
+      707.7957153320312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Test reveals wolf tracks leading to and from the mine.",
+    "bbox": [
+      50.74020004272461,
+      692.4777221679688,
+      285.30389404296875,
+      719.3956909179688
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "BLACK PEAKS",
+    "bbox": [
+      294.9920959472656,
+      429.4427185058594,
+      529.568359375,
+      452.0907287597656
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The track winds up a hill, and from the top the adventurers can see a grey stone building and the mine entrance. During the day, the area appears deserted, but at night there are lights in the windows of the tower and, depending on the time, possibly some activity around the mine entrance.",
+    "bbox": [
+      294.9920959472656,
+      448.877685546875,
+      529.568359375,
+      510.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The mine at Black Peaks gets its name from the coal that it formerly produced. Etelka Herzen came here three years ago after leaving the university of Nuln. The Dwarfs had exhausted the mine, and accepted her offer to buy it along with the surrounding land. Etelka hired the Dwarfs to build her a tower, and after its completion they moved to Grissenwald and built Khazid Slumbol.",
+    "bbox": [
+      294.9920959472656,
+      518.4777221679688,
+      529.5591430664062,
+      603.3956909179688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Etelka has made contact with the remnants of a tribe of Goblins who haunt the surrounding forest. The Goblins moved into the mine with their wolves, and performed various tasks for her. With Etelka away on a mission for the Red Crown, the Goblins have no one to stop them following their violent instincts, and Gutbag, their leader, has been organising raids on surrounding farmsteads.",
+    "bbox": [
+      294.9920959472656,
+      611.2777099609375,
+      529.5331420898438,
+      696.1956787109375
+    ]
+  }
+]

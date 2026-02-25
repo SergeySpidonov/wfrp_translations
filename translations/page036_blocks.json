@@ -1,0 +1,332 @@
+[
+  {
+    "type": "bold",
+    "text": "Ernst Heidlemann",
+    "bbox": [
+      82.20469665527344,
+      283.4717102050781,
+      316.7618408203125,
+      303.89569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Ernst is a thin, lanky, weasel-faced individual with light-brown hair and a pasty complexion. He masquerades as a recently qualified physician in the employ of Lady Etelka, and maintains this deception by refusing to treat anyone but her. Ernst is quiet and reserved, seldom speaking, but is often rude to those who are of no use to him. He is cruel and calculating, and while on the mission he will hire thugs to deal with any opposition, saving his powers until he can use them to the best effect.",
+    "bbox": [
+      82.20469665527344,
+      298.07769775390625,
+      316.7618408203125,
+      394.595703125
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "The Dwarven Engineers",
+    "bbox": [
+      326.4566955566406,
+      59.129703521728516,
+      561.0131225585938,
+      80.58570098876953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Of the twelve Dwarven engineers who started work on the site under the leadership of Aynjulls Isembeard, only six now remain — and at least two of them seem determined to desert their posts.",
+    "bbox": [
+      326.4566955566406,
+      77.67768096923828,
+      561.0131225585938,
+      127.79573059082031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Aynjulls Isembeard",
+    "bbox": [
+      326.4566955566406,
+      341.4717102050781,
+      561.0184936523438,
+      361.89569091796875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Aynjulls usually wears an oil-stained leather jacket, bright- red breeches, and great hobnailed boots. Fiercely proud of her reputation for swift and reliable work, she can be a somewhat gruff and surly character. The continuing disappearance of her workforce has shaken her to the point where she is ready to try anything — even if it means asking for help from an Elf!",
+    "bbox": [
+      326.4566955566406,
+      356.07769775390625,
+      561.0184936523438,
+      429.39569091796875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "AYNJULLS ISEMBEARD – DWARF MASTER ENGINEER (SILVER 4)",
+    "bbox": [
+      363.8544921875,
+      437.77520751953125,
+      520.9335327148438,
+      461.2951965332031
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      342.6893005371094,
+      465.3751220703125,
+      542.3330688476562,
+      477.29510498046875
+    ]
+  },
+  {
+    "type": "body",
+    "text": "3 41 42 33 42 38 20 54 48 52 20 16",
+    "bbox": [
+      344.1991882324219,
+      479.7170104980469,
+      542.8380737304688,
+      495.0350036621094
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      337.7951965332031,
+      493.3515930175781,
+      461.0047912597656,
+      508.6695861816406
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Armour (Leather Jack) 1, Weapon (Hand Axe) +7,",
+    "bbox": [
+      337.7951965332031,
+      493.3515930175781,
+      461.0047912597656,
+      519.4696044921875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      337.7951965332031,
+      517.7863159179688,
+      526.33349609375,
+      533.1043090820312
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Consume Alcohol 47, Cool 57, Dodge 25, Drive 30, Endurance 52, Evaluate 53, Language (Classical 58, Guilder 53, Khazalid 51), Leadership 26, Lore (Dwarfs 51, Engineer 58, Geology 53, Metallurgy 53), Melee (Basic) 44, Navigation 43, Perception 43, Ranged (Blackpowder 52, Engineering 52), Research 58, Ride (Horse) 25, Secret Signs (Guilder) 49, Trade (Engineer) 64",
+    "bbox": [
+      337.7951965332031,
+      517.7863159179688,
+      526.33349609375,
+      619.5042724609375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      337.7951965332031,
+      617.8208618164062,
+      494.77264404296875,
+      633.1388549804688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Craftsman (Engineer), Etiquette (Guilder, Scholar), Hatred (Greenskins), Magic Resistance, Master Tradesman (Engineering), Night Vision, Read/Write",
+    "bbox": [
+      337.7951965332031,
+      617.8208618164062,
+      494.77264404296875,
+      665.5388793945312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      337.7951965332031,
+      663.8555908203125,
+      518.01220703125,
+      679.173583984375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "3 GCs 4/-, Carpenter’s Tools, Dwarven Engineers’ Guild Ring (5 GCs), Hand Axe, Leather Jack, Stonemason’s Tools",
+    "bbox": [
+      337.7951965332031,
+      663.8555908203125,
+      518.01220703125,
+      700.7736206054688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "ERNST HEIDLEMANN – HUMAN WIZARD'S APPRENTICE (BRASS 3)",
+    "bbox": [
+      110.8373031616211,
+      403.759521484375,
+      285.46734619140625,
+      427.27947998046875
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "M WS BS S T I Agi Dex Int WP Fel W",
+    "bbox": [
+      98.4468002319336,
+      431.3594055175781,
+      298.090576171875,
+      443.2793884277344
+    ]
+  },
+  {
+    "type": "body",
+    "text": "4 39 31 31 23 32 29 27 47 39 29 10",
+    "bbox": [
+      99.95680236816406,
+      445.7012023925781,
+      298.5954895019531,
+      461.0191955566406
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Traits:",
+    "bbox": [
+      93.55269622802734,
+      459.3359069824219,
+      195.27023315429688,
+      474.6539001464844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Weapon (Sword) +7",
+    "bbox": [
+      93.55269622802734,
+      459.3359069824219,
+      195.27023315429688,
+      474.6539001464844
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Skills:",
+    "bbox": [
+      93.55269622802734,
+      472.9704895019531,
+      292.2091369628906,
+      488.2884826660156
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Charm 34, Dodge 32, Evaluate 52, Gossip 32, Intuition 37, Language (Magick) 54, Language (Wastelander) 50, Leadership 32, Lore (Magick 51, Reikland 52), Melee (Basic 45, Polearm 43), Perception 37",
+    "bbox": [
+      93.55269622802734,
+      472.9704895019531,
+      292.2091369628906,
+      531.4884643554688
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Talents:",
+    "bbox": [
+      93.55269622802734,
+      529.80517578125,
+      254.1468048095703,
+      545.1231689453125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Acute Sense (Smell), Doomed ( Thy Death Shall Go Unwitnessed ), Flee!, Petty Magic, Read/Write, Savvy",
+    "bbox": [
+      93.55269622802734,
+      529.80517578125,
+      254.1468048095703,
+      566.7232055664062
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Trappings:",
+    "bbox": [
+      93.55269622802734,
+      565.039794921875,
+      305.69085693359375,
+      580.3577880859375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Travelling Case (including personal effects and 8 Vials of a bright red liquid, a preparation for the alleviation of his Wasting Sickness), Sword, 33 GC, 15/3.",
+    "bbox": [
+      93.55269622802734,
+      565.039794921875,
+      305.69085693359375,
+      601.9578247070312
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "SPELLS",
+    "bbox": [
+      184.1656036376953,
+      603.257080078125,
+      212.50559997558594,
+      615.1770629882812
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Petty Magic:",
+    "bbox": [
+      93.55269622802734,
+      616.7437133789062,
+      305.41827392578125,
+      632.0617065429688
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Dart, Drain, Magic Flame, Purify Water, Shock, Warning",
+    "bbox": [
+      93.55269622802734,
+      616.7437133789062,
+      305.41827392578125,
+      642.8616943359375
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Wasting Sickness",
+    "bbox": [
+      93.55269622802734,
+      642.595703125,
+      301.45135498046875,
+      657.9136962890625
+    ]
+  },
+  {
+    "type": "body",
+    "text": ": Ernst suffers from a wasting disease, an affliction that is slowly eating away at his being. He has been supplied by his masters with a preparation to offset this affliction, and he carries the vials with him at all times. Without it, he loses 1 Toughness point every 12 hours, dying when his Toughness reaches zero.",
+    "bbox": [
+      93.55269622802734,
+      642.595703125,
+      301.45135498046875,
+      711.9136962890625
+    ]
+  }
+]

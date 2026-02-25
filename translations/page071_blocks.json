@@ -1,0 +1,142 @@
+[
+  {
+    "type": "h2",
+    "text": "Day 3",
+    "bbox": [
+      50.74020004272461,
+      59.129703521728516,
+      87.78559875488281,
+      80.58570098876953
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "Three Pints and Three Straws",
+    "bbox": [
+      50.74020004272461,
+      86.27171325683594,
+      285.28741455078125,
+      106.69571685791016
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The next time the adventurers visit The Shooting Star inn (Location 2), three castle guards enter. They take a moment to look around at the locals, who cower in their seats. They order three drinks and stare around menacingly. They do not remove their helmets to drink; instead each one produces a straw.",
+    "bbox": [
+      50.74020004272461,
+      100.87769317626953,
+      285.28741455078125,
+      162.59571838378906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Anyone who attempts to leave will be aggressively told: ‘ Stay where you are! ’ The guards want to find out about the outlaws who have been attacking their patrols.",
+    "bbox": [
+      50.74020004272461,
+      170.47772216796875,
+      285.28082275390625,
+      208.9956817626953
+    ]
+  },
+  {
+    "type": "body",
+    "text": "They start off by threatening everyone present and demanding to know where the outlaws are hiding. None of the locals say anything — this angers the guards and one of them strikes the oldest local with a mailed fist, causing blood to run down his face. The guards demand information again, and again, but none is given. Then they drag the old man outside. ‘ Watch this, ’ one says, ‘ and remember that next time it could be you. Maybe that will make you more helpful .’ Unless stopped, the guards hang the old man from a tree while the villagers look on. A variation of this scene will be repeated each day until the adventurers intervene.",
+    "bbox": [
+      50.74020004272461,
+      216.877685546875,
+      285.3081359863281,
+      336.595703125
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The guards will defend themselves if the adventurers attack, but will flee if any of them are incapacitated. If the guards are driven off, the villagers become more friendly, and Hilda (see below)",
+    "bbox": [
+      50.74020004272461,
+      344.4776916503906,
+      285.28118896484375,
+      382.9956970214844
+    ]
+  },
+  {
+    "type": "body",
+    "text": "offers to lead the adventurers to the outlaw camp. Staying in the village would be a mistake, as Kratz and a dozen guards come down from the castle after 2 hours, and conduct a thorough house-to-house search for the adventurers.",
+    "bbox": [
+      294.9920959472656,
+      66.07770538330078,
+      529.5403442382812,
+      116.19569396972656
+    ]
+  },
+  {
+    "type": "bold",
+    "text": "The Outlaws’ Spy",
+    "bbox": [
+      294.9920959472656,
+      121.07170104980469,
+      529.5411987304688,
+      141.49569702148438
+    ]
+  },
+  {
+    "type": "body",
+    "text": "After any fight with the castle guards, the adventurers are approached by Hilda. This young woman is the outlaws’ spy in the village (see The Outlaw Camp, page 79). She offers to take them to the outlaw camp, pointing out that more guards are likely to come looking for them in the village.",
+    "bbox": [
+      294.9920959472656,
+      135.67767333984375,
+      529.5411987304688,
+      197.3957061767578
+    ]
+  },
+  {
+    "type": "h1",
+    "text": "WITTGENDORF VILLAGE",
+    "bbox": [
+      294.9920959472656,
+      209.04269409179688,
+      479.49920654296875,
+      231.69068908691406
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "1. The Wharf",
+    "bbox": [
+      294.9920959472656,
+      244.72970581054688,
+      529.568115234375,
+      266.1856994628906
+    ]
+  },
+  {
+    "type": "body",
+    "text": "Wittgendorf's crumbling, neglected wharf has been home to more rats than boats in recent years.",
+    "bbox": [
+      294.9920959472656,
+      263.2777099609375,
+      529.568115234375,
+      290.1956787109375
+    ]
+  },
+  {
+    "type": "h2",
+    "text": "2. The Shooting Star Inn",
+    "bbox": [
+      294.9920959472656,
+      291.12969970703125,
+      529.568115234375,
+      312.585693359375
+    ]
+  },
+  {
+    "type": "body",
+    "text": "The Shooting Star was once a thriving inn, but its occupants now rarely number more than the landlord and a handful of locals who have not yet been seriously affected by Rousseaux’s rotgut. Both the landlord, Herbert Marcuse, and the locals avoid talking to outsiders if possible, but they will respond to direct questions regarding the village and its surroundings.",
+    "bbox": [
+      294.9920959472656,
+      309.6777038574219,
+      529.568115234375,
+      382.9956970214844
+    ]
+  }
+]
